@@ -1,1 +1,1 @@
-# corpus_linguistics
+Corpus linguistics: final project
