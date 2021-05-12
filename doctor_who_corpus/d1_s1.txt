@@ -1,5 +1,5 @@
-Episode one - An Unearthly Child
-
+An Unearthly Child
+Original Airdate: 23 Nov, 1963
 GIRL: Night, Miss Wright.
 BARBARA: Wait in here, please, Susan. I won't be long.
 BOY: Goodnight, Miss Wright.
@@ -127,7 +127,7 @@ BARBARA: Look, I've had enough. Let's go and find a policeman.
 IAN: Yes, all right.
 BARBARA: Is that her?
 IAN: That's not her. Quick.
-SUSAN: There you are, Grandfather.
+SUSAN : There you are, Grandfather.
 BARBARA: It's Susan.
 IAN: Shush!
 IAN: Excuse me.
@@ -139,7 +139,7 @@ DOCTOR: What do you want?
 IAN: One of our pupils, Susan Foreman, came into this yard.
 DOCTOR: Really? In here? Are you sure?
 BARBARA: Yes, we saw her from across the street.
-DOCTOR: One of their pupils, not the police, then.
+DOCTOR:  One of their pupils, not the police, then.
 IAN: I beg your pardon?
 DOCTOR: Why were you were spying on her? Who are you?
 IAN: We heard a young girl's voice call out to you.
@@ -172,7 +172,7 @@ DOCTOR: I'm not hindering you. If you both want to make fools of yourselves, I s
 IAN: While you nip off quietly in the other direction.
 DOCTOR: Insulting. There's only one way in and out of this yard. I shall be here when you get back. I want to see your faces when you try to explain away your behaviour to a policeman.
 IAN: Nevertheless, we're going to find one. Come on, Barbara.
-SUSAN: What are you doing out there?
+SUSAN : What are you doing out there?
 IAN: She is in there!
 DOCTOR: Close the door!
 IAN: Barbara!
@@ -264,12 +264,9 @@ SUSAN: Oh, no, Grandfather! No!
 DOCTOR: Let me go.
 SUSAN: No!
 DOCTOR: Get back to the ship, child. Hold it.
-
-
 Episode two - The Cave of Skulls
-
 MOTHER: Where is the fire Za makes?
-HUR: In his hands. We are not going to the wood.
+HUR:  In his hands. We are not going to the wood.
 ZA: My father made fire.
 MOTHER: They killed him for it. It is better that we live as we have always done.
 ZA: He showed me how to sharpen the stones and trap the bear and the tiger. He should have shown me this, too.
@@ -279,20 +276,12 @@ MOTHER: I never saw him make it. That is all I know.
 ZA: Out of my sight, old woman. You should have died with him.
 MOTHER: Za will never make fire.
 ZA: Put on more of the dead fire.
-HUR: The old men are talking against you, Za. They say it would be better for the stranger Kal to lead us.
-ZA: Kal?
-HUR: They say you sit all day rubbing your hands together while he brings us meat.
-ZA: Without meat, we go hungry. Without fire, we die.
-HUR: Old men see no further than tomorrow's meat. They will make Kal the leader. My father will give me to him.
-ZA: Kal is no leader.
-HUR: The leader is the one who makes fire.
-ZA: Where has the fire gone? Where? Where?
 BARBARA: Ian? Ian.
 IAN: I'm all right. I must have hit my head. The movement's stopped.
 SUSAN: The base is steady.
 DOCTOR: Layer of sand, rock formation. Good.
 SUSAN: We've left 1963.
-DOCTOR: Oh, yes, undoubtedly. I'll be able to tell you where presently. Zero? That's not right. I'm afraid this yearometer is not calculating properly. Hm! Well, anyway, the journey's finished. What are you doing down there?
+DOCTOR: Oh, yes, undoubtedly. I'll be able to tell you where presently. Zero? That's not right. I'm afraid this yearometer is not calculating properly. Hm! Well, anyway, the journey's finished.  What are you doing down there?
 BARBARA: What have you done?
 IAN: Barbara, you don't believe all this nonsense.
 SUSAN: Well, look at the scanner screen.
@@ -329,7 +318,7 @@ DOCTOR: That is quite correct. But your tone suggests ridicule.
 IAN: But it is ridiculous. Time doesn't go round and round in circles. You can't get on and off whenever you like in the past or the future.
 DOCTOR: Really? Where does time go, then?
 IAN: It doesn't go anywhere. It just happens and then it's finished.
-DOCTOR: You're not as doubtful as your friend, I hope?
+DOCTOR:  You're not as doubtful as your friend, I hope?
 BARBARA: No.
 IAN: Barbara, you can't
 BARBARA: I can't help it. I just believe them, that's all.
@@ -340,7 +329,7 @@ IAN: It's not true. It can't be.
 SUSAN: That's not on the screen.
 DOCTOR: Well I've no more time to argue with you. I must get some samples, Susan.
 SUSAN: Be careful, Grandfather.
-DOCTOR: Oh, dear, it's disgusting really.
+DOCTOR:  Oh, dear, it's disgusting really.
 BARBARA: Ian, come out and look.
 SUSAN: Oh here, lean on me.
 IAN: No, thank you. I'm all right, thanks.
@@ -374,9 +363,9 @@ IAN: Susan.
 SUSAN: I must see.
 IAN: Well, be careful then.
 BARBARA: Ian, look.
-IAN: It's not much good any more.
+IAN:  It's not much good any more.
 BARBARA: Well, maybe he saw something and went off to investigate.
-IAN: Leaving this?
+IAN: Leaving this? 
 BARBARA: Well, what do you think happened?
 IAN: I don't know. Perhaps he was excited and went off to investigate something as you suggest, but. He may have been taken.
 SUSAN: I can't see him. I can't find him anywhere. There's not a sign of him.
@@ -386,7 +375,7 @@ SUSAN: It's his notes. He'd never leave his notebook. It's too important to him.
 BARBARA: Susan, Susan. We'll find him, I promise you. He can't be far away.
 IAN: What's on the other side of those rocks?
 SUSAN: There's a line of trees. There's a gap in them. There might be a path on the other side.
-IAN: All right, we'll try there first. Come on. Strange.
+IAN:  All right, we'll try there first. Come on. Strange.
 BARBARA: What?
 IAN: This sand. It's cold. It's nearly freezing.
 HORG: Kal says, where he comes from, he's often seen men make fire.
@@ -426,7 +415,7 @@ ZA: What does he say?
 HORG: Fire? He says he can make fire for us.
 KAL: He makes it for me and I give you fire. I am firemaker.
 ZA: He will make it for me.
-DOCTOR: My matches. Where are they? I must get back. Must get back to the ship.
+DOCTOR:  My matches. Where are they? I must get back. Must get back to the ship.
 KAL: Kal's creature, he makes fire only for Kal.
 DOCTOR: Take me back to my ship and I will make fire for you. All the fire you want.
 ZA: This is more of your lies. The old man cannot make fire.
@@ -465,9 +454,7 @@ DOCTOR: We should use our cunning. I hope you can get yourself free, Chesterton.
 SUSAN: Don't blame yourself, Grandfather.
 DOCTOR: Look at that. Look at it. 
 IAN: They're all the same. They've been split open.
-
 Episode Three - The Forest Of Fear
-
 DOCTOR: Oh, I'm sorry. I'm sorry, it's all my fault. I'm desperately sorry.
 SUSAN: Oh, don't blame yourself, Grandfather.
 DOCTOR: Look at those. Look at them. 
@@ -584,7 +571,7 @@ HUR: We cannot turn back now.
 IAN: I think we'd better get going. Doctor, will you lead?
 DOCTOR: Yes, yes, yes, yes.
 IAN: Come on, Barbara.
-IAN: Barbara, Barbara.
+IAN : Barbara, Barbara.
 ZA: Down here. That was one of the women.
 SUSAN: A dead animal.
 DOCTOR: It must have just been killed. By a larger animal, too.
@@ -689,10 +676,7 @@ KAL: Za has gone with them, taking them to their cave. Za takes away fire. Now I
 IAN: Hold the branches back, Susan.
 SUSAN: The Tardis! There's the Tardis!
 IAN: Back! Back! Go back.
-
-
 Episode Four - The Firemaker
-
 IAN: Back. Get back.
 HORG: They are coming.
 KAL: Za and the woman went with them. I, Kal, stop them.
@@ -712,11 +696,11 @@ DOCTOR: It is a finer knife than yours.
 KAL: I, Kal, say it is a bad knife.
 DOCTOR: This knife can cut and stab. I have never seen a better knife.
 KAL: I will show you one.
-DOCTOR: This knife shows what it has done. There is blood on it. Who killed the old woman?
+DOCTOR: This knife shows what it has done. There is blood on it.  Who killed the old woman?
 ZA: I did not kill her.
-DOCTOR: You killed the old woman.
+DOCTOR:  You killed the old woman.
 KAL: Yes! She set them free. She set them free. She did this. I, Kal, killed her.
-DOCTOR: Is this your strong leader? One who kills your old women? He is a bad leader. He will kill you all. Yes, all. Follow my example.
+DOCTOR: Is this your strong leader? One who kills your old women? He is a bad leader. He will kill you all. Yes, all.  Follow my example.
 DOCTOR: Drive him out. Out.
 IAN: Yes, drive him out. He killed the old woman.
 TRIBE: Drive him out.
@@ -750,7 +734,7 @@ SUSAN: I think this is what you want, Mister Chesterton.
 IAN: Thank you.
 BARBARA: Here are some leaves, and some dead grass.
 IAN: Yes, well spread them around the hole. Don't put them inside. I hope this is going to work. Now, spread them around a bit more. Yes, that's it.
-ZA: I will speak with them. You wait here.
+ZA:  I will speak with them. You wait here.
 SUSAN: I can smell something.
 BARBARA: Yes, so can I.
 SUSAN: It's burning! It's burning!
@@ -818,7 +802,7 @@ ZA: You will stay here. I have the meat and I have the stick, and a piece of ski
 IAN: We don't want to stay here.
 ZA: Why? There is no better place the other side of the mountains. Do not try to leave here.
 DOCTOR: Quench the fire. Take the fire away from them. Scaring them, somehow.
-SUSAN: Hey, Grandfather, look! It's almost alive.
+SUSAN:  Hey, Grandfather, look! It's almost alive.
 IAN: Not alive, Susan. Almost dead. We're going to make four torches. We'll find the sticks. And we'll use the fat from the meat. And then
 SUSAN: And then?
 IAN: And then, to all intents and purposes, we're going to die.
@@ -848,3 +832,6 @@ DOCTOR: It could be anywhere. Dear, dear, dear, dear. It's no help to us at all.
 SUSAN: Oh, yes.
 DOCTOR: Now what does the radiation read, Susan?
 SUSAN: It's reading normal, Grandfather.
+Next episode - The Dead Planet
+<Back to the episode listing
+Doctor Who and related marks are trademarks of BBC . Copyright © 1963, Present. The web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

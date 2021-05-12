@@ -2,72 +2,56 @@ import re
 import sys
 import os
 
-file = "/home/andrea/EN2033/final_project/doctor_who_corpus/prueba/d1_s1.txt"
-
-def remove_parentheses():
-    with open(file, "r") as f:
+#This function removes everything inside parentheses (including the parentheses)
+def remove_parentheses(file_path):
+    with open(file_path, "r") as f:
         data = f.read()
 
-    with open(file, "w") as f:
+    with open(file_path, "w") as f:
         f.write(re.sub(r"\(([^\)]+)\)", "", data))
 
 
-file2 = "/home/andrea/EN2033/final_project/doctor_who_corpus/prueba/d1_s1.txt"
-
-def remove_brackets():
-    with open(file2, "r") as z:
+#This function removes everything inside square brackets (including the square brackets)
+def remove_brackets(file_path):
+    with open(file_path, "r") as z:
         data = z.read()
 
-    with open(file2, "w") as z:
+    with open(file_path, "w") as z:
         z.write(re.sub(r"\[(.*?)\]", "", data))
 
 
-
-def remove_blank_lines():
-    with open(file2, "r") as f:
+#This function removes any blanck line
+def remove_blank_lines(file_path):
+    with open(file_path, "r") as f:
         lines = f.readlines()
 
-    with open(file2, "w") as f:
+    with open(file_path, "w") as f:
         for line in lines:
             if line.strip("\n") != "":
                 f.write(line)
                 #print(f)
 
 
-entries = os.listdir('/home/andrea/EN2033/final_project/doctor_who_corpus/prueba')
-for entry in entries:
-    #print(entry)
-    remove_parentheses()
-    remove_brackets()
-    remove_blank_lines()
 
+file_folder = '/home/andrea/repos/corpus_linguistics/doctor_who_corpus/first_doctor'
 
+#This function checks all the files in a directory and picks up only the .txt files.
+#Once the .txt files are collected, it gets the path for every .txt file.
+def complete_process(some_directory):
+    txt_files = []
+    for file_name in os.listdir(some_directory):
+        #print(file_name)
+        if file_name.endswith('.txt'):
+            txt_files.append(file_name)
+        
+    #print(txt_files)
+    for file in txt_files:
+        #dict[file] = 
+        file_path = some_directory + "/" + file
+        #print(file_path)
+        remove_parentheses(file_path)
+        remove_brackets(file_path)
+        remove_blank_lines(file_path)
+    
 
-'''
-file3 = "/home/andrea/EN2033/final_project/doctor_who_corpus/d1_s1.txt"
-
-# Read lines as a list
-fh = open(file3, "r")
-lines = fh.readlines()
-fh.close()
-
-# Weed out blank lines with filter
-lines = filter(lambda x: not x.isspace(), lines)
-
-# Write
-fh = open("output", "w")
-fh.write("".join(lines))
-# should also work instead of joining the list:
-# fh.writelines(lines)
-fh.close()
-'''
-
-
-
-
-#myfile = "/home/andrea/EN2033/final_project/doctor_who_corpus/myfile.txt"
-
-#print(myfile)
-
-
-
+complete_process(file_folder)
