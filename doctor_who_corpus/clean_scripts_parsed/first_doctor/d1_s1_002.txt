@@ -1,9 +1,17 @@
 The Daleks
+
+
 Episode One - The Dead Planet
+[Tardis]
+
 DOCTOR: Well, I suggest before we go outside and explore, let us clean ourselves up.
 SUSAN: Oh, yes.
 DOCTOR: Now what does the radiation read, Susan?
 SUSAN: It's reading normal, Grandfather.
+(But after they walk away, the needle goes up into the Danger Zone)
+
+[Forest]
+
 BARBARA: There's been a forest fire. Everything's sort of white and ashen.
 IAN: Funny mist.
 DOCTOR: The heat must have been indescribable. Look at this soil here. Look at it. It's all turn to sand and ashes. Extraordinary. How can shrubs or trees grow in soil like that, hmm?
@@ -12,11 +20,13 @@ SUSAN: Well?
 IAN: Well, look at the branches and things.
 SUSAN: They don't seem to be moving.
 BARBARA: They're not. They're absolutely still.
+(Ian touches a twig, and it breaks easily)
 IAN: Huh. Like stone, look. Very brittle stone. It crumbles when you touch it. Look.
 DOCTOR: It's petrified. How fascinating, a petrified jungle. Hm. Extraordinary. Yes, I must really investigate that. Couldn't have been heat, then, and age would merely decay.
 SUSAN: What could have caused it, Grandfather?
 DOCTOR: I don't know, I don't know, but I intend to find out.
 SUSAN: Well I'm coming too.
+(The Doctor and Susan go exploring)
 BARBARA: Ian, where are we?
 IAN: I don't know.
 BARBARA: Well why doesn't he take us back?
@@ -31,6 +41,7 @@ BARBARA: But don't be too complacent. No, you're right, I suppose. I just wish
 IAN: We'll be all right.
 BARBARA: Yes. Well, I suppose we'd better make sure he doesn't fall down and break a leg. Don't you ever think he deserves something to happen to him?
 IAN: Yes.
+(Further on, Susan has made a discovery)
 SUSAN: Oh Grandfather, look! It's a flower. A perfect flower. Well, it's even kept some of it's colour.
 DOCTOR: Yes, very pretty, very pretty. Hm.
 SUSAN: Hey, look. Look what I've found.
@@ -42,7 +53,9 @@ BARBARA: Ian!
 SUSAN: going to put it into a glass and
 BARBARA: Ian!
 IAN: Coming, coming.
+(And he puts the flower in Susan's hands, and it breaks)
 IAN: What is it? What's the matter?
+(Barbara points at a lizard)
 BARBARA: No!
 IAN: It's all right. Like everything else in this place, solid stone.
 BARBARA: It's hideous.
@@ -76,11 +89,14 @@ BARBARA: Oh, Doctor, have you worked out yet how all this happened?
 DOCTOR: No, not really, not really. Whatever it was destroyed everything that was living, but the planet is dead, totally dead.
 IAN: Barbara, Doctor. Over here.
 DOCTOR: What is it, Chesterton? We really must get back to
+(From the edge of the petrified jungle they can see across a plain to a city)
 DOCTOR: Most fascinating.
 BARBARA: A city, a huge city.
+(The Doctor puts on a pair of binocular glasses)
 IAN: Well, Doctor? Can you see anything? Any sign of life?
 DOCTOR: No, no, no sign of life. No, just buildings. Magnificent buildings, I
 SUSAN: Oh, let me have a look. It's fabulous. Here, you have a look.
+(Barbara takes her turn)
 IAN: What do you think, Doctor?
 DOCTOR: I don't know, I don't know. Whatever it was destroyed the vegetation here certainly hasn't damaged the city. But there's no sign of life. No movement, no light, no. No, I shall know more about it when I've been down there.
 BARBARA: Down there? Oh, no. We're going back to the ship.
@@ -91,15 +107,22 @@ DOCTOR: Yes, yes, yes, all right then. But I assure you I'm determined to study 
 IAN: You can do what you like, as long as you don't endanger the rest of us.
 DOCTOR: Very well then. I shall look at it myself, alone.
 IAN: You're the only one who can operate the ship. I'm afraid I can't let you do that, Doctor. Your glasses.
+(Walking back through the jungle)
 IAN: I think this is the way we came.
+(Susan stops to pick another flower, then gets frightened)
 SUSAN: Who's there?
+(Someone or something touches her shoulder. She screams and Ian goes back to find her)
 IAN: All right, Susan, it's all right. You're safe now.
+
+[Tardis]
+
 BARBARA: Did Susan tell you what frightened her?
 DOCTOR: Yes, yes. She's convinced that someone touched her, and I tried to make her see it wasn't possible but I'm afraid she wouldn't listen to me. I wonder, would you have a talk with her?
 BARBARA: Yes, of course I will.
 DOCTOR: Yes, you know, sometimes I find the gulf between Susan's age and mine makes difficult understanding between us.
 BARBARA: I'll see what I can do.
 DOCTOR: Oh, would you? Thank you, thank you very much. I'd be grateful.
+(Susan is sitting at a table)
 BARBARA: Hello.
 SUSAN: Hello.
 BARBARA: What are you doing?
@@ -122,6 +145,7 @@ BARBARA: Oh, Susan, it isn't that he doesn't believe you. It's just that he find
 SUSAN: I know.
 BARBARA: Oh, look. Why don't you just try and forget it for the moment?
 SUSAN: For the moment.
+(By a bank of computers in the wall, the Doctor is noting the readings on the screens and dials)
 IAN: What's this one for? I don't know how you make sense of any of this.
 DOCTOR: You're quite right, quite right.
 IAN: Can you find where we are? Well, Doctor?
@@ -134,12 +158,14 @@ IAN: All right, all right, I admit it. A small part of the blame is ours.
 DOCTOR: Oh, small?
 IAN: But naturally we're anxious. What are we going to do? Can we live here? What do we eat? There are millions of questions.
 DOCTOR: A very good idea. I'm hungry.
+(Susan it putting drops into a glass of water. Barbara is holding her head)
 DOCTOR: Oh, what's the matter?
 BARBARA: Oh, I've suddenly got this terrible headache.
 DOCTOR: Oh, dear, dear, how irksome for you. Oh, this stuff is very good. This should cure it. Now, not too much, dear, not too much.
 SUSAN: No. Oh, Grandfather. I'm sorry I was so silly just now. Here, try this.
 BARBARA: Thank you. Oh, it's very nice.
 IAN: Let's hope it does you some good.
+(The Doctor is nibbling at something from a machine nearby)
 DOCTOR: Oh, did you want something to eat? What would you like?
 BARBARA: I'd like some bacon and eggs.
 IAN: All right, bacon and eggs.
@@ -147,17 +173,19 @@ DOCTOR: Bacon and eggs.
 IAN: But
 SUSAN: This is fully automatic.
 DOCTOR: Yes, certainly, certainly. J62.
-SUSAN:  J62.
+SUSAN: (turning dials) J62.
 DOCTOR: L6.
 SUSAN: L6.
 IAN: I hope mine doesn't taste of engine grease.
 DOCTOR: Now, now, now, don't be ridiculous.
 BARBARA: Shall I get plates and things?
 SUSAN: No, there's no need to.
+(The Doctor takes two blocks out of the dispensing slot)
 SUSAN: Eggs and bacon.
 DOCTOR: Bacon and eggs.
 IAN: What, this?
 SUSAN: Go on, try it.
+(They unwrap the blocks and take a small bite)
 DOCTOR: Well?
 IAN: Mm. Not bad. What do you think, Barbara?
 BARBARA: I think it's delicious.
@@ -175,9 +203,11 @@ SUSAN: No. I think I'll go to bed now, anyway.
 DOCTOR: Right.
 SUSAN: Do you want to know where you can sleep, Miss Wright?
 BARBARA: Oh, yes.
+(They hear a tapping sound)
 IAN: What's that?
 DOCTOR: The scanner.
 SUSAN: There was somebody there.
+(But the scanner just shows the trees)
 IAN: Nothing. Not a thing.
 SUSAN: But something must have made that noise.
 BARBARA: Look, I've had enough of this. Please, can't we get out of here?
@@ -186,15 +216,18 @@ BARBARA: But why?
 DOCTOR: I will not be questioned. Uninvited passengers. I didn't invite them to the ship. I shall do what I want to do.
 IAN: Why endanger the rest of us by staying here?
 SUSAN: Grandfather, please. Please.
+(So the Doctor sets the Tardis going, and ducks under the console to remove something)
 BARBARA: Stone trees are all very well, but the next forest I walk through I want them all to be made of wood.
+(The Tardis starts shaking)
 SUSAN: What's the matter?
 DOCTOR: I don't know. The power take-up was rising normally and
 IAN: What's wrong?
 DOCTOR: Oh don't distract me, please.
 SUSAN: Shall I trace it on the fault locator, Grandfather?
 DOCTOR: Yes, I think you'd better, child.
-SUSAN:  K7.
+SUSAN: (checking a printout) K7.
 DOCTOR: K7? Ah, yes, of course, the fluid link. Yes, yes, yes. Yes.
+(Goes under the console and comes up with the part he took off earlier)
 DOCTOR: Yes, there we are, you see. The end of it's unscrewed itself and the fluid has run out.
 IAN: Have you got a spare?
 DOCTOR: Oh, no, no need for that. This is easily repaired. All we have to do is refill it.
@@ -213,15 +246,21 @@ IAN: Yes. There's the city.
 DOCTOR: Yes, the city, of course. Of course we're bound to get some mercury there. Yes, we're bound to. Well, I mean, what else can we do, hmm?
 IAN: It seems we have no alternative. We have to go to the city.
 DOCTOR: Yes, indeed. At first light, then?
+(Next day)
 IAN: Well, it's light enough and there doesn't seem to be anything out there. We might as well get started. Oh, and Doctor. Remember we're going to this city to find mercury, and once we've found it we're coming straight back here. Is that clear?
 DOCTOR: Oh, quite so, quite so.
+
+[Forest]
+
 IAN: Well, shall I lead?
 DOCTOR: Yes, by all means.
 IAN: Look.
+(There's a small curved metal object on the ground)
 BARBARA: Don't touch it, it might go off.
 SUSAN: Be careful.
 DOCTOR: What is it, Chesterton?
 IAN: I don't know. Stand back, all of you.
+(He prods it with a long stick, then taps it. It sounds hollow)
 IAN: I think it's all right. A metal box. It's a box of glass phials. Look.
 DOCTOR: Let me see.
 SUSAN: Then there was somebody here last night. They must have dropped them. I knew I was right.
@@ -234,24 +273,41 @@ DOCTOR: Yes, ample, ample.
 IAN: I trust we won't be more than a couple of hours. You ready, Susan?
 SUSAN: Yes.
 IAN: Come on, then. Off we go.
+
+[City]
+
+(A very metallic, angular place)
 DOCTOR: Do you mind if I sit down for a minute? I feel a bit exhausted.
 IAN: You all right?
 DOCTOR: Yes, I'm just a bit tired. It was a long journey and my legs are rather weak.
 BARBARA: Why don't you rest here? Ian and I will look around and see if we can
 DOCTOR: No, no, no, no, I want to look around too. I shall be all right, thank you.
 IAN: I must say, I don't feel too good myself. Look, why don't we get this over with quickly. Look for instruments, gauges, anything like that. Ideally what we want is a laboratory.
+(A door opens)
 BARBARA: Ian, look.
 IAN: Why don't we separate and go different ways and meet back here in say, ten minutes. All right?
-BARBARA: Fine. I'll go this way. 
+BARBARA: Fine. I'll go this way. (through the door)
 DOCTOR: Would you lend me your arm, would you, Susan? Thank you.
-SUSAN: Let's try this one.  There's no light.
+(Ian finds the sensor to open another door - it's the round things by the side of them)
+(On her travels, Barbara has to duck in the odd-shaped corridor, and she is watched by a remote camera)
+SUSAN: Let's try this one. (the door opens for her) There's no light.
+(Barbara gets shut in by bulkheads closing behind her, but she only notices when she tries to retrace her steps)
 IAN: Ah, there you are. Any luck?
 SUSAN: No. How about you?
 IAN: No, no luck. Barbara should be here by now. Barbara! Barbara! We'll give her a couple of minutes more, and then if she's not back we'll have to go and look for her.
+(Barbara is finally trapped and disappears)
 IAN: We've waited long enough for her. We must go and find her.
+(In another level of the city, Barbara leaves the elevator, and is confronted by a vicious looking sink-plunger being waved by something. She screams)
+
 Episode Two - The Survivors
+
+[City]
+
+(Ian, Susan and the Doctor have gone through the same door as Barbara did earlier)
 IAN: Barbara? Barbara? Barbara?
+(Susan opens another door. It's dark inside)
 SUSAN: Miss Wright?
+(Ian tries another)
 IAN: Barbara?
 SUSAN: Hey, there's a corridor over here.
 IAN: We might as well see where it goes to. Come on.
@@ -264,6 +320,9 @@ IAN: Yes. Over here somewhere.
 DOCTOR: It's stopped now.
 SUSAN: Hey, there it is again.
 IAN: It's coming from in here.
+
+[Room]
+
 IAN Ah, this is more hopeful. We ought to find some mercury here.
 DOCTOR: Measuring equipment. But measuring what? Look here. Look at this drum. The ink's still quite wet.
 IAN: Yes. Hard to imagine what sort of people these are.
@@ -288,7 +347,7 @@ IAN: You fool. You old fool!
 DOCTOR: Abuse me as much as you like, Chesterton. The point is we need an immediate return to the ship, and I suggest we leave at once.
 IAN: We're not leaving until we've found Barbara.
 DOCTOR: Very well. You may stay and search for her if you wish, but Susan and I are going back to the ship. Now, come along, child.
-IAN: All right, carry on, fine. How far do you think you'll get without this? 
+IAN: All right, carry on, fine. How far do you think you'll get without this? (the fluid link)
 DOCTOR: Give that to me.
 IAN: Not until we've found Barbara.
 DOCTOR: Give it to me, I say.
@@ -297,13 +356,26 @@ DOCTOR: Chesterton, this is
 IAN: We're wasting time. We should be looking for Barbara.
 SUSAN: He's right, Grandfather. We are wasting time.
 DOCTOR: Child, if only you'd think as an adult sometimes. Oh, very well. Let's go then. Let's go.
+
+[City]
+
+(They walk out of the room to be met by a group of sink plungers wielded by evil four foot tall pepper pots)
 DALEK: You will move ahead of us and follow my directions. This way. Immediately.
+(Susan and the Doctor obey, but Ian hesitates)
 DALEK: I said immediately!
+(Ian runs down another corridor)
 DALEK: Fire!
+(A ray hits Ian, he turns from positive black and white to negative white and black, then collapses)
 IAN: My legs! My legs!
+(Susan runs back to help)
 DALEK: Stop! Your legs are paralysed. You will recover shortly unless you force us to use our weapons again. In that case, the condition will be permanent. You two, help him.
+(Susan and the Doctor help Ian up)
 IAN: My legs, my legs. I can't use my legs.
-DALEK : Stop here.
+
+[Detention cell]
+
+DALEK [OC]: Stop here.
+(The door opens and Ian is carried in by Susan and the Doctor)
 BARBARA: Susan!
 SUSAN: Miss Wright!
 IAN: Barbara, thank heaven we've found you. Are you all right?
@@ -323,6 +395,7 @@ IAN: I'm afraid that's not very much help.
 BARBARA: Ian, do you think they really are just machines?
 IAN: What do you mean?
 BARBARA: Well, I was going to say, do you think there's someone inside them?
+(Susan laughs)
 IAN: That's a point. We haven't any idea what's inside them.
 BARBARA: I tried to think of how I could get away from them, but then I began to feel so weak and giddy. It's getting worse now. I think they must have drugged me in some way.
 IAN: It's not that. Barbara, we've got radiation sickness. All of us. The Doctor's pretty badly hit.
@@ -330,6 +403,10 @@ BARBARA: Well, how do you know it's radiation?
 SUSAN: We found a Geiger counter. It seems that all the time we've been in the open, we've been exposed to it.
 BARBARA: Well, what's going to happen to us?
 DOCTOR: Well, unless, unless we get treatment, we shall die. Yes, we shall die.
+
+[Control room]
+
+(The prisoners are being watched on a monitor)
 DALEK 1: Bring in the old man Thal prisoner. Two hundred days ago the radiation count was ninety three.
 DALEK 2: It is now fifty eight. An impressive reduction.
 DALEK 1: It is still enough to destroy. Our prisoners are showing preliminary stages of sickness already.
@@ -337,6 +414,7 @@ DALEK 2: We know the Thals are able to live on the surface.
 DALEK 1: And that they must have found immunity.
 DALEK 2: Perhaps it is a drug. Is it failing them now? Why are these four showing signs of radiation sickness?
 DALEK 1: A few questions will reduce the mystery.
+(The Doctor staggers in)
 DALEK 1: Do not move out of the light. Sit on the floor.
 DALEK 2: You are one of the Thal people?
 DOCTOR: I don't understand you.
@@ -346,7 +424,7 @@ DALEK 2: No, that is not true. We know the Thals have existed outside our city.
 DALEK 1: The truth is your supply of drugs has failed, and you came into the city to see if you could find more.
 DOCTOR: No, no. Thals? What are you talking about? We're not Thals, or whatever you may call them. Can't you see we're very ill.
 DALEK 1: You and your companions need a drug to stay alive.
-DOCTOR: We have no drugs.  A drug? A drug. The drugs left outside the Tardis.
+DOCTOR: We have no drugs. (softly) A drug? A drug. The drugs left outside the Tardis.
 DALEK 2: Tardis? He is becoming delirious. I do not understand his words.
 DOCTOR: Listen to me.
 DALEK 1: Stay in the light.
@@ -362,18 +440,24 @@ DOCTOR: And the Thals?
 DALEK 1: Most of them perished in the war, but we know that there are survivors. They must be disgustingly mutated, but the fact that they have survived tells us they must have a drug that preserves the life force.
 DOCTOR: And knowing that these mutated creatures exist outside the city, you're willing to send one of us in amongst them?
 DALEK 1: As you say yourself, all your lives depend on it.
+
+[Detention cell]
+
+(Susan and Barbara are helping Ian walk around. Only one leg is currently working)
 BARBARA: Is it any easier?
 IAN: Yes, I think it is. I'm going to try and stand on my own.
 SUSAN: Be careful.
 IAN: I'll be all right. Oh, that's not too bad, is it?
 BARBARA: Why don't you sit down for a minute?
 IAN: No, no, no. I'll be all right.
+(He tries to walk, and falls)
 IAN: No good.
 BARBARA: Come on, sit down. It'll wear off in time.
 IAN: How are you feeling, Barbara?
 BARBARA: Not too good.
 IAN: Susan?
 SUSAN: Well, it doesn't seem to have affected me as much as the rest of you.
+(The Doctor enters)
 SUSAN: Grandfather!
 IAN: Are you all right?
 SUSAN: What happened?
@@ -405,11 +489,13 @@ SUSAN: It's not just a question of turning the key. The whole lock comes away fr
 IAN: Susan, supposing these Daleks insist that only one of us goes. Then I'll have to take the key and I'll have to go on trying until the door opens.
 SUSAN: No, you'd jam the lock. Look, it's a defence mechanism. There are twenty one different holes inside the lock. There's one right place and twenty wrong ones. If you make a mistake, you'll. Well, the whole inside of the lock will melt.
 IAN: There's nothing else for it, then. We must go together. Come on, let's see if I can walk. No, it's all right, Barbara. You take it easy. Rest. My right leg is better, you know. I've got feeling in this one, but the left is just pins and needles.
+(A Dalek enters)
 DALEK 1: You must leave now.
 IAN: I'm not well enough yet.
 DALEK 1: You must leave now.
 IAN: My legs are still
 DALEK 1: Which one of you is going?
+(Ian tries to walk and falls)
 IAN: You must give me more time.
 SUSAN: Can't you see how weak he is?
 DALEK 1: There are others.
@@ -424,8 +510,12 @@ IAN: Don't stop for anything. Straight there, straight back.
 DALEK 1: Are you ready?
 IAN: Yes, all right.
 SUSAN: I'm coming now.
+(The Dalek and Susan leave)
 BARBARA: Ian, the others in the forest. He said they were mutations.
 IAN: But what else could I do?
+
+[Control room]
+
 DALEK 2: The child has set out.
 DALEK 1: Her direction is being followed on the rangescopes?
 DALEK 2: Yes.
@@ -433,6 +523,9 @@ DALEK 1: Mark her movements carefully. If there are more Thal people living in t
 DALEK 2: I understand. If she returns with the drugs, am I to allow the prisoners to use it?
 DALEK 1: No. They will die in time. There only value is in bringing us enough of the Thal drug to duplicate it for our own use.
 ALL: Yes, at last we have a chance.
+
+[Detention cell]
+
 BARBARA: He's getting worse.
 IAN: How long did the Doctor say we'd last without treatment? Forty eight hours?
 BARBARA: I don't know. It's hit him so badly, Ian.
@@ -445,10 +538,18 @@ BARBARA: We must wait. That's all we can do.
 IAN: Wait. Yes. An hour ago I thought we might try and escape, watch their movements, make a plan. There's always a chance. Now we're too late. I think even if they left the doors wide open we wouldn't have the strength to crawl through them.
 BARBARA: How long has she been gone?
 IAN: About an hour. She should just be on the edge of the jungle by now.
+
+[Forest]
+
+(There's thunder, wind and lightning as Susan makes her way through the petrified jungle. Something else is moving too. She runs on, falls, and sees - what?)
+
+[Detention cell]
+
 BARBARA: He's so hot. It's like a fever.
 IAN: Yes, his breathing's so bad. What do you think, Barbara?
 BARBARA: I don't know. Even if Susan got back now, I don't know whether she'd be in time. Give me his coat.
 IAN: Here you are.
+(She uses it to make a pillow for the Doctor's head)
 IAN: Barbara, come on now.
 BARBARA: I'm all right.
 IAN: Sit down. No, you rest. You can't do anything more for him.
@@ -457,15 +558,30 @@ IAN: Yes. Now you try and sleep, Barbara. Try and sleep.
 BARBARA: Yes, I'd like to sleep.
 IAN: Yes.
 BARBARA: It's so hot.
+(Ian realises he can walk properly again, and goes to the door, but doubles over with pain)
 IAN: Hurry, Susan. Hurry, Susan!
+(Susan is running, terrified, through the jungle)
+
+[Control room]
+
 DALEK 2: I have just come from the prisoners. The old man is dying.
 DALEK 1: Then he must die. There is no help we can give him. How are the others?
 DALEK 2: The woman is sleeping very heavily. The young man fights against it.
 DALEK 1: What of the girl? Has she reached the jungle?
 DALEK 2: Yes, the rangerscopes tracked her that far. Now they have lost her.
-IAN : Don't stop for anything. Straight there, straight back. An hour might make all the difference.
+
+[Tardis]
+
+(Susan has made it, and picks up the box from the chair where she left it. She remembers what she was told)
+IAN [OC]: Don't stop for anything. Straight there, straight back. An hour might make all the difference.
 SUSAN: I must. I must.
+(She opens the doors again and steps out into the storm)
+
 Episode Three - The Escape
+
+[Forest]
+
+(Susan steps outside the Tardis and meets a tall blond man)
 SUSAN: Who are you? What do you want?
 ALYDON: Don't be afraid.
 SUSAN: What do you want? But they said you were, but they called you. But you're not. You're perfect.
@@ -496,12 +612,18 @@ SUSAN: Thank you.
 ALYDON: We are the survivors of a final war. But the radiation still persists and that is why your friends are ill. I wonder if the Daleks have seen us.
 SUSAN: Seen you?
 ALYDON: I mean, if they call us mutations, what must they be like?
+
+[Control room]
+
 DALEK 2: I have returned the girl to the cell.
 DALEK 1: Very well.
 DALEK 2: They are asking for water.
 DALEK 1: Give them some. It is clear that the girl must have made contact with the Thals.
 DALEK 2: Our prisoners could bring the Thals to us. 
 DALEK 1: Precisely that.
+
+[Detention cell]
+
 SUSAN: The Thal said the drug would act quickly.
 IAN: Don't give him any more water, Susan. His pulse is steady now anyway.
 BARBARA: My arms are tingling.
@@ -520,29 +642,41 @@ DOCTOR: Oh, are we? Oh, yes. Well, we must leave here soon. We must, must leave.
 SUSAN: As soon as grandfather's properly awake we must try and find a way of helping the Thals.
 BARBARA: We can't even help ourselves, locked up in here like this.
 SUSAN: We must try and talk to the Daleks. Alydon says the Thals are going to starve unless they can find new supplies of food. You see, after the war, the Thals that survived managed to cultivate small plots of land. Well, that's how they've survived ever since. But they've always had to be very, very careful, because the crops have always been in danger. But, you see, they rely on a great rainfall that only happens about every four or five years. Well, it's two years overdue now, and all their crops are ruined. Well, that's why the whole Thal race had to leave their plateau and go in search of food.
-SUSAN : Alydon says, unless we can help them arrange some sort of treaty with the Daleks, they're all going to die.
-IAN : But how can we, Susan?
-SUSAN : Well, he wants to talk to the Daleks. He said if they agree to supply food for them, then one of us must take a message outside the city.
+
+[Control room]
+
+SUSAN [on monitor]: Alydon says, unless we can help them arrange some sort of treaty with the Daleks, they're all going to die.
+IAN [on monitor]: But how can we, Susan?
+SUSAN [on monitor]: Well, he wants to talk to the Daleks. He said if they agree to supply food for them, then one of us must take a message outside the city.
 DALEK 2: We could let this catastrophe destroy the Thals.
 DALEK 1: Will they let themselves starve to death? No. I feel preserving our prisoners was a good idea.
 DALEK 2: And an arrangement to bring the Thals inside our city an even better one.
 DALEK 1: We'll let our prisoners sleep and then give them food. After that, we can plan.
 DALEK 2: Why not begin now?
 DALEK 1: Because the lapse of time, the relaxation of sleep, the provision of food, all these things will give them a false sense of security.
-DALEK 1: We have brought you food and more water.  The girl is to come with me.
+
+[Detention cell]
+
+(They are woken by the door opening, and a pepperpot enters bearing gifts.)
+DALEK 1: We have brought you food and more water. (Barbara takes it) The girl is to come with me.
 IAN: Why?
 SUSAN: It's all right.
 BARBARA: Well, what are they going to do to her?
 DALEK 1: She will be returned. We are going to help the Thals, which is what you want us to do. Come now.
+(The door closes)
 DOCTOR: I can't understand. Why have they taken Susan?
 IAN: How do they know we want to help the Thals?
+
+[Jungle, outside the Tardis]
+
+(A group of Thals arrive)
 ALYDON: Ah, Ganatus.
 GANATUS: Alydon.
 ALYDON: You've been longer than I thought.
 GANATUS: The path was rough.
 ALYDON: The dead city lies over there.
-TEMMOSUS:  Get the tent here, towards the west.
-DYONI:  What is it, Temmosus.
+TEMMOSUS: (a man with a headdress) Get the tent here, towards the west.
+DYONI: (a young woman) What is it, Temmosus.
 TEMMOSUS: This must be the craft in which the strangers arrived here. So, Alydon, we were right to believe the city inhabited.
 ALYDON: Yes, Temmosus.
 TEMMOSUS: I wonder what they'll be like. How they'll be disposed towards us.
@@ -570,6 +704,7 @@ ALYDON: I'm afraid so. From everything the young girl said, the Daleks are certa
 TEMMOSUS: Tell me, Alydon. How old is this young girl?
 ALYDON: No longer a child, not yet a woman.
 TEMMOSUS: Ah, then perhaps it's safe for you to talk to her, if she's not yet a woman.
+(Dyoni stalks off as Ganatus laughs)
 ALYDON: I don't understand her. If we don't find a new food supply for next year, we're finished. Doesn't she understand that? We're all working towards the same end.
 GANATUS: Now there's a double meaning for you.
 TEMMOSUS: But don't you realise that Dyoni sees her personal future in you. You must remember that when we left our plateau and started on this journey, she was little more than a child. But that was four years ago.
@@ -580,6 +715,10 @@ TEMMOSUS: Direct from the girl?
 ALYDON: Yes.
 TEMMOSUS: But how shall we know that it is not a trick?
 ALYDON: Well, she told me her name> Susan. And that is how the message is to be signed. Otherwise, we shall know the Daleks are hostile to us.
+
+[Control room]
+
+(Susan is taking dictation from the Daleks)
 DALEK 2: Have liquid foods, water in abundance. We can also supply unlimited quantities of fresh vegetables which are forced in artificial sunlight.
 SUSAN: Just a minute. Artificial sunlight. All right, go on.
 DALEK 2: In return, we shall expect the Thals to help us in the re-cultivation of the land surrounding the
@@ -588,21 +727,26 @@ SUSAN: Well, I can only ask them. I can't accept for them.
 DALEK 1: Then put down that we expect them to help us.
 SUSAN: Yes, I'm sure they will.
 DALEK 1: Please sit still while we examine what you've written.
+(Dalek 2 holds it up to Dalek 1's eyepiece)
 DALEK 1: What is the last word here?
 SUSAN: The last word?
-DALEK 1: Su San. Stop that noise. 
+DALEK 1: Su San. Stop that noise. (a giggle)
 SUSAN: It's what I'm called. It's my name. Susan.
 DALEK 1: Have you told the Thals that you would write this name on the message?
 SUSAN: Yes. Look, there's no need to be frightened of them. They're very friendly people. All they want is food. Let me take the message to them.
 DALEK 1: No.
 SUSAN: Why not?
 DALEK 1: We have planned otherwise.
-IAN : But how long are they going to keep Susan, Doctor?
-BARBARA : What do they want with her?
-DOCTOR : Perhaps they're going to let us go. I don't know.
+IAN [on monitor]: But how long are they going to keep Susan, Doctor?
+BARBARA [on monitor]: What do they want with her?
+DOCTOR [on monitor]: Perhaps they're going to let us go. I don't know.
+(The Dalek switches it off)
 SUSAN: We knew you could hear us, 'cause you knew about the Thals and the food.
 DALEK 1: It does not matter. We have the message now.
-IAN: All set, Doctor?  The whole pattern of things is suspicious. Just because the Daleks didn't kill us is no reason to trust them.
+
+[Detention cell]
+
+IAN: All set, Doctor? (loud) The whole pattern of things is suspicious. Just because the Daleks didn't kill us is no reason to trust them.
 DOCTOR: Or suspect them either.
 BARBARA: Or maybe they just have a different way of doing things.
 IAN: The Thals have helped us. The Daleks put us in a cell. I know which of the two I prefer.
@@ -615,17 +759,25 @@ BARBARA: Stop arguing.
 IAN: Please give me space.
 BARBARA: Ian.
 DOCTOR: Keep away from me!
+(Susan jumps on Ian's shoulders)
 BARBARA: Susan, what are you doing?
+(She's using the piggy-back ride to pull the spy camera out of the ceiling)
 IAN: Did I hurt you?
 SUSAN: No, of course you didn't.
 DOCTOR: Don't waste time.
 IAN: Fix you for a while.
+
+[Control room]
+
 DALEK 2: Do you think it was broken accidentally in their struggle?
 DALEK 1: No, the cable is strong. They have broken it deliberately.
 DALEK 3: They can be moved immediately to another room, the eye repaired.
 DALEK 1: No.
 DALEK 2: Extermination, then.
 DALEK 1: There is no escape from the room that holds them. They may well be useful again. We shall deal with the Thals.
+
+[Detention cell]
+
 DOCTOR: The point is, how do we get out of here? Wait until the Daleks open the door, and force the issue?
 BARBARA: But we'd never get near them.
 SUSAN: We must try and trick them. We must all pretend to be dead. Then when they come in to investigate, we must rush down the corridor
@@ -660,6 +812,10 @@ BARBARA: I don't know. It isn't plastic, I don't think it's nylon either.
 IAN: Whatever it is, it'll do for what we want.
 DOCTOR: And what will it do, young man? Hmm?
 IAN: Insulate. If you are right, Doctor, about the Daleks taking up power from the floor, this is a perfect way of putting them out of action.
+
+[Thal camp (outside the Tardis)]
+
+(A Thal returns with a metal lizard on his shoulder)
 DYONI: Oh, look, Ganatus, they've found a Magneton under some bushes.
 GANATUS: Dead, I hope.
 DYONI: Well, of course it's dead. Oh, I never know when you're serious and when you're joking.
@@ -672,14 +828,22 @@ ALYDON: I wish I could be as objective as you. We've lived for so long a time.
 TEMMOSUS: Perhaps we have lived too long. I've never struggled against the inevitable. It's a vain occupation. But I should always advise you to examine very closely what you think to be inevitable. It's surprising how often apparent defeat can be turned to victory.
 GANATUS: This was found at the city gates.
 ALYDON: What does it say?
+(as if they could read Earth English....)
 TEMMOSUS: They're going to help us! It's signed by the girl, Susan. She says the Dalek people have no malice towards us, and they hope that they can work with us to build a new and safe world, free from the fear of war. They have the ability to produce food by means of synthetic sunlight, and they have left a quantity of it in the entrance hall of their main building. We are to collect it tomorrow. So there is a future for us.
+
+[Detention cell]
+
+(Susan is listening at the door)
 SUSAN: Shh. He's coming.
 DOCTOR: Ready?
 IAN: Yes.
 DOCTOR: Now all of you watch very carefully. See that you notice every detail in that machine, right?
+(The door opens. The Dalek is bringing a tray)
 DALEK 1: Move back from the door.
+(Susan and Ian move into the middle of the room)
 DALEK 1: Take the food.
-IAN: I'll be able to jam the door with a piece of this. 
+(Susan does, and gives it to the Doctor. The Dalek backs out and the door closes)
+IAN: I'll be able to jam the door with a piece of this. (the spy camera)
 SUSAN: He seemed to be able to cover all of us.
 BARBARA: It's impossible to hide from it.
 IAN: Yes. Perhaps we can throw a coat over the lens.
@@ -687,8 +851,10 @@ BARBARA: Surely it would see you.
 IAN: Yes. Doctor, perhaps we can stage something. You know, a distraction. And when the lens looks the other way, throw something over it.
 DOCTOR: Yes, yes, yes, yes, yes.
 BARBARA: Now, wait a minute. Susan, throw me your shoes.
+(Barbara picks the jungle soil off the soles)
 IAN: What are you up to?
 BARBARA: Making mud.
+(Later)
 DOCTOR: If he's on time, we have three minutes.
 IAN: I'm ready.
 DOCTOR: How's the mud?
@@ -700,12 +866,17 @@ SUSAN: Just down there?
 DOCTOR: Yes, yes. Quickly. Good, child.
 IAN: He's coming.
 DOCTOR: Mind your head.
+(Ian slides the camera under the edge of the door as it starts to open, and rolls into the middle of the room with everyone else)
 DALEK 1: Take this.
+(Susan takes the tray, and the Dalek backs out. The door fails to close and an alarm sounds. The Dalek comes back in)
 DOCTOR: Now!
+(Barbara slams the mud over the eyepiece)
 DALEK 1: Keep away. Keep away from me.
+(The Doctor and Ian try to drag it onto the cloak. It starts to flail around)
 DALEK 1: Keep away from me! Keep away! Keep away!
 IAN: That's a gun! That's a gun!
 DALEK 1 : Keep away from me! Keep away from me! Keep away from me! Keep away from me! Keep away from me!
+(Finally they get it onto the cloak)
 SUSAN: Yes, I got it!
 DOCTOR: Well done, Susan.
 BARBARA: Ian, come on out of the way.
@@ -715,19 +886,22 @@ DOCTOR: Splendid, splendid.
 IAN: I think I'm all right. Swing it round. Keep out of the way, Susan.
 SUSAN: Yes.
 IAN: Now, I think it's worked. Take your hand off the gun. It has! It's worked! Now, there must be a catch here somewhere. I've found one.
+(He lifts the Dalek lid, and puts it down again very quickly)
 IAN: Susan, Barbara, go in the corridor and keep a lookout.
 BARBARA: Yes.
-IAN: You'll have to help me.  Let's roll it off the cloak. A bit more, all right?
+IAN: You'll have to help me. (they lift the lid again) Let's roll it off the cloak. A bit more, all right?
 DOCTOR: Yes.
 IAN: Give me that cloak. That's it. All right. Now.
+(They wrap the cloak around the contents of the Dalek)
 IAN: Lift.
+(The Doctor dumps it in the corner)
 IAN: Now, see if I can get inside it. All clear in the corridor?
 SUSAN + BARBARA: Yes.
 SUSAN: I think there's a sentry down the other end of the corridor.
 BARBARA: Well, they made such a terrible noise. Ian, hurry.
 IAN: Not much room for my legs, but try the top.
-DOCTOR: Barbara, Susan, give me a hand. Move it down gently.  How is it?
-IAN:  It's very cramped indeed.
+DOCTOR: Barbara, Susan, give me a hand. Move it down gently. (they lower the lid) How is it?
+IAN: (Dalek-like) It's very cramped indeed.
 DOCTOR: Well, can't you sound more like a Dalek?
 BARBARA: Yes, in a monotone. You've heard them.
 IAN: Do you mean like this?
@@ -743,6 +917,9 @@ IAN: It moves well enough.
 SUSAN: Yes.
 BARBARA: Surely they'll know that we're pushing you.
 DOCTOR: No, no, no, it won't be suspicious at all.
+
+[Corridor]
+
 IAN: All right now, Susan, Barbara. You get in front and pretend I'm taking you for questioning.
 SUSAN: Right.
 BARBARA: Yes.
@@ -750,9 +927,16 @@ IAN: And Susan.
 SUSAN: Yes?
 IAN: You lead us. You know the way.
 SUSAN: All right. This way, then.
+(and a little clawed hand pokes out from under the cloak in the cell)
+
 Episode Four - The Ambush
+
+[Corridor]
+
+(Barbara and Susan are still pulling Ian along by the sink-plunger)
 IAN: Hey. Let go a minute. I think I've found out how to operate this thing. Yes, I can. Quick, Doctor, get in front. Ready? Off we go.
-SUSAN: Wait. This looks like the place. Stay there.  There's a great iron door with a Dalek on guard. And beyond the door there's a lift.
+(A little further along)
+SUSAN: Wait. This looks like the place. Stay there. (She looks around a corner and comes back) There's a great iron door with a Dalek on guard. And beyond the door there's a lift.
 DOCTOR: It's up to you now, Chesterton. You have to do as little talking as possible.
 IAN: All right.
 DALEK: Stop.
@@ -761,9 +945,14 @@ DALEK: I have not been informed. Wait.
 SUSAN: No! I'm not going! No!
 DALEK: Hold her.
 IAN: I have got her. Now hold still. Help me to get them inside.
+(The Dalek pushes Susan into the lift)
 IAN: You too.
+
+[Room]
+
 DALEK: Shall I help you to the fourth level with them?
 IAN: No. Close the doors. The girl cannot run far inside.
+(Once the door is closed, the Doctor pulls a lead from a sensor near it)
 DOCTOR: That's fixed the door.
 BARBARA: That was a very good idea, Susan.
 IAN: He didn't hurt you?
@@ -771,16 +960,25 @@ SUSAN: No, not really.
 IAN: Well, help me to get out of this thing. I'm suffocating.
 BARBARA: The clasp is stuck.
 DOCTOR: Here, let me help fix it.
+
+[Corridor]
+
+(The guard Dalek makes his report)
 DALEK: I have just passed the prisoners through into lift shaft seven.
-DALEK 1 : There are no orders to move the prisoners. Hold them.
+DALEK 1 [OC]: There are no orders to move the prisoners. Hold them.
+(It tries to open the door, and fails)
 DALEK: The door is locked. Emergency alarm.
-DALEK 1 : Attention. Immobilise lift shaft seven floor area.
+DALEK 1 [OC]: Attention. Immobilise lift shaft seven floor area.
+
+[Room]
+
 IAN: They know. Come on, hurry up will you?
 DOCTOR: Wait a minute. There, it's free. Lift it from the top.
 SUSAN: Good. Hurry up.
 BARBARA: I can't move it. It won't budge.
 DOCTOR: Chesterton, try and force it up from the inside.
 IAN: I'm trying. No, no, it's no good. There's something jammed inside here. Forcing it's only making it worse.
+(There is banging on the door)
 BARBARA: Ian, come on, hurry.
 IAN: I, I can't move it!
 SUSAN: Ow! That door's red hot.
@@ -805,18 +1003,37 @@ IAN: Go on.
 DOCTOR: Come on, Susan.
 IAN: Barbara, for goodness sake, go.
 SUSAN: Oh, look!
+(The Daleks are cutting around the door. The three go up on the lift platform)
 IAN: I must, must get out.
+
+[Lift]
+
 BARBARA: How long will it take them to cut through the door?
 DOCTOR: Oh, maybe ten minutes. If we're lucky, longer.
 SUSAN: But even if he does get out, he's stuck down there. His only way out is the lift. We must go back for him!
 DOCTOR: Susan, it's no good. We cannot do anything for him now, child.
+
+[Level One]
+
+(Barbara, Susan and the Doctor get out of the lift and send it back down again)
 BARBARA: We should never have left him. It's so slow. It'll never reach him in time.
+
+[Corridor]
+
 DALEK 1: It is nearly completed.
+
+[Room]
+
+(The Daleks enter the room and fire at the Dalek shell. It falls apart)
 DALEK 1: It is empty.
 DALEK 2: Lock the lift.
 DALEK 1: The emergency switch. Bring it down.
+
+[Level One]
+
 BARBARA: Come on, Ian. Come on.
-IAN : All right, I'm coming.
+IAN [OC]: All right, I'm coming.
+(He gets out just before the lift goes back down again)
 IAN: They had about two inches of that door to cut through when I got out.
 SUSAN: Are you all right?
 IAN: Yes, thank you, Susan.
@@ -834,8 +1051,16 @@ DOCTOR: A Dalek?
 BARBARA: No, it was a man. A human being.
 SUSAN: The Thals! They've come for food supplies.
 DOCTOR: They're walking into an ambush.
+
+[Room]
+
+(A Dalek enters the lift)
 DALEK 2: Make no attempt to capture them. They are to be exterminated. You understand? Exterminated.
 DALEK 1: I understand.
+
+[Level One]
+
+(As the Dalek ascends, the four are trying to attract the attention of the Thals outside)
 IAN: Oh, it's no good. This room must be soundproof. We must find a way of getting down there.
 DOCTOR: Yes, but how, dear boy?
 BARBARA: Isn't this a door?
@@ -846,13 +1071,19 @@ DOCTOR: They've magnetised it, too. Come on, let's try and force it open.
 IAN: I can get my fingers in. Sorry. Yes, it's beginning to move.
 BARBARA: Ian, the lift's coming back!
 SUSAN: Oh, no.
-IAN: Doctor, keep working the door.  It's no good. Wait. Come over here and give me a hand. Quick, now. All push together.
+IAN: Doctor, keep working the door. (he tries the lift controls) It's no good. Wait. Come over here and give me a hand. Quick, now. All push together.
+(They slide a sculpture over to the lift shaft)
 DOCTOR: It's open. I've done it.
 SUSAN: Good.
 IAN: Be right with you.
 DOCTOR: Look, what are you doing?
 IAN: Just cutting down the odds a bit. Are you ready? All together, one, two, three, push!
+(The stone sculpture crashes down onto the lift, knocking it off it's tracks)
 IAN: All right, Doctor, through you go. Yes, go on.
+
+[City]
+
+(A cautious Alydon is leading Ganatus, Temmosus and a few other Thals to the main entrance)
 TEMMOSUS: You're much too suspicious.
 ALYDON: Perhaps I am, Temmosus, but why should the Daleks help us?
 TEMMOSUS: You've been saying that ever since their message arrived. Perhaps their offer was coldly worded, but friendship grows with time. These Daleks must have believed that they were the only survivors on this planet.
@@ -865,7 +1096,16 @@ TEMMOSUS: It's right that I should do so.
 ALYDON: But supposing
 TEMMOSUS: No, Alydon. And you must thrown off these suspicions. They're based on fear, and fear breeds hatred and war. I shall speak to them peacefully. They'll see that I'm unarmed. There's no better argument against war than that.
 ALYDON: Yes, if they really want to listen.
+
+[Food area]
+
+(Four Daleks are in alcoves around the food supplies)
 DALEK 1: They are approaching.
+(The Daleks conceal themselves)
+
+[Gateway]
+
+(Ian, Barbara, Susan and the Doctor are running)
 SUSAN: Oh, Grandfather, come on. Come on, hurry.
 BARBARA: Where are we?
 IAN: By the city wall, I think. Yes, there's a gateway about fifty yards away.
@@ -885,11 +1125,21 @@ BARBARA: I know what Ian means. He stands a much better chance on his own if he 
 IAN: I'll be there.
 DOCTOR: Good luck, Chesterton.
 IAN: Thank you. Go on.
+
+[Food Area]
+
+(Temmosus leads the Thals in, as Ian watches from his own hiding place)
 TEMMOSUS: Daleks, can you hear me? Daleks, the Thal people wish to live in peace. If this is your wish too, then let us work together to rebuild our world. We need your help, and in return we'll make the soil live again, grow crops, build homes. The time for enmity is passed. If this is the kind of future that you want, then send for us and we shall talk.
+(The Daleks come out of their concealment, behind him)
 TEMMOSUS: You need not decide now. We've been waiting for centuries. We shall go on waiting.
+(He finally notices the Daleks, and tells his companions)
 TEMMOSUS: Take these things.
 IAN: No! It's a trap! Get out of here! Run!
 DALEK: Fire!
+(Temmosus is killed. Ian gets away and Alydon hides as the Daleks go after the other Thals)
+
+[Gateway]
+
 IAN: Who are you?
 ALYDON: I am Alydon. You are the man who warned us?
 IAN: Yes. I'm sorry I was late.
@@ -897,6 +1147,10 @@ ALYDON: Yes, our leader Temmosus is dead.
 IAN: I know. I saw it.
 ALYDON: Why? Why kill him? They didn't even know him.
 IAN: We can't stand here discussing it. Get yourself and your men away from here. Come on.
+
+[Thal camp]
+
+(The Thals are waiting, and so are our travellers)
 ELYON: No, not yet.
 DOCTOR: Fascinating. Absolutely fascinating. You know, these records must go back nearly half a million years.
 DYONI: The complete history of our planet Skaro is here. It seems now that no one will survive to read it.
@@ -956,8 +1210,8 @@ IAN: I am not talking about dying. Look, you can't hand yourselves over to the D
 ALYDON: I can see you want to help us, but as Dyoni says, you don't understand. There can never be any question of the Thals fighting the Daleks. Come, Ganatus.
 BARBARA: I don't understand them. They're not cowards, they don't seem to be afraid. Can pacifism become a human instinct?
 IAN: Pacifism? Is that it? Pacifism only works when everybody feels the same.
-BARBARA: Yes, but are they really pacifists? I mean, genuinely so. Or is it a belief that's become a reality because they've never had to prove it. DOCTOR: I say, I say, I think these'll interest you.  Look here. This is these people's ancestor, the original Thal male. There was a neutron war here. Most died and the survivors mutated. But in the case of the Thals, mutation came round in full circle then refined itself into what you see.
-IAN: You mean this  became
+BARBARA: Yes, but are they really pacifists? I mean, genuinely so. Or is it a belief that's become a reality because they've never had to prove it. DOCTOR: I say, I say, I think these'll interest you. (pictures) Look here. This is these people's ancestor, the original Thal male. There was a neutron war here. Most died and the survivors mutated. But in the case of the Thals, mutation came round in full circle then refined itself into what you see.
+IAN: You mean this (humanoid) became
 DOCTOR: Yes, yes. It took hundreds of years, of course. In the second example, our recent hosts, the mutation has not completed its full circle. Why, I don't know. But do you remember that monstrosity we took out of its machine?
 IAN: Yes.
 DOCTOR: This is its forebear.
@@ -971,6 +1225,7 @@ SUSAN: Antodus is feeling much better.
 DOCTOR: I'm very glad to hear he's improving. Well, now, I'm sure you all agree with me, its time we went back to the ship. Now, come along.
 SUSAN: Oh, Grandfather, couldn't we stay a bit longer? The Thals are such nice people.
 DOCTOR: And the Daleks are not, which is more important, my child.
+(A cortege walks past, carrying Temmosus' body)
 IAN: I wonder if there's any point in reminding the Thals of what they used to be?
 DOCTOR: Why?
 BARBARA: Oh, they're opposed to fighting. We were trying to convince them that it was a necessity for their own survival.
@@ -982,26 +1237,37 @@ IAN: The fluid link.
 SUSAN: You've lost it?
 BARBARA: Ian, you can't have.
 IAN: No. The Daleks took it from me when they searched me. It's down there somewhere. In the city.
+
 Episode Five - The Expedition
+
 IAN: The fluid link.
 SUSAN: You've lost it?
 BARBARA: Ian, you can't have.
 IAN: No. The Daleks took it from me when they searched me. It must be down there somewhere. In the city.
+
+[Control room]
+
 DALEK 1: The drug has been duplicated.
 DALEK 2: And the distribution?
 DALEK 1: The drug is to be taken by sections of us so work will not be interrupted.
 DALEK 2: Have you processed the pictures?
 DALEK 1: Appearing now on frequency 6.
+(A picture of the Doctor sitting outside the Tardis, looking at the Thal history)
 DALEK 1: It is the elder prisoner.
 DALEK 2: Show second picture.
 DALEK 1: The girl and the young woman. Is that the body of the fourth prisoner? The young man?
 DALEK 2: If so, he has been injured.
 DALEK 1: Show third picture.
+(Ian and Alydon)
 DALEK 1: They have made contact with the Thals.
 DALEK 2: It is logical that together they will attack us.
+
+[Thal camp]
+
 ALYDON: No. And that is my final word.
+(Alydon leaves)
 IAN: Be careful what you're doing up there, Susan.
-SUSAN:  Oh, it's all right, Mister Chesterton. I'm quite safe.
+SUSAN: (up a tree) Oh, it's all right, Mister Chesterton. I'm quite safe.
 IAN: No good. I've tried everything I know. They just won't risk a fight with the Daleks. The trouble is, I can't go too far.
 BARBARA: What do you mean?
 IAN: Well, why should they help us? Some of them are bound to get killed. What argument can you use to make a man sacrifice himself for you?
@@ -1014,6 +1280,7 @@ SUSAN: Well, they need metal to travel on.
 BARBARA: Oh, they'll find a way. They're clever enough. They'll find us and kill us, you know that as well as I do.
 IAN: Look, even supposing you're right, I will not ask the Thals to sacrifice themselves for us. I'm sorry, Barbara, I just can't do it.
 BARBARA: Ian, why can't you see?
+(at the Tardis door)
 SUSAN: Any luck, Grandfather?
 DOCTOR: Hmm?
 SUSAN: Well, have you made another fluid link yet?
@@ -1059,11 +1326,13 @@ SUSAN: The thing is, can the Thals still fight?
 IAN: Well that's what we've got to find out. Are they cowards, or are they just against fighting on principle?
 BARBARA: Well, how can we find out?
 IAN: Well, I've got an idea. But whatever I do, don't interfere. I'm not even sure that I'm right.
+(He goes and picks up the container of all the Thal history)
 IAN: Well, let's see what happens.
 DOCTOR: Hmm, strange young man.
 SUSAN: He's right, though.
 BARBARA: Yes, he is.
 DOCTOR: Yes, we'll see.
+(Ian is talking to Alydon and the Thals)
 IAN: to have self- respect. At this moment, anyone could come in here. They could rob, they could steal.
 DOCTOR: Let's see what he's up to.
 IAN: They could even kill you. And you wouldn't lift a finger to help yourselves.
@@ -1073,26 +1342,40 @@ ALYDON: I don't believe you'd do it.
 IAN: I would.
 ALYDON: None of us would stop you.
 IAN: If I don't get the fluid link back, the four of us will die. Perhaps the Daleks are more interested in people? Maybe they were holding us to experiment on us? I could take them an alternative.
+(Ian grabs Dyoni by the arm and starts to lead her off. Alydon grabs Ian then punches him)
 IAN: So there is something you'll fight for.
+
+[Experiment chamber]
+
+(A Dalek is whirling round and round)
 DALEK: Help. Cannot control. Cannot control. Help me. Help me. Help! Help! Help! Help! Ah! Ah! Ah! Ah!
-DALEK : Emergency. Emergency. All Daleks in section three are incapable of working.
+
+[Control room]
+
+DALEK [OC]: Emergency. Emergency. All Daleks in section three are incapable of working.
 DALEK 1: Section three? That was the first section to get the anti-radiation drug received from the Thals.
 DALEK 2: Stand by for a general announcement. This is control. All distribution of the anti-radiation drug is to be stopped immediately. The Dalek race has become conditioned to radiation.
 DALEK 1: But if you are right, we are in danger.
-DALEK : All Daleks in section three are dying.
+DALEK [OC]: All Daleks in section three are dying.
 DALEK 2: They must be examined immediately.
 DALEK 1: Look, the disease has reached us in here.
+(A Dalek is spinning around on the spot)
 DALEK 2: Then we cannot delay.
 DALEK 1: But what are we to do? Is this the end of the Daleks?
 DALEK 2: We need radiation to survive. So we must increase our supply of radiation.
 DALEK 1: But there is only one way to do that.
 DALEK 2: Exactly. We may have to explode another neutron bomb.
+
+[Thal camp]
+
+(Night has fallen, but Dyoni and Alydon cannot sleep)
 DYONI: Why don't you sleep?
 ALYDON: Presently.
 DYONI: Are you angry with yourself for striking the young man?
 ALYDON: No, I knew he was trying to make me do it. I still couldn't stop myself. Do you despise me for hitting him?
 DYONI: If you hadn't fought him, I think I would have hated you.
 ALYDON: I knew he wouldn't really take you and give you to the Daleks. But I fought him. Oh, I wish Temmosus were here. What would he have said, Dyoni? Which is the most important? To fight and live, or to die without fighting.
+(Barbara and Ganatus have overheard this)
 BARBARA: What will happen now?
 GANATUS: I don't know. We always do what the leader of our race decides for us. He never decides anything without our full approval.
 BARBARA: And if Alydon decides not to help us? Well, we'll have to wait till the morning. What's that light in the sky? It's a reflection from the city, I suppose.
@@ -1103,6 +1386,10 @@ BARBARA: What happened to the others?
 GANATUS: Well, we found what was left of one of them. The lake is alive with mutations, bred and crossbred until the original has long been replaced by. I'm sorry, I'm being morbid.
 BARBARA: Oh, I don't mind as long as we're this far away. But I wonder why the Daleks haven't cleaned it out? Killed everything?
 GANATUS: Why should they? Isn't it the perfect defence for the back of a city? Only a fool would attack the city from the lake.
+
+[Control room]
+
+(We are looking through a Dalek eye-piece)
 DALEK 2: Has the anti-radiation drug distribution been stopped?
 DALEK 3: Yes. Only Daleks in section two and three received it. All Daleks in section three have now died.
 DALEK 2: Daleks in section two are to be brought to the sonic chamber.
@@ -1110,6 +1397,9 @@ DALEK 3: We will direct the air polluted by radiation away from the nuclear reac
 DALEK 2: And if they do not die, we shall have our answer.
 DALEK 3: But if we need radiation, we can never rebuild the world outside.
 DALEK 1: We do not have to adapt to the environment. We will change the environment to suit us.
+
+[Thal camp]
+
 ALYDON: I have one question to ask of you. If we do not help you, what will you do?
 IAN: We'll find our way into the city, and take back our lost equipment.
 ALYDON: You see, we cannot stand by and let these people die. If we do not help them, it would be the same as if we had killed them ourselves. Well, the way I have reasoned is this. The Daleks are strong and they hate us. And I am sure they will find a way to come out of their city and kill us. So it is not merely a question of whether we go off in a vain search for food and in all probability starve to death. We face death now. In the city is enough food for all of us and all of the Daleks, a hundred times over. My conclusion is this. There is no indignity in being afraid to die. But there is a terrible shame in being afraid to live. If none of you agree with my reasons, then let me go with these people, and I will help you elect a new chief.
@@ -1118,6 +1408,7 @@ THAL: And I.
 THAL 2: Let's start at once.  
 ANTODUS: And I.
 IAN: Thank you.
+(Ganatus has got a map of the area)
 ALYDON: You knew what my decision would be.
 GANATUS: I could always have destroyed it if you'd decided differently.
 DOCTOR: If we get this intelligent anticipation, we shall succeed. Let's see this. Now, what is this area here?
@@ -1134,6 +1425,9 @@ DOCTOR: Yes, yes. Well, now, I suggest we split into two groups. The one to dist
 IAN: Yes, I think that's the best plan.
 DOCTOR: Are we all agreed?
 ALYDON: Yes. Very well then. That is what we must do.
+
+[Control room]
+
 DALEK 2: The laser scope is transmitting. The quality is poor. What has happened? Has this group broken away? Is there a plan behind it? Why divide their forces?
 DALEK 1: The figures are coming through on the radiation treatment.
 DALEK 2: Discontinue laser scope.
@@ -1141,6 +1435,9 @@ DALEK 1: There is an improvement. Except for one serious case, all Daleks in sec
 DALEK 2: Then our position is clear. For us, the drug is a poison.
 DALEK 1: And radiation is still necessary to us.
 DALEK 2: Essential. I want a complete survey of our stock of nuclear materials. I want an estimate of the amount of waste matter from the nuclear reactors.
+
+[Swamp]
+
 ANTODUS: We'll never get through.
 GANATUS: Yes, we will.
 ANTODUS: What makes you think it'll be any different to the first time.
@@ -1152,6 +1449,7 @@ GANATUS: That's enough. We're going on, Antodus. You keep your fears to yourself
 ANTODUS: Yes.
 GANATUS: Well, is it?
 ANTODUS: Yes!
+(Antodus moves on, Ian arrives)
 GANATUS: Well, this is the swamp. From now on it's going to be rather uncomfortable.
 IAN: Yes, I see what you mean.
 GANATUS: The ground's very uneven. Sometimes rock, sometimes thick mud. You'll have to watch how you walk. I think it'll be a wise plan to find a place to rest for the night.
@@ -1160,12 +1458,14 @@ GANATUS: If there is a way through.
 IAN: We'll find a way. I'll go and give Barbara a hand.
 GANATUS: I'm surprised you let her come.
 IAN: I'd be more surprised if I could have stopped her. How are you doing?
+(Barbara is wearing a pair of the Thal's leather trousers with cut outs on the outside of the legs, and sandals)
 BARBARA: Fine. Oh, I'm glad the mountaineering's over.
 IAN: There'll be some more once we get through this little lot.
 BARBARA: We're going through there?
 IAN: Well, we must. We've got a deadline with the Doctor in two and a half days, and we've got to make it.
 BARBARA: Well I think we could all do with a rest.
 IAN: No, we'll keep up with the others. They'll be breaking camp soon. Now take care. Watch where you put your feet. All right?
+(A little further on)
 GANATUS: This looks like a fairly dry section.
 IAN: Yes, this'll do.
 GANATUS: Right, we'll make camp here. See if we can gather up some dry branches.
@@ -1173,6 +1473,7 @@ IAN: All right.
 GANATUS: It'll make it more comfortable to sleep on. Barbara, you see to the food. I'll get the fire going.
 BARBARA: Right.
 GANATUS: At least it might stop some of these, these things from bothering us.
+(As they settle down for their meal, the swamp gets very noisy. Ian washes his face in the water. Something with glowing eyes rises up in front of him and he runs back to the camp)
 BARBARA: What was it? Did you see anything?
 IAN: Yes, it was a
 GANATUS: Kristas, stand guard here, will you?
@@ -1180,6 +1481,7 @@ KRISTAS: Right.
 GANATUS: We'll take the first watch between us.
 IAN: I'm all right, really.
 GANATUS: Yes, I know, but I think you two Earth people should get as much sleep as possible. We're more used to this kind of life. It's over a year since we left our own plateau in search of a new source of food. I'd almost forgotten what it was like to stay in one place and enjoy it. I suppose there'll be an end to it one day.
+(Next morning)
 GANATUS: Time to move, my friend.
 IAN: You let me sleep.
 GANATUS: Yes.
@@ -1190,8 +1492,10 @@ ELYON: Come and see what I found by the lake.
 GANATUS: Right.
 IAN: Hold on. I'll come with you. Morning.
 BARBARA: Morning. Oh, for a feather pillow and a spring mattress.
+(By the lake)
 GANATUS: What did you see?
 ELYON: Over there.
+(Pipes running from the rocks into the lake)
 IAN: We were right. The Daleks do get their water from the lake.
 GANATUS: But how would it get to the city from there?
 IAN: Well, there must be a way. I mean, the Daleks aren't very mobile. They must have cut a pathway through there to work on the pipeline.
@@ -1201,20 +1505,29 @@ IAN: I'm sorry, that's one way I'm not going.
 ELYON: Well, it would be dangerous, certainly. The lake is full of mutations.
 GANATUS: No, we must go round.
 IAN: Yes, and we ought to try and get there before the sun goes down.
-ELYON: Well I'll just go and fill the water bags.  There's no point in trying to cross the lake, you think?
+ELYON: Well I'll just go and fill the water bags. (a little away from Ian) There's no point in trying to cross the lake, you think?
 GANATUS: No. No, he's right. Anyway, think how long it would take to build a light raft.
+(Back at the camp)
 IAN: Barbara, we saw some pipes going into the lake.
 BARBARA: So we can go through?
-IAN: Maybe. With a bit of luck, eh? Thanks.  Mmm. Good.
+IAN: Maybe. With a bit of luck, eh? Thanks. (for the hot drink) Mmm. Good.
 BARBARA: Where's Elyon?
 GANATUS: He's gone to fill the water bags. He won't be long.
+(We see a maelstrom open up in the lake, and then everyone hears a scream)
 GANATUS: Stay here.
+
 Episode Six - The Ordeal
+
+(At the lakeside, the water bags are floating and the maelstrom is diminishing)
 ANTODUS: What is it? What's happened to Elyon?
 IAN: There's nothing we can do here.
 BARBARA: Ian?
 ANTODUS: Did Elyon fall in? What happened?
 GANATUS: It must have happened very quickly. Come on now. We must reach the cliffs by tonight.
+
+[Forest edge]
+
+(Susan is using the binocular glasses to look at the city. Dyoni updates the map with information. They are trying to hide behind a rock)
 SUSAN: There are four roads that lead off from the main square, going north, south, east and west.
 ALYDON: The main ventilators seem to be over in this section.
 DOCTOR: Hmm.
@@ -1222,6 +1535,7 @@ SUSAN: Oh, that's wrong. It goes down there and up.
 DOCTOR: Can you see any way in at all?
 ALYDON: No.
 DOCTOR: Oh, you'll allow me, will you?
+(The Doctor takes the glasses)
 SUSAN: Grandfather, get down.
 DOCTOR: Yes, yes, yes. Now, the things we have to put out of action is the radio and television waves. They've obviously got complete coverage in and around the city.
 ALYDON: They don't leave much to chance.
@@ -1231,14 +1545,20 @@ DOCTOR: Then we must stop the pictures. Remember, the Daleks aren't very mobile.
 SUSAN: Yes, we do have speed on our side.
 DOCTOR: And there's always value in surprise. I know it looks difficult, but we must try it, my friends. Yes, we must.
 ALYDON: Yes. I wish I knew what they were planning for us.
+
+[Control room]
+
 DALEK 2: The report for the neutron bomb is prepared.
 DALEK 1: Let us hear it.
-DALEK : Report on neutron bomb to cover five hundred square miles. Time to construct, twenty three days.
+DALEK [OC]: Report on neutron bomb to cover five hundred square miles. Time to construct, twenty three days.
 DALEK 1: Is that the shortest possible time?
-DALEK : Yes.
+DALEK [OC]: Yes.
 DALEK 1: Very well. It is too long.
 DALEK 2: We must abandon the idea of a neutron bomb.
 DALEK 1: We must find another way of spreading radiation.
+
+[Cave]
+
 GANATUS: It's getting narrower.
 BARBARA: Oh, it's like all the other caves. Just tails off into a dead end.
 GANATUS: There's a gloomy thought for you.
@@ -1261,20 +1581,22 @@ GANATUS: Do you always do what Ian says?
 BARBARA: No, I don't.
 GANATUS: Well, let me have the torch then. Unless you think you
 BARBARA: No, no. Your need is greater than mine.
-GANATUS : Barbara?
+(Ganatus crawls into the opening)
+GANATUS [OC]: Barbara?
 BARBARA: Yes?
 GANATUS: There seems to be a drop of about thirty feet or so. I'm going down.
 BARBARA: Well, be careful.
-GANATUS : Tie your end of the rope around a rock or something, will you?
-BARBARA: Yes, all right.  Ready.
-GANATUS : Right.
+GANATUS [OC]: Tie your end of the rope around a rock or something, will you?
+BARBARA: Yes, all right. (she uses a boulder by her feet) Ready.
+GANATUS [OC]: Right.
+(But as the rope plays out, the boulder drags and her foot gets thrown off the rope. Ganatus falls)
 BARBARA: Ganatus? Ganatus!
 IAN: What's happened?
 BARBARA: I couldn't hold onto it.
 IAN: Where's Ganatus?
 BARBARA: It slipped through my fingers. He's down here, look.
-GANATUS:  Barbara?
-IAN : All right this end. Are you hurt?
+GANATUS: (bottom of shaft) Barbara?
+IAN [OC]: All right this end. Are you hurt?
 GANATUS: No, I'm not.
 ANTODUS: Is my brother hurt?
 BARBARA: No, he isn't, but it was my fault. The rope slipped off the rock.
@@ -1283,15 +1605,25 @@ GANATUS: Barbara?
 IAN: Are you sure you're all right?
 GANATUS: Yes. What happened to Barbara?
 IAN: She's okay. Don't worry. Hang on a minute. I'm bringing another rope down to you.
+
+[Cavern]
+
 GANATUS: It would be better if you came down here. There's a big cavern with lots of tunnels going off it. Unless you've found anything else, this seems a fair chance.
-IAN : No, we haven't. Hang on, we'll be with you in a couple of minutes.
+IAN [OC]: No, we haven't. Hang on, we'll be with you in a couple of minutes.
 GANATUS: Good. It looks as though it may have been a lucky fall.
-DALEK : Rangerscopes are recording great activity amongst the Thal people.
+
+[Control room]
+
+DALEK [OC]: Rangerscopes are recording great activity amongst the Thal people.
 DALEK 1: Are there pictures?
-DALEK : No, reception is bad.
+DALEK [OC]: No, reception is bad.
 DALEK 1: They are attacking our instruments.
 DALEK 2: We must keep alert.
 DALEK 1: Yes. Concentrate all power of rangerscopes and vibrascopes on all entrances to the city.
+(The Thals are using metal to reflect the sunlight back to the city)
+
+[City wall]
+
 DOCTOR: It looks as if my plan has worked.
 ALYDON: We can't keep up this light reflection for long.
 DOCTOR: Never mind. It gives us a better chance to get into the city unnoticed.
@@ -1302,6 +1634,9 @@ DOCTOR: Hmm?
 ALYDON: According to the map, we should be moving further to our left, in that direction.
 SUSAN: Yes.
 DOCTOR: Yes, yes, I see. Well you go ahead, will you? Go along, child. Yes, we'll show them a thing or two.
+
+[Cavern ledge]
+
 IAN: So far, so good. It seems to be broadening out a bit.
 GANATUS: Who knows, it may stop being impossible.
 BARBARA: Just become unbearable.
@@ -1325,17 +1660,25 @@ GANATUS: We can't turn back now.
 ANTODUS: The others can't, but we could. Listen, they're going to die anyway. We could just go back and tell the others that the Daleks killed them.
 GANATUS: What are you talking about? You must go back.
 ANTODUS: I'm not going on.
-GANATUS: You are. You must.  Antodus? I'm sorry. Are you hurt? Ian!
+GANATUS: You are. You must. (there's a scuffle, and Antodus bangs his head) Antodus? I'm sorry. Are you hurt? Ian!
+(There is a rock fall behind the group)
 IAN: Is he hurt?
 GANATUS: A rock hit him. It would have hit me, but he pushed me aside. He was very brave.
 IAN: Well, I hope he hasn't cut his head.
 ANTODUS: I'm all right.
 GANATUS: Ian, we can't go back the way we came. We must go on now.
-DALEK : Emergency. Emergency. Reaction on the vibrascopes.
+
+[Control room]
+
+DALEK [OC]: Emergency. Emergency. Reaction on the vibrascopes.
 DALEK 1: Where?
-DALEK : Section fifteen, city wall.
+DALEK [OC]: Section fifteen, city wall.
 DALEK 2: Shall I redirect the rangerscopes?
 DALEK 1: No. If we track them by their vibrations, we can take them by surprise.
+
+[City wall]
+
+(Susan has found a panel on a wall)
 SUSAN: Hey, Grandfather, look.
 DOCTOR: Yes?
 SUSAN: Is this what you want?
@@ -1346,6 +1689,7 @@ SUSAN: Well it leads up to the antennae.
 ALYDON: Well, it certainly goes in that direction, but I can't see it all.
 SUSAN: I wonder if I can open this box. There aren't any hinges on it. Oh, that's it. Look, look, it slides up.
 DOCTOR: Ah, good girl. Now, just take it over there. That's it. Now, look out.
+(He breaks the internal glass panel)
 SUSAN: The thing is, how are we going to cut the wire now it's exposed without getting a terrific shock?
 ALYDON: Look, we can't wait around here too long.
 DOCTOR: No, just a minute. Now, you go and tell your friends to stop flashing the light on the antennae. Because for all we know, the Daleks might have a beam to throw on them, paralyse them, kill them.
@@ -1356,10 +1700,14 @@ DOCTOR: Yes, yes, yes, yes. We shall be back before then. Now go. Dear, dear, de
 SUSAN: Oh, what a good idea. Yes.
 DOCTOR: Yes, yes, yes. I can always make another one if necessary.
 SUSAN: Of course.
+(The key is on a chain around her neck. He drops it into the wall panel)
 DOCTOR: Now, the power's running away. That'll teach the Daleks to meddle in our affairs.
 SUSAN: What about this one?
+(Another small panel with a revolving disc)
 DOCTOR: Well, of course.
+(He breaks the glass, and loops the chain up to connect to the panel)
 DOCTOR: Watch it.
+(A monitor goes out in the control room)
 DOCTOR: Now, we've shorted it, you see. So something must have gone somewhere else. The extent of the damage, of course, we don't know yet.
 SUSAN: Look, Grandfather, this is marvellous, but they must have a fault locator somewhere. We must get away from here.
 DOCTOR: But, my dear child, don't you realise what I've done? A few simple tools
@@ -1367,6 +1715,11 @@ SUSAN: Yes, but we mustn't waste time.
 DOCTOR: A superior brain.
 SUSAN: We must go now!
 DOCTOR: But, child, look
+(He turns to see a phalanx of Daleks trapping them)
+
+[Cavern ledge]
+
+(They have come to a gap in the ledge)
 IAN: Look out. No place for a quiet stroll, is it?
 GANATUS: It looks pretty wide.
 IAN: Yes, and deep. Well, you might as well take a rest while we sort this one out. No point in going that way, it widens out. There's no foothold at all on this side. There's a ledge over there, look. About two to three feet, would you say?
@@ -1374,6 +1727,7 @@ GANATUS: There seems to be some sort of cleft in the rock face there.
 IAN: Yes, I think you're right. We'll have to get over there.
 GANATUS: How about going down this side on a rope, and trying to climb the other?
 IAN: Yes, well, see how deep it is. Hold the torch. A pebble.
+(Five seconds until the splash)
 GANATUS: How do we do it?
 IAN: We jump.
 GANATUS: There's not much space to land in.
@@ -1381,20 +1735,26 @@ IAN: No.
 GANATUS: Ah, well, I'll go
 IAN: I'll. You go and tell them we're going to jump.
 GANATUS: We're going to jump it.
+(Ian ties a rope around his waist)
 IAN: Shine the torch on that ledge. Keep clear of me when I run, and give me plenty of rope.
 BARBARA: Good luck.
+(He makes it)
 IAN: All right. Ganatus, you come over next and we'll explore that cleft in the rock.
 GANATUS: Right.
 IAN: Quite firm. I think there's just about enough room for two of us.
-GANATUS:  Take up the slack, will you?
+GANATUS: (throws another rope) Take up the slack, will you?
 IAN: Right.
 BARBARA: Good luck.
 GANATUS: Ready?
-IAN: Take a good long run.  Good jump. You should have come first.
+IAN: Take a good long run. (he does) Good jump. You should have come first.
 GANATUS: Now, I'll take a look at this cleft. The torch? Pay it out slowly.
 IAN: Right.
-GANATUS: It's all right. There's a handhold just here.   A little more rope. It goes wider. It seems to be some sort of a tunnel. I don't need the rope any more. Bring the others over.
+GANATUS: It's all right. There's a handhold just here. (he disappears from sight) [OC] A little more rope. It goes wider. It seems to be some sort of a tunnel. I don't need the rope any more. Bring the others over.
 IAN: Right. Rope coming over.
+
+[Control room]
+
+(The Doctor and Susan are sitting cross-legged on the floor)
 DALEK 1: You have destroyed our videoscope and one of our lifts.
 DOCTOR: And you in turn killed the Thal leader in your ambush. And you will be responsible for more deaths unless you help these people.
 DALEK 1: The only interest we have in the Thals is their total extermination.
@@ -1406,6 +1766,10 @@ DALEK 1: No, extermination.
 DOCTOR: But you must listen to reason. Please, you must.
 DALEK 1: Without radiation, the Dalek race is ended. We need it as you and the Thals need air.
 ALL: Tomorrow, we will be the masters of planet Skaro.
+
+[Cavern ledge]
+
+(Barbara makes her leap into Ian's arms)
 BARBARA: Oh, I thought I wouldn't make it.
 IAN: You did well. Just get your breath back for a minute.
 BARBARA: I'm all right. Ian?
@@ -1413,20 +1777,28 @@ IAN: Oh, no, not that way. Now stay still. Give me your other hand. You've got t
 BARBARA: I, I can't reach.
 IAN: Higher. Go on.
 BARBARA: Yes.
-IAN: Now, let go of my hand and swing yourself round. Go on.  All right?
+IAN: Now, let go of my hand and swing yourself round. Go on. (she disappears into the cleft) All right?
 BARBARA [OC[: Yes.
 KRISTAS: I'll throw the fire.
 IAN: Right. Rope coming over.
 KRISTAS: Will you go next, Antodus?
 ANTODUS: No, you go on.
 KRISTAS: Very well.
+(Kristas does his leap)
 IAN: You made it look easy. Got the grip?
 KRISTAS: Yes, I'm clear. Rope coming over.
+(Antodus makes no attempt to catch it)
 IAN: Sorry. Bad throw, my fault. Move back from the edge.
 ANTODUS: I can't do it.
 IAN: Move back from the edge and catch this rope. Ready? Coming now. Good. Now, tie it round yourself. Tight! Now give yourself a good long run and jump. I'm ready whenever you are.
-ANTODUS : Help me! Help me! I can't hold on. I can't hold on!
+(Antodus jumps, but doesn't get a good foot hold and slips back into the crevasse. Ian is pulled off his feet and is hanging onto a rock for dear life)
+ANTODUS [OC]: Help me! Help me! I can't hold on. I can't hold on!
+
 Episode Seven - The Rescue
+
+[Cavern ledge]
+
+(Ian is losing his grip when Ganatus comes to help)
 GANATUS: I daren't let go with my other hand.
 IAN: Antodus, get a grip on the rock face. Take the weight off the rope.
 ANTODUS: It's too smooth.
@@ -1437,7 +1809,12 @@ GANATUS: It's no good, Ian.
 IAN: Call the others.
 GANATUS: Kristas! Kristas!
 IAN: Kristas!
+(So Antodus takes the weight off the rope by cutting it, and falling to his death)
 GANATUS: Antodus.
+
+[Control room]
+
+(Susan and the Doctor are fastened hand and foot to the walls. The first lines of dialogue are overlapping)
 DALEK: What we need for life means death for the Thals.
 DOCTOR: You could live in the city and the others could. But why do you have to destroy? Can't you use your brains for right?
 DALEK: Only one race can survive.
@@ -1448,6 +1825,9 @@ DALEK: Except the Daleks.
 DOCTOR: When do you intend to put this into operation?
 DALEK: Now.
 DOCTOR: This senseless, evil killing.
+
+[Tunnel]
+
 KRISTAS: There's been a fall of rock. The way is blocked.
 IAN: Did you look all round it?
 KRISTAS: Yes. There's no way through.
@@ -1458,6 +1838,7 @@ IAN: We must go back and find another way.
 GANATUS: Oh, why don't we just give up?
 IAN: Because your brother died, for one thing. He gave us a chance.
 GANATUS: My brother didn't want us to come. He said we'd all die.
+(The fire in the storm lantern starts to fade)
 BARBARA: What's the matter with it?
 KRISTAS: I don't know. Dirt's got into it, I expect. And if we're going back, we'll have to go back now. We can't cross the chasm without light.
 BARBARA: Well, we still have the torch.
@@ -1467,11 +1848,18 @@ KRISTAS: Right.
 IAN: Wait a minute. There's a light coming in here. Where's it coming from? Where's the light coming from? Here. Give me a hand.
 BARBARA: Can you see anything?
 GANATUS: What is it?
+(Ian removes a few rocks and sees - )
 IAN: We're through. We must have been travelling under the pipes all the time. We're through.
+
+[Forest edge]
+
 DYONI: Alydon. The antenna hasn't moved for some time.
 ALYDON: No. The Doctor must have succeeded in putting it out of action.
 DYONI: But why haven't they returned?
 ALYDON: The Daleks must have captured them. Now listen, everybody. The way to the city is clear. Now is the time to attack. We may be farmers, but have we forgotten how to fight?
+
+[Control room]
+
 DALEK 1: Power down to half.
 DALEK 2: Down to half.
 DALEK 1: Seal off nuclear waste disposer.
@@ -1503,20 +1891,30 @@ DOCTOR: No. Not unless you stop what you're doing. Otherwise I won't explain its
 DALEK 1: Now we know of the machine, we can examine it for ourselves.
 DOCTOR: But you can't operate it without me.
 DALEK 1: Every problem has a solution.
-DALEK : Vibration locator records movement inside the city wall.
+DALEK [OC]: Vibration locator records movement inside the city wall.
 DALEK 1: Details.
-DALEK : Disturbance is too great.
+DALEK [OC]: Disturbance is too great.
 DALEK 1: Alert Daleks in Section one. The Thals are entering the city.
 SUSAN: Grandfather, they're coming.
 DOCTOR: Can they get here in time?
+
+[Corridor]
+
+(Ian, Barbara, Ganatus and Kristas are making their way along a metal corridor)
 IAN: Now where are we?
 BARBARA: I have no idea. I have some experience in these corridors. They all look alike.
 IAN: Yes, we could go back to the lift, but. Get back!
-DALEK : Alert. The Thals are entering the city. All Daleks in section one to level one. Immediate. Immediate.
+(A Dalek on patrol stops to listen to the announcement)
+DALEK [OC]: Alert. The Thals are entering the city. All Daleks in section one to level one. Immediate. Immediate.
+(It trundles off)
 IAN: Alydon and the Thals must be in the city. We must find the control room.
+
+[Control room]
+
 DALEK 2: Interior videoscopes are recording movement on level eight.
 SUSAN: Grandfather, look. Look, they found a way through.
 DALEK 1: All Daleks on level eight. Urgent.
+(Ian smashes the spy camera)
 DALEK 1: The Thals have penetrated to level eight. Immediate action. Immediate action.
 DALEK 2: How did they get into the city?
 DALEK 3: Capsule ready to go critical.
@@ -1526,6 +1924,9 @@ DALEK 1: The last stage of the operation is about to begin.
 DOCTOR: Stop it, please.
 DALEK 1: Nothing can stop the Daleks. Begin countdown. One hundred.
 DALEK 3: Beginning now.
+
+[Corridor]
+
 GANATUS: Alydon.
 ALYDON: Ganatus. Have you found the Doctor?
 BARBARA: Well, isn't he with you?
@@ -1537,59 +1938,91 @@ BARBARA: We must find the Doctor and Susan.
 IAN: Barbara, first and foremost we must find the control room and knock it out.
 ALYDON: And Antodus?
 GANATUS: Yes, he died bravely.
-DALEK : Daleks go to control room immediately. All Daleks to level ten.
+DALEK [OC]: Daleks go to control room immediately. All Daleks to level ten.
 ALYDON: But this is level nine. We must be near.
 KRISTAS: We've got to go on.
 BARBARA: There's a lift back there. It's only one floor up.
-DALEK : All Daleks to level ten immediately. Corridor intersections on all levels other than ten will be sealed now.
-IAN: Get the door, quick!  That one.
+DALEK [OC]: All Daleks to level ten immediately. Corridor intersections on all levels other than ten will be sealed now.
+IAN: Get the door, quick! (but it closes) That one.
 ALYDON: You first.
+(Barbara scrambles through)
 BARBARA: There's another one.
 ALYDON: Quickly, Barbara, get to it.
 GANATUS: Barbara!
+
+[Control room]
+
 DALEK 3: Fifty two.
 DALEK 2: The Thals are blocking the intersections from sealing on level nine.
 DALEK 3: Fifty one.
 DALEK 1: Increase power. Emergency. Increase power.
 DALEK 3: Forty nine. Forty eight.
+
+[Corridor]
+
+(Barbara is caught under a closing door)
 IAN: Quick. Wait a minute, I'll take the strain. Barbara, try and slide yourself out.
 BARBARA: I can't move.
-GANATUS:  They're pressing down harder.
+GANATUS: (who has also wedged himself under the door) They're pressing down harder.
 IAN: They're increasing the pressure. Barbara, you must try and roll out. Try and free yourself.
 KRISTAS: Just get my hands under.
 BARBARA: I'm through.
 IAN: Alydon. Right. You go next.
+
+[Control room]
+
 DALEK: Forty six. Forty five. Forty four. Forty three. Forty two.
+(They shoot a young Thal who breaks in)
+
+[Corridor]
+
+(Ian is the last to crawl under the door)
 GANATUS: Try, Ian. It's crushing us both. Come on.
+
+[Control room]
+
 DALEK: Forty. Thirty nine. Thirty eight. Thirty seven. Thirty six. Thirty five. Thirty four. Thirty three.
+(Ian is leading his group up the corridor, dodging Daleks as they come)
 DALEK: Thirty two. Thirty one. Thirty. Twenty nine. Twenty eight. Twenty seven. Twenty six. Twenty five. Twenty four. Twenty three. Twenty two. Twenty one. Twenty.
+(Ian and Alydon see Susan and the Doctor)
 DALEK: Nineteen. Eighteen. Seventeen.
+(They dash over to the alcove where they are shackled to the wall)
 DALEK: Sixteen. Fifteen. Fourteen.
+(Barbara throws a rock at a Dalek then gets away)
 DALEK: Thirteen.
 DALEK 1: Follow and kill her.
 DALEK: Twelve. Eleven. Ten.
+(The Dalek gets blindfolded and grabbed by the group)
 DALEK 2: Trapped. Help me. Trapped.
+(Ian and Alydon free the Doctor and Susan, and they make a run for it as Thals pounce the Daleks and get shot for it)
 DALEK: Nine. Eight. Seven. Six. Five. Four.
 DALEK 3: Reinforcements. Overpowered. Reinforcements. Quickly. Quickly.
+(A Dalek gets rammed into a control panel, with satisfactory results)
 DOCTOR: Chesterton, come here.
 IAN: Doctor! Doctor, I think they're dying.
 DALEK 1: Power going.
 DOCTOR: They were about to spread radiation into the air.
 IAN: We've knocked out their source of power, I tell you. Look!
+(And he kicks one across the room)
 SUSAN: Barbara, is he all right?
 BARBARA: Yes. He's very badly hurt, but he's alive.
 DALEK 1: Listen to me.
 DOCTOR: Yes.
-DALEK 1:  Stop our power from wasting or it will be the end of the Daleks.
+DALEK 1: (very slowly) Stop our power from wasting or it will be the end of the Daleks.
 DOCTOR: Even if I wanted to, I don't know how.
 ALYDON: It's finished. The final war. Five hundred years of destruction end in this.
 DOCTOR: No doubt you will have other wars to fight. Chesterton, come along, my boy. We've got work to do. I want to look at the reactors and see if there's any radiation leakage.
 IAN: Yes, and get the ship working again, Doctor.
+(holds up the fluid link)
 DOCTOR: Hmm? Oh, yes, yes, yes, of course. Come along. Come along.
 ALYDON: Kristas, you all right? Here, let's get him up to the air. All this machinery. What good is it to us? None of us knows the first thing about it.
 BARBARA: Well, you must experiment. These Dalek inventions should be of some use to you.
 SUSAN: The Daleks have developed food by artificial sunlight. You've got everything you need now.
 GANATUS: Yes. If only there'd been some other way.
+
+[Thal camp]
+
+(Alydon is examining a piece of machinery)
 DOCTOR: This is what they call a compensator, my friend.
 ALYDON: Which is?
 DOCTOR: The whole of it. It's useless. Throw it away. Forget it. Unless you want to live in a shell like our dead friends.
@@ -1601,6 +2034,7 @@ ALYDON: Well then, stay and advise us. Please.
 DOCTOR: No, no, thank you. We're much too far away from home, my granddaughter and I. Thank you all the same. It's a nice gesture on your part. You know, this soil is not quite so barren as you think. I've been making tests, and even you might live to see and hear the birds amongst the trees. You wanted advice you said. I never give it. Never. But I might just say this to you. Always search for truth. My truth is in the stars and yours is here.
 DYONI: Won't you rest with us?
 DOCTOR: No, I'm afraid it's out of the question. But I might visit your grandchildren to find if they've learned the secrets, and if they have, well, who knows, I might live with them.
+(Susan runs in, wearing a Thal cape)
 SUSAN: Ta-da! Look, Grandfather, isn't it terrific? Thank you, Dyoni.
 IAN: What are you up to, Susan?
 SUSAN: It's a present from Dyoni. Isn't it gorgeous?
@@ -1613,20 +2047,28 @@ ALYDON: Goodbye, Ian.
 DOCTOR: Come along, my child. I'm hungry.
 SUSAN: Goodbye, Dyoni.
 DYONI: Goodbye.
-SUSAN: Thank you.  Goodbye.
+SUSAN: Thank you. (hugs Alydon) Goodbye.
 IAN: Goodbye, Ganatus.
 GANATUS: Goodbye, Ian.
 IAN: Barbara.
 BARBARA: Right.
-DOCTOR: Oh, how stupid of me. I very nearly forgot my specimens. Oh, your hand, sir.  Goodbye.
+DOCTOR: Oh, how stupid of me. I very nearly forgot my specimens. Oh, your hand, sir. (shakes it) Goodbye.
 ALYDON: Goodbye, Doctor.
 BARBARA: Well, Ganatus?
-GANATUS: Well, Barbara.  The dress you make from this won't be suitable for swamps and caverns.
+GANATUS: Well, Barbara. (hands over material) The dress you make from this won't be suitable for swamps and caverns.
 BARBARA: Well, that's a good thing.
 GANATUS: Yes.
 BARBARA: It's beautiful. Thank you very much. Thank you for everything.
 GANATUS: I wish
-SUSAN : Barbara, we're waiting.
+SUSAN [OC]: Barbara, we're waiting.
+(Ganatus kisses Barbara's hand. She kisses him on the lips and goes into the Tardis)
 ALYDON: Come along, Ganatus.
 DYONI: Don't be sad, Ganatus.
 GANATUS: I won't be. But I don't think I'll ever forget her.
+(The Tardis dematerialises)
+
+[Tardis]
+
+(The Doctor is adjusting controls, when suddenly the Tardis judders. Everyone is knocked off their feet and it goes dark)
+
+

@@ -1,26 +1,50 @@
 The Chase
+
+
 Episode One - The Executioners
+[Control room]
+
 DALEK 1: Our greatest enemies have left the planet Xeros. They are once again in time and space.
-DALEK 2 : They cannot escape! Our time machine will soon follow them. They will be exterminated! Exterminated! Exterminated!
+DALEK 2 [OC]: They cannot escape! Our time machine will soon follow them. They will be exterminated! Exterminated! Exterminated!
+
+[Tardis]
+
+(The Doctor is working on a large circular device with a television screen in the middle)
 DOCTOR: Don't whistle, dear, please.
 VICKI: Well, have you nearly finished, Doctor?
+(The Doctor's reply is rendered unintelligible by the screwdriver in his mouth. Vicki whistles again.)
 DOCTOR: Stop whistling!
 VICKI: Well, can I do anything to help?
-DOCTOR:  Buzz off, now.
+DOCTOR: (mumble) Buzz off, now.
+
+[Tardis living area]
+
+(Ian is reading Monsters from Outer Space)
 VICKI: What are you reading?
+(He shows her the title)
 VICKI: Is it good?
 IAN: Yes. A bit far-fetched.
+(Vicki starts reading it over his shoulder, then leans on him to see better. He moves)
 VICKI: Oh, all right.
+
+[Women's bedroom]
+
 VICKI: I am redundant around here.
 BARBARA: Oh, nonsense. Come and sit down and talk to me.
 VICKI: I am a useless person.
+(Vicki sits on the edge of a 'bed' which then tips her forward making her knock over whatever Barbara was using)
 BARBARA: Oh, Vicki!
 VICKI: Oh, what was it?
 BARBARA: Oh, it was a dress for you.
+
+[Tardis]
+
+(There's a very loud, skull-penetrating noise coming from the device)
 IAN: What's the matter? What's the trouble?
 DOCTOR: Out of the way! Out of the way!
 IAN: What's the matter?
 BARBARA: Doctor! Turn it off!
+(The Doctor finds the volume control)
 BARBARA: Oh, that's better.
 IAN: Are you trying to deafen us all or something?
 DOCTOR: Deafen you? No, no, dear boy. It was an unfortunate juxtaposition of the sonic rectifier with the lineal amplifier.
@@ -52,11 +76,13 @@ IAN: Oh, Earth, that's easy.
 DOCTOR: Now the geographical location, date and time.
 IAN: Nineteenth of November, 1863. The place, Pennsylvania, USA.
 DOCTOR: Good! Don't go away.
+(The noise starts up again and has to be turned down)
 DOCTOR: Watch.
-LINCOLN : conceived in liberty, and dedicated to the proposition that all men are created equal.
+(An image appears on the small screen of a bearded man speaking quite clearly and carefully in an American accent)
+LINCOLN [on monitor]: conceived in liberty, and dedicated to the proposition that all men are created equal.
 BARBARA: Lincoln. Abraham Lincoln!
 IAN: Yes, that's what I asked for. The Gettysburg address!
-LINCOLN : Civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We've come to dedicate a portion of it as a final resting place for those who gave their lives that that nation might live. That is altogether fitting and proper that we should do so. But in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground.
+LINCOLN [on monitor]: Civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We've come to dedicate a portion of it as a final resting place for those who gave their lives that that nation might live. That is altogether fitting and proper that we should do so. But in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground.
 BARBARA: Doctor, can I have a go?
 VICKI: Can I? Can I? Please?
 DOCTOR: Yes, yes, yes, yes, now, all in good time, my dear, all in good time. Now, Barbara.
@@ -69,14 +95,19 @@ VICKI: I know it was!
 IAN: Well, where are we?
 VICKI: What is it!
 DOCTOR: Put it in there. In the slot. Now.
-QUEEN : We are well aware of what
+(A regal lady in a Tudor ruff is speaking)
+QUEEN [on monitor]: We are well aware of what
 IAN: It's Queen Elizabeth the first.
 DOCTOR: Shh!
 VICKI: Who's that man?
 BARBARA: Oh, wait and see.
+
+[Palace]
+
+(A man is hiding behind a tapestry)
 SHAKESPEARE: Is the Queen angry, sire? It was only a jest.
 BACON: She has graciously granted you an audience.
-SHAKESPEARE: Oh.  Oh, your Majesty!
+SHAKESPEARE: Oh. (goes forward and kneels) Oh, your Majesty!
 QUEEN: Master Shakespeare, you aware of the concern your character of Falstaff has caused to Sir John Oldcastle?
 BACON: It was so obviously he.
 SHAKESPEARE: Yes, well. I can explain, your Majesty.
@@ -86,22 +117,33 @@ QUEEN: Good. Give it no more thought. We found it very amusing. Tell me, have an
 SHAKESPEARE: No.
 QUEEN: Oh.
 SHAKESPEARE: No, I haven't, your Majesty.
-QUEEN : That's a pity. But it does not matter. We have idea which may be of service. You shall write a play of Falstaff in love.
+
+[Tardis]
+
+QUEEN [on monitor]: That's a pity. But it does not matter. We have idea which may be of service. You shall write a play of Falstaff in love.
+
+[Palace]
+
 QUEEN: Does that not fire your imagination?
 SHAKESPEARE: Oh, a happy idea, your Majesty. Yes.
 QUEEN: Away with you, Will. To your pen.
+(back behind the tapestry)
 BACON: I also have an idea that you may wish to use. The history of Hamlet, Prince of Denmark.
 SHAKESPEARE: I'm afraid not, sire.
 BACON: Oh, do you know the story then?
 SHAKESPEARE: I assure you, my lord, it would not be quite in my style.
 BACON: Very well then, scribbler.
 SHAKESPEARE: Hamlet, Prince of Denmark?
+
+[Tardis]
+
 IAN: Well, Barbara, did you find out what you wanted to know?
 BARBARA: I didn't really want to know anything. I just wanted to see Elizabeth's court. Did you see the way Shakespeare looked when he thought of Hamlet?
 IAN: Yes, I did. I
+(Vicki puts in her selection)
 IAN: Well, where are we now?
 VICKI: Shh.
-ANNOUNCER : This is BBC One. The next programme is due to start in just under one minute.
+ANNOUNCER [OC]: This is BBC One. The next programme is due to start in just under one minute.
 BARBARA: Vicki, what year have you got on there?
 VICKI: 1965.
 DOCTOR: Come along, come.
@@ -109,10 +151,11 @@ IAN: You've got a television.
 VICKI: Shh!
 IAN: showing
 VICKI: I want to watch it.
-HOST : Here singing their latest number one hit it's the fabulous wait for it. It's the fabulous Beatles!
+HOST [on monitor]: Here singing their latest number one hit it's the fabulous wait for it. It's the fabulous Beatles!
 VICKI: Yes! Fabulous!
 BEATLES: I think I'm gonna be sad, I think it's today, yeah! The girl that's driving me mad, Is going away.
 She's gotta ticket to ride, She's gotta ticket to ride. She's gotta ticket to ride, and she don't care. My baby don't care.
+(Everyone is bopping and singing along until Barbara leans on the volume and they loose the picture)
 IAN: Oh, Barbara.
 DOCTOR: Now you've squashed my favourite Beatles!
 IAN: Vicki, I had no idea you knew about the Beatles.
@@ -122,11 +165,16 @@ VICKI: Well, they're marvellous, but I didn't know they played classical music!
 BARBARA: Classical music?
 IAN: Get with it, Barbara. Get with it. Styles change, styles change.
 DOCTOR: I think you'd better turn it off, my dear. Yes, we're about to materialise.
+(The Tardis materialises in an apparently empty expanse)
 DOCTOR: Well, everything appears to be all right. Yes. The oxygen's high and the gravity is a little greater than Earth.
+
+[Outside the Tardis]
+
 BARBARA: Oh, it's hot.
 DOCTOR: Well, it's no small wonder. Look up there, my dear. Look. Two suns moving very quickly. I expect the days and nights are very short here.
 VICKI: Are we going to explore now then?
 BARBARA: I shouldn't think there is anything to explore. Just miles and miles of sand. And those strange things.
+(sculptures against the horizon)
 VICKI: You never know. Over that sand-dune there might be a city or a space-station or anything.
 DOCTOR: The child's just like me, you know. Always wants to know what's on t'other side of the hill.
 VICKI: I'm gonna find out too!
@@ -142,6 +190,16 @@ BARBARA: Look at her.
 IAN: Don't worry. I'll look after her.
 VICKI: Come on!
 IAN: All right, Christopher Columbus! Hang on.
+
+(Dune]
+
+VICKI: Come on.
+IAN: Yes, over there.
+VICKI: Look at this thing.
+IAN: What is it? It looks like a man, doesn't it?
+VICKI: Yes. but of frozen seaweed. Funny shape.
+IAN: Funny smell.
+(At the top of the ridge, Vicki's foot slips on something.)
 VICKI: Oh! Ian. Ian! Come and look at this.
 IAN: Hey. You know this gadget of the Doctor's? It really works.
 VICKI: Never mind that. Look at this.
@@ -154,24 +212,45 @@ VICKI: It's a trail.
 IAN: Probably blood.
 VICKI: Oh yes, it's bound to be. Come on, let's see where it leads.
 IAN: All right. It is ingenious, this.
+(After they leave, a long tentacle lifts itself out of the sand)
+
+[Outside the Tardis]
+
+(The Doctor and Barbara are sunbathing fully clothed on blankets. The Doctor starts singing)
 BARBARA: What's that awful noise?
 DOCTOR: I beg your pardon? awful noise? That's no way to talk about my singing!
 BARBARA: No, Doctor, not that awful noise, the other one. Listen to it!
+(It's a high pitched whine)
 DOCTOR: Oh, yes, yes, it sounds like the Visualiser. I think it's still on. Yes, would you mind going in and switching it off for me, dear?
 BARBARA: Okay. I've had enough sun anyway.
 DOCTOR: Yes, thank you.
+(Barbara leaves)
 DOCTOR: Oh, awful noise, indeed. Ha! I can charm the nightingales out of the trees.
-DALEK : The Supreme Dalek is ready to receive your report!
-DALEK : The report is ready.
+
+[Tardis]
+
+(Barbara tries to turn off the visualiser, but gets a signal instead)
+DALEK [OC]: The Supreme Dalek is ready to receive your report!
+DALEK [on monitor]: The report is ready.
 BARBARA: Doctor! Doctor, come quickly!
-DOCTOR : Yes, all right, my dear, all right, all right. What is it now? Gracious me, can't I even relax for five
+DOCTOR [OC]: Yes, all right, my dear, all right, all right. What is it now? Gracious me, can't I even relax for five
+(The Doctor enters)
 DOCTOR: The Daleks!
+
+[Control room]
+
 BLACK: Give your report.
 DALEK: Our time machine has been completed.
 BLACK: The operation will proceed at once. The movement scanners have located the enemy time machine, Tardis.
 DALEKS: Tardis! Tardis! Tardis! Tardis! Tardis!
+
+[Tardis]
+
 BARBARA: Doctor, he said the Tardis. And look, on their screen, that's us.
 DOCTOR: What is more important, he referred to the Tardis as the enemy time machine.
+
+[Control room]
+
 BLACK: At present it lies in the Segaro desert of the planet Aridius.
 DALEK: We await command.
 BLACK: The Doctor and the three humans delayed our conquest of Earth.
@@ -181,14 +260,24 @@ DALEK 1: They will pay for their crime!
 BLACK: Annihilate!
 DALEKS: Annihilate! Annihilate! Annihilate! Annihilate! Annihilate!
 BLACK: The assassination group will embark at once in our time machine. They pursue the humans through all eternity. They must be destroyed! Exterminate them! Exterminate! Exterminate! Exterminate!
+(Six Daleks trundle into their time machine like cars going into a fairground ghost ride, then it dematerialises)
+
+[Tardis]
+
+(The Doctor turns off the Visualiser)
 DOCTOR: My machine can only pick up the things that happened in the past.
 BARBARA: Then they're on their way here.
 DOCTOR: Or worse, already here. You heard their orders. We are to be exterminated!
 BARBARA: But Doctor, can't we get away from them?
 DOCTOR: Yes, yes, yes, yes, but Ian and the child. Come on, we have such little time.
+
+[Dunes]
+
+(they crest the dune)
 VICKI: Oh, come on, keep going.
 IAN: What do you think I am? One of these funny things? Yes, well, no space city, Vicki.
-VICKI: 
+VICKI: (unintelligible on the location film)
+(further on, back in the studio, they stop and sit)
 VICKI: The trail just ends.
 IAN: Well, we're a long way from the Tardis now, Vicki.
 VICKI: Yeah.
@@ -201,12 +290,15 @@ VICKI: Oh yes. We should get back, you know.
 IAN: Yeah. Soon be dark, you know. Look at those suns. Just like the Doctor said. They move fast. Hard, this ground, isn't it? Like glass.
 VICKI: Come on, Ian. Let's go.
 IAN: Yeah, all right. Hello, what's this?
+(He brushes the sand away)
 IAN: A ring. A ring in the sand.
 VICKI: No! No! The ring in the field!
 IAN: What? What are you talking about? What's the matter?
+(Vicki's started laughing)
 VICKI: Well, you see, when I was very young.
 IAN: Yes?
 VICKI: Near where I lived there was a field, and in this field there was a ring, just like that, sticking out of the ground. You see, the point was, on the other side of the hedge, there was a castle, an enormous thing, with a drawbridge.
+(It has gone dark now)
 VICKI: And
 IAN: Well, go on.
 VICKI: We had this thing, that if we pulled that ring
@@ -219,23 +311,42 @@ VICKI: Yes, all right, go on.
 IAN: I think I'll move it now.
 VICKI: Try turning it.
 IAN: No, won't turn. Hold on.
-IAN: Ah, Excalibur!  Come on. No castles, no drawbridges. Back we go.
+(It suddenly comes away and he tumbles backwards)
+IAN: Ah, Excalibur! (throws it away) Come on. No castles, no drawbridges. Back we go.
+(There's a creaking sound and they run back to see a trapdoor has opened. Vicki starts to go down the steps.)
 IAN: Vicki, just check it, eh?
 VICKI: Yes. Steps.
+(Meanwhile)
 BARBARA: Vicki! Ian! Nothing.
 DOCTOR: The wretched wind has wiped out all their tracks. It's so cold here.
 BARBARA: Yeah, come on Doctor, let's go back to the Tardis.
 DOCTOR: Ah, this way, dear.
 BARBARA: No, no, no, it's that way. I remember.
 DOCTOR: I have the directional instincts of a homing pigeon. Now, come along. Follow me.
+
+[Underground]
+
 IAN: Hello!
+(There's a late echo. It's dark and Ian almost misses his footing)
 VICKI: Oh! Oh, Ian, stay over here by this wall.
+(A tentacle closes the trapdoor. They can just make out the blobby shape in the dark)
+
+[Planet surface]
+
+(A sandstorm is raging)
+(The Doctor points one way, but Barbara spots it in another direction. They collapse under the onslaught of the wind)
+(Next morning, they lift their heads to see)
 BARBARA: It's changed. The whole landscape's changed! The Tardis has gone. There's no sign of it!
 DOCTOR: It's probably got buried in that sandstorm.
 BARBARA: But where? All these stretches of sand look exactly alike.
 DOCTOR: Yes, well, wait a minute, wait a minute. I've got an idea. Let's have a look at the Tardis magnet. Oh, I'm sorry, I just remembered I gave it to Ian. Well, come on, come on. We can't waste time. Let's get going. That sun'll be up in a minute and we've no food and there's no water, no shade. Get down! Get down!
 BARBARA: Oh! What's the matter?
+(A Dalek rises from the sand, grumbling to itself)
+
 Episode Two - The Death of Time
+
+[Planet surface]
+
 DOCTOR: Keep your head down. They haven't seen us yet.
 BARBARA: Doctor, look! There's more of them.
 DALEK 2: The enemy time machine is in this area.
@@ -247,19 +358,34 @@ DALEK 1: Good.
 DALEK 2: Destroyed.
 DALEK 1: Exterminated.
 DALEK 2: Now, let the search begin.
-DOCTOR: Stay down. One of them's coming this way.  We must find the Tardis before they do.
+DOCTOR: Stay down. One of them's coming this way. (they duck down) We must find the Tardis before they do.
 BARBARA: Yes, and we must warn Ian and Vicki. They don't even know the Daleks are here.
 DOCTOR: Yes. Warn them? But how? We haven't seen them for hours. Anyway, it's no good hanging about here. Come on, let's get moving, come on.
+(The Doctor and Barbara are confronted by reptile-like bipeds)
+
+[Chamber]
+
+(Vicki screams)
 IAN: Don't just stand there and scream, you little fool. Run!
+
+[Tunnel]
+
+(But there's another one in their path)
 VICKI: Oh, don't just standing there gaping, you nit! Come on, back!
+(Ian throws a rock at it)
+
+[Planet surface]
+
 DALEK 1: Wait. Tracks of the humans.
 DALEK 2: Follow them.
 DALEK 1: Wait. Perceptor indicates someone is near. It draws closer.
 DALEK 2: Destroy on sight.
+(One of the reptilians comes over a dune and gets shot.)
 DALEK 1: An Aridian. One of the species that inhabits this planet. Unimportant. Continue the search.
- 
-MALSAN:  This desert was once a vast ocean. We, the Aridians, lived in a city beneath the sea, but for a thousand years those twin suns that burn, have moved closer and closer.
-RYNIAN:  Then, then the seas dried up and all the creatures that lived within their waters perished.
+(Back with the Doctor and Barbara) 
+MALSAN: (to Barbara) This desert was once a vast ocean. We, the Aridians, lived in a city beneath the sea, but for a thousand years those twin suns that burn, have moved closer and closer.
+RYNIAN: (to the Doctor) Then, then the seas dried up and all the creatures that lived within their waters perished.
+(Everyone, say Hi! to Hywel Bennett)
 MALSAN: All but the Mire Beasts.
 BARBARA: Mire Beasts? What are they?
 MALSAN: They lived in the slime, at the bottom of the ocean. When the waters were gone they invaded our cities.
@@ -284,14 +410,24 @@ RYNIAN: Yes, the air-lock. You see, we Aridians have learned the only way to des
 MALSAN: The Taltarian air-lock will be detonated at high suns.
 BARBARA: Well then, we must stop it!
 RYNIAN: No, we would not reach the air-lock in time.
+(Barbara becomes frantic and grabs Rynian)
 DOCTOR: Now, hush, hush, hush.
 BARBARA: Look, where, where is this place?
 RYNIAN: If we move faster than the suns?
-MALSAN: We will try. Follow! 
+MALSAN: We will try. Follow! (later, at the explosives detonator)
 PRONDYN: It's high sun.
+
+[Tunnel]
+
+(Vicki gets a tentacle around her neck)
 VICKI: Ian!
 IAN: Vicki!
-VICKI: Ian! Ian! Oh!  Oh, Ian. I'll get help. I'll find the Doctor and get help.
+(Ian frees her as the explosives are detonated. Sand flies up into the air and rocks fall down into the tunnel. Ian is knocked out. The Mire Beast is dead.)
+VICKI: Ian! Ian! Oh! (she rolls him over) Oh, Ian. I'll get help. I'll find the Doctor and get help.
+
+[City entrance]
+
+(a large hole in the ground)
 MALSAN: We have arrived. This is the gate to our city.
 DOCTOR: I'm afraid I can't see any signs of a city.
 MALSAN: This old air-lock. We used it when our city was beneath the sea. It will take us to a part of our home that is still free from Mire Beasts.
@@ -301,6 +437,9 @@ DOCTOR: Ah, splendid, splendid.
 MALSAN: Open the lock.
 RYNIAN: Please enter. There is no danger.
 DOCTOR: Barbara! Barbara, my dear, Come along, come along, come along.
+
+[Planet surface]
+
 DALEK 1: The seismic detector is registering a contact.
 DALEK 2: The enemy time machine is beneath the sand at this point.
 DALEK 1: Then it was buried by last night's storm.
@@ -312,13 +451,16 @@ DALEK 2: And use them to dig the ship free.
 DALEK 1: Yes.
 DALEK 2: Well, see to it!
 DALEK 1: I obey!
+
+[City chamber]
+
 DOCTOR: Mmm. I think this is absolutely delicious. It's a most unusual flavour, isn't it?
 BARBARA: Doctor, how can you sit there eating when Ian and
 DOCTOR: Oh, my dear, you think I'm being callous do you?
 BARBARA: Yes, I do.
 DOCTOR: And I think it's pure supposition that they've been caught by those Mire Beasts. After all, we weren't. You haven't much faith in Ian's infallible self-preservation, have you?
 BARBARA: I'm sorry. This place gives me the creeps.
-DOCTOR: Oh rubbish, my dear, rubbish. I think it's fascinating. Yes, you could almost call it beautiful. You know, I think you're tired. Close your eyes and try and get some rest. Go on, go on. We must conserve our strength if we're going to get back to the Tardis.  Yes, if ever we can get back to the Tardis. Ah, Malsan.
+DOCTOR: Oh rubbish, my dear, rubbish. I think it's fascinating. Yes, you could almost call it beautiful. You know, I think you're tired. Close your eyes and try and get some rest. Go on, go on. We must conserve our strength if we're going to get back to the Tardis. (to himself) Yes, if ever we can get back to the Tardis. Ah, Malsan.
 MALSAN: You enjoyed your meal?
 DOCTOR: Oh, indeed. Yes, indeed, yes. Yes, it was a most unusual taste. You know, I've been taking stock of this place, having a jolly good look round here. Tell me, why is this opening walled up?
 MALSAN: It led to a part of our city that's been invaded by Mire Beasts.
@@ -334,14 +476,27 @@ DOCTOR: You haven't much choice, have you? Well, I don't propose to inflict our 
 MALSAN: No, no, no. The Daleks have said that we must hand you over, not set you free to try and escape.
 DOCTOR: Do you mean?
 MALSAN: You must be our prisoners, until such time as our arrangements with the Daleks have been completed. Then, if the elders agree, you will be given into their custody.
+
+[Planet surface]
+
+(Vicki has found some stone steps leading out through another airlock to discover the Tardis surrounded by Daleks.)
 DALEK 1: The digging is completed. Are the prisoners to go free?
 DALEK 2: No. They are worthless inferior creatures.
 DALEK 3: They have no value to us. Destroy them.
+(So they do.)
 DALEK 2: Destroy the enemy time machine. Use full power. Fire! Again. Fire! It is undamaged.
 DALEK 1: It must be constructed of a material that can resist our neutralisers.
 DALEK 3: Failure.
 DALEK 2: Remain on guard until the prisoners have been handed over and exterminated.
 DALEK 1+3: We obey.
+
+[Chamber]
+
+(Vicki goes back underground and retraces her steps)
+
+[City chamber]
+
+(The Doctor wakes Barbara.)
 DOCTOR: Are you feeling better?
 BARBARA: Yes. What's happened?
 DOCTOR: Well, it's not too good, I'm afraid. Ah, this looks like bad news coming now.
@@ -358,13 +513,22 @@ RYNIAN: We have no choice. The elders have so decreed. Please.
 DOCTOR: They have no choice.
 BARBARA: Yes, but just to be handed over like that?
 DOCTOR: Two hours. Their suns are due to set in two hours.
- 
+
+[Tunnel]
+
+(Ian comes to) 
 IAN: Vicki. Vicki! Vicki!
+(Meanwhile, Vicki is grabbed by an Aridian)
 PRONDYN: You must come with me.
+
+[City chamber]
+
+(Some stone dust falls on Barbara)
 BARBARA: Doctor?
 DOCTOR: Hmm?
 BARBARA: Where does this walled up section lead?
 DOCTOR: Oh, it's another part of the city, I believe. The part that was invaded.
+(Vicki is brought in)
 BARBARA: Vicki! Vicki, where's Ian?!
 DOCTOR: Is Ian, is Chesterton all right?
 VICKI: He got a bad knock on the head. I made him as comfortable as possible and came to get help.
@@ -375,11 +539,18 @@ VICKI: Yes, I'm sure of it. A big iron door, just beyond that opening over there
 BARBARA: Oh Doctor, maybe things will be all right after all.
 DOCTOR: Yes, now I can
 MALSAN: It is time. I am to take you to the main airlock.
+(A tentacle pushes through the walled-up doorway. It grabs Barbara as the stonework comes falling down.)
 DOCTOR: Barbara! Barbara!
- 
+(The Mire Beast comes into the chamber, the Doctor gets Barbara away from it then they and Vicki runs while it feasts on a fallen Aridian.) (Meanwhile, Ian has also found the exit by the Tardis, and seen the Daleks standing guard in the gloom. He goes back underground)
+
+[Tunnel]
+
 VICKI: Down here.
 BARBARA: Are you sure this is the right way?
 VICKI: �Course I am. Come on.
+
+[Planet surface]
+
 DALEK 2: The prisoners have escaped from the Aridians.
 DALEK 1: Are we to proceed with the destruction of the underground city?
 DALEK 2: The Aridians have one hour to re-capture the humans. If they fail, we act.
@@ -387,6 +558,10 @@ DALEK 1: I understand.
 DALEK 3: The humans may try to reach their machine.
 DALEK 2: Remain on guard.
 DALEK 1: I obey.
+
+[Chamber]
+
+(Ian is collecting long pieces of wood when )
 VICKI: Come on.
 BARBARA: Ian!
 IAN: Barbara!
@@ -403,6 +578,7 @@ IAN: You get out of here and there's a ridge of sand on the left. Now you take c
 BARBARA: Nip in what?
 IAN: The Tardis!
 BARBARA: Yes, yes, come on, come on.
+(Barbara takes Vicki's hand)
 IAN: Off you go. Oh, er, Barbara, could, I, er, have your cardigan?
 DOCTOR: Quickly, quickly!
 BARBARA: Oh, not again.
@@ -415,37 +591,62 @@ IAN: Oh, Doctor? Your coat, please.
 DOCTOR: My dear boy, we're trying to beat the Daleks, not start a jumble sale.
 IAN: All will be revealed in due time, Doctor. Your coat, please.
 DOCTOR: Dear, dear, dear, dear, dear.
+
+[Planet surface]
+
 VICKI: What are they going to do, Barbara?
 BARBARA: I don't know. Try to get the Dalek away from the Tardis, I should think.
+
+[Chamber exit]
+
+(The wood is being laid across a hole in the ground above them, with the clothes on top)
 DOCTOR: What is the point of all this, dear boy?
 IAN: Doctor, with any luck, with your coat and Barbara's cardigan, we're going to make a trap. We're going to lure the Dalek over this trap, and with any luck it'll fall down here.
 DOCTOR: That's a good scheme. Yes, that's a good idea.
 IAN: Keep down!
 DOCTOR: Mmm.
+
+[Planet surface]
+
 VICKI: But how?
 BARBARA: I don't know. Wait and see.
+
+[Chamber exit]
+
+(They throw sand over the clothes)
 IAN: Right.
 DOCTOR: Well, I hope it works.
 IAN: All right, Doctor. Now, I'm going first. When you follow, you keep on that side. You keep. Plenty of cover, eh?
 DOCTOR: All right. Careful.
+
+[Planet surface]
+
 IAN: Yoo-hoo! Dalek! Over here, friend!
+(The Dalek fires, Ian ducks)
 DOCTOR: Yoo-hoo, Auntie!
+(The Dalek fires, the Doctor ducks)
 VICKI: Oy!
 IAN: Over here!
 DOCTOR: Hey!
+(The Dalek fires wildly into the dark, then trundles forward and falls down the hole.)
 IAN: Try and get out of that hole, Fred.
 BARBARA: Well, that got rid of that one.
 IAN: Yeah!
 VICKI: Look!
 IAN: Quick! Into the Tardis!
 DOCTOR: Go on!
+(Three Daleks start firing as the Tardis dematerialises)
 DALEK 4: Cease firing. They have escaped.
 DALEK 3: Final termination is inevitable.
 DALEK 4: Eradicate!
 DALEK 2: Obliterate!
 DALEK 4: Annihilate!
 DALEK 2: We will embark in our time machine at once. The Dalek Supreme has ordered they are to be pursued through all eternity. Pursued and exterminated!
+
 Episode Three - Flight Through Eternity
+
+[Tardis]
+
 VICKI: We did it! We did it!
 DOCTOR: Yes, young lady, a very good thing we did. We might not you know.
 BARBARA: Oh, come on, Doctor. You weren't exactly bursting with confidence when the Aridians held us prisoner.
@@ -459,12 +660,16 @@ DOCTOR: Well, we can always drop you off to find out.
 IAN: Thank you very much.
 VICKI: We've just escaped from those things. We don't want to be sent back there.
 DOCTOR: Ah and I don't think we shall run into them again. And I think you must agree that we gave them a very good hiding. Yes, yes, yes.
+(Something is beeping)
 IAN: What's this, Doctor?
 DOCTOR: That's my Time Path Detector. It's been in the ship ever since I constructed it. But do you know, I don't remember it registering before?
 BARBARA: What does it show?
 DOCTOR: Well, it surveys the time path we're travelling on. The fact that it's registering can only mean one thing.
 IAN: Well, yes, go on.
 DOCTOR: It's another time machine travelling on the same route.
+
+[Dalek time machine]
+
 DALEK 4: Enemy time machine position now constant.
 DALEK 2: Lock tracking device.
 DALEK 4: Tracking device locked.
@@ -479,6 +684,10 @@ DALEK 1: Success!
 DALEK 2: Final victory inevitable!
 DALEK 3: Order executioner to prepare to disembark.
 DALEK 2: I obey.
+
+[Tardis]
+
+(Vicki gives Barbara a bar to eat)
 BARBARA: What flavour is it?
 VICKI: Guava.
 DOCTOR: Oh, it's useless, useless.
@@ -496,12 +705,21 @@ DOCTOR: Yes, well, please, just leave it to me, dear boy, just leave it to me, w
 VICKI: Doctor, the time rotor. Doctor, it's slowing down.
 DOCTOR: Oh, that means we can land in two minutes.
 BARBARA: But where, Doctor, where?
+
+[Empire State Building Observation deck]
+
+(Tourists are getting the tour)
 GUIDE: Here on top of the Empire State Building, you're on the hundredth and second storey above the ground level. At a height of one thousand four hundred and seventy three feet. This is the tallest building, the tallest structure in the entire world. Now you'll note, when you come up in the elevator, it took you seven minutes. Well, this way down, you wanna get down in a hurry, it would take you thirty seconds.
+(laughter)
 GUIDE: Well, of course, we don't recommend that. Now as we gaze out across the panorama. As we gaze out across the imposing panorama of our proud city, you will notice many other notable buildings. Among them the Chrysler Tower, that's one thousand and forty six feet high, and the Chanin Tower, that's six hundred and eighty feet high and already it's threatened with obsolescence.
-MORTON:  With ob what?
+MORTON: (cowboy hat and camera) With ob what?
 GUIDE: Observe also the mighty Hudson river and now if you'll come with me to the north aspect of the building, I will point out many more items of interest.
+(The Guide hustles his group away but Morton stays behind to look through the telescope. Everyone say Hi! to Peter Purves in his first Who role)
+(The Tardis materialises)
 MORTON: We sure don't have anything like that in Alabama! No sir, ha!
+(He turns to follow the tour group, then)
 MORTON: I could have sworn that thing wasn't there just now? Well, I guess that's New York for ya! Ha!
+(Barbara comes out of the Tardis)
 MORTON: Morning.
 BARBARA: You're from Earth.
 MORTON: No, no, Ma'am. No, I'm from Alabama.
@@ -536,25 +754,37 @@ MORTON: Sure, I've seen this trick before. Great long police cars comin' outa ti
 VICKI: Goodbye.
 BARBARA: Goodbye!
 IAN: Goodbye!
+(Morton slaps the Doctor on the back)
 MORTON: Hot diggety! I knew I was right. You should be wearing Police uniforms, you all is, you all is in a chase.
 DOCTOR: Chase? Yes, as a matter of fact, young man, that's exactly what this is. Now, if you'll excuse me, I must be getting along. It's the chase, you know?
-MORTON: Sure thing, Mister! I understand. Just wait til I tell the folks back home I met some real live movie pe  Do you know Cheyenne Bodie? Look, just wait a minute, I want to get this thing on celluloid.
+MORTON: Sure thing, Mister! I understand. Just wait til I tell the folks back home I met some real live movie pe (knocks on Tardis door) Do you know Cheyenne Bodie? Look, just wait a minute, I want to get this thing on celluloid.
+(The Tardis dematerialises)
 MORTON: That's real clever, how they done that. Sure if it don't beat all.
+(The Dalek's ship materialise)
 MORTON: Sure is clever. Gol darn it if they ain't gone and done it again.
+(A Dalek comes out)
 MORTON: Howdy, Mister! Say, you sure are an ugly looking friend. Wait, what's the name of this film, Mister? My, my, boy, you've come all over in blue spots. What's this thing here?
+(He grabs the Dalek's ray gun and gets pushed against the wire mesh for his troubles)
 MORTON: Now, just, now now! There ain't no need to get sore. The other movie people was right friendly.
 DALEK: Movie pe? Where are they?
 MORTON: They just left. They was in some kind of beat-up old blue wooden box. It just kinda like vanished. Say, I thought they'd have been chasing you. Just hold it there, Mister. I want to get a picture of this.
+(The Dalek ship dematerialises)
 MORTON: Sure is the greatest
+(But he's missed the shot again)
 MORTON: Well, dang me if they ain't gone and done it again. This is the greatest thing. It's gotta be around here somewhere. Just can't vanish into thin air. I know you're there somewhere, boy.
+(Morton starts feeling the air and stamping on the floor as the group returns)
 GUIDE: I enjoy my work gives me a chance to meet people. You know. I get around
 MORTON: There's gotta be a trick to it somehow! Yes, sir, I bet this here's hollow. That's what it is.
 GUIDE: He's a nutter. Keep an eye on him. See that he don't jump off the building. I'll get a cop. Watch him.
 MORTON: Coming back. They should
+
+[Tardis]
+
 DOCTOR: Yes, I wonder.
 VICKI: They're still on our track.
 DOCTOR: Catching us up, are they? Will you get my screwdriver, child? The large one. The one that I was fiddling with on the Visualiser.
 VICKI: Okay.
+(Ian and Barbara carry a piece of equipment in)
 BARBARA: Oh, this thing's heavy.
 DOCTOR: Yes, thank you, thank you.
 IAN: Is this going to work, Doctor?
@@ -567,17 +797,23 @@ VICKI: What's this all about?
 DOCTOR: Well, the idea is, my dear, is to find something that we can fight back with.
 BARBARA: Doctor, we're landing!
 DOCTOR: But I'm not ready! I'm not ready! We can't meet them now! Oh, good gracious! No, wait a minute. We shall have to land and then take off as quickly as we can again.
-RICHARDSON:  Land about six miles off to the south south west, sir.
-BRIGGS:  Aye, that'll be the island of Santa Maria. One of the Azores group. We're making poor time, Mister Richardson. And now it becalmed, after the storm.
+
+[Ship's deck]
+
+(A two-masted brigantine with an American crew, at 5 bells)
+RICHARDSON: (Albert C, ship's mate) Land about six miles off to the south south west, sir.
+BRIGGS: (Benjamin S, Captain) Aye, that'll be the island of Santa Maria. One of the Azores group. We're making poor time, Mister Richardson. And now it becalmed, after the storm.
 RICHARDSON: I'll mark a reading on the deck log, sir.
 BRIGGS: I'm going below if you should want me. Sarah says our child has sickness.
 RICHARDSON: Oh, I'm sorry to hear about that, sir.
+(The Tardis materialises)
 BARBARA: It is a ship, Ian. It's a sailing ship at sea.
 IAN: Barbara, don't go wandering off, please.
 BARBARA: I just want to have a look. I love sailing ships.
 IAN: There's no point in being seen.
 BARBARA: No, well, I'll just have a look over the ship's rail.
 IAN: No, no, the Doctor's at the controls, we're
+(Ian goes back inside)
 RICHARDSON: Got you!
 BARBARA: Oh, let go of me! Let go of me!
 RICHARDSON: No, you don't, my beauty! Captain Richardson's got a way of dealing with stowaways.
@@ -585,6 +821,10 @@ BARBARA: I am not a stowaway and you're hurting my hands!
 RICHARDSON: Just you keep still. Where've you been hiding since we set sail, eh?
 BARBARA: I haven't been hiding. I have just come on board!
 RICHARDSON: Oh, I suppose you're some sort of a mermaid that's lost at sea, eh? You swam out from Santa Maria there just to give us poor lonely sailormen a little bit of feminine company, eh?
+(Vicki sees the struggle and grabs a weapon)
+
+[Tardis]
+
 DOCTOR: Well, everything appears to be in order, my boy.
 IAN: Oh, we haven't done very well so far, Doctor, have we? Let's face it. First of all, we land on top of a skyscraper, now we land on a crummy old ship. What we need is space.
 DOCTOR: Indeed, indeed. Well, we're ready to move on. Now, would you tell the ladies that I want to get away, please.
@@ -592,12 +832,18 @@ IAN: Yes.
 DOCTOR: Thank you.
 IAN: Barbara's got a case of call of the sea.
 DOCTOR: Ah, I'm sorry about that too.
+
+[Ship's deck]
+
 BARBARA: You're hurting my hand! Look, even if I told you the truth, you wouldn't believe me.
 RICHARDSON: I believe what I see. Now, come along! You're going before the Captain!
+(Vicki knocks him out)
 BARBARA: Well done. Thanks, Vicki!
 VICKI: That's all right. Any time.
 BARBARA: Hey, there's somebody coming. Hide!
+(It's Ian.)
 BARBARA: Oh.
+(Ian gets hit on the head too)
 VICKI: Got him! I got him!
 BARBARA: Yes.
 VICKI: Oh!
@@ -605,6 +851,7 @@ BARBARA: Vicki! Vicki, quickly!
 VICKI: Oh! Oh, Ian, I'm terribly sorry! Did I hurt you?
 BARBARA: Oh, that's a silly question! Come on, let's get him into the ship.
 VICKI: Oh, Ian. I didn't mean it! Oh, Ian.
+(Richardson wakes, and the Tardis dematerialises)
 RICHARDSON: Captain Briggs! Captain! Captain Briggs!
 BRIGGS: Yes, Mister Richardson?
 RICHARDSON: Captain, there was a thing. It was on the lower deck.
@@ -626,22 +873,31 @@ RICHARDSON: I'll take the forward hold, sir. Mister Bosun, take Starkey and Will
 BOSUN: Starkey, Willoughby.
 BRIGGS: And Bosun, I'll thank you not to disturb my wife and child.
 BOSUN: Aye, aye, sir. The rest of youse men search the hold. Keep your hands off the cargo.
+
+[Dalek time machine]
+
 DALEK 2: We shall soon be arriving. Order the search party to stand by.
 DALEK 3: They are ready.
 DALEK 4: Is that where the humans have landed?
 DALEK 2: Yes. Join the search party and prepare to disembark. We are materialising now.
+
+[Ship's deck]
+
 BOSUN: There's nobody here, Willoughby.
 WILLOUGHBY: We'll try below.
 BOSUN: The white terror! The white terror of Barbary!
 DALEK: Where are the time travellers?
 WILLOUGHBY: Run, lads! Tis the white terror! Run, run!
+(Panic, and they jump overboard to get away from the Dalek, including Mrs Briggs carrying her baby)
 RICHARDSON: Fools! Get back to your posts!
 RICHARDSON: Get away!
 DALEK: Wait.
 RICHARDSON: Get away!
 DALEK: Do not move. Answer my question.
 RICHARDSON: Come on, sir, come on! Come on. It's the Barbary terror! Come on! You're not going to take my soul.
+(Richardson jumps)
 BRIGGS: Sarah!
+(Briggs takes off his jacket and dives in)
 DALEK 2: Is the earth time machine here?
 DALEK 4: It has not yet been discovered.
 DALEK 2: Join in the search.
@@ -649,8 +905,14 @@ DALEK 3: You search up there.
 SAILOR: No, no!
 DALEK 2: Wait!
 SAILOR: No, no, no, no! Please! No! Please! No! No!
+(And he jumps overboard too. A Dalek also goes over the side by mistake)
 DALEKS: There is no one on the vessel.
 DALEK 2: Come. We must continue our pursuit course.
+(The empty ship Mary Celeste drift on.)
+
+[Tardis]
+
+(Barbara tends to Ian's bump on the head)
 BARBARA: Is that better?
 IAN: Oh, thanks.
 BARBARA: Well, you must admit it was funny.
@@ -662,9 +924,15 @@ IAN: Vicki? Any change, Doctor?
 DOCTOR: I altered the curve we were travelling on. For one moment, I dared hoped we'd lost them. They must have detected the change and followed. They're close on our track.
 IAN: But surely we've got our twelve minute lead still?
 DOCTOR: I'm afraid not. It's down to eight. It will be reduced even further after our next landing. We must face the facts. The Daleks are closing in on us.
+
 Episode Four - Journey Into Terror
+
+[House]
+
+(The Tardis materialises in a very cobwebbed and Gothic place. Thunder crashes.)
 BARBARA: I'm not wild about this place.
 IAN: I don't know. Ideal place to fight Daleks, you know. Good stout walls, an upper storey, stairs. Daleks don't like stairs.
+(Ian steps on a stair and it creaks. A bat flies at Barbara.)
 BARBARA: Argh! Look out!
 VICKI: Probably vampires, if you ask me.
 IAN: Oh, charming.
@@ -673,18 +941,26 @@ VICKI: Maybe that's where we are.
 DOCTOR: No, I don't think so. Judging by the architecture, I should say Central Europe.
 VICKI: Well, I'm with Barbara. I don't like it here. I think we should go.
 DOCTOR: Yes, in the normal progress of time, my dear, I would say, I would agree with you, but unfortunately we've got to face the Daleks and I think it's essential we take a look around. Let's try upstairs.
+(A creak of a stair and a loud sound of bat wings)
 BARBARA: Well, you got if you want to, but I'm staying near the Tardis.
 VICKI: Me too.
 DOCTOR: Oh, very well, stay where you are. We shan't be long.
 IAN: Shan't be long.
 BARBARA: Well, Vicki, there's really nothing to be scared of. This is just an old house. We mustn't let our imaginations run away with us.
+(Thunder)
 VICKI: No, you're quite right. We mustn't behave like children.
 BARBARA: No, we mustn't. Now come on, let's help the Doctor and look around down here. How about the fireplace?
+(The mantle is carved to make it look like an open mouth. When they get close two stones revolve to look like eyes. They sidle away and find a wooden case.)
 VICKI: Look at that. What do you suppose is inside it?
+(Barbara goes to open it and there is maniacal laughter. She gets the lid open and it is empty. They laugh with relief. Barbara closes the lid and a skeleton drops down in front of them. Screams!)
+
+[Upstairs landing]
+
 IAN: What was that?
 DOCTOR: Oh, it's just thunder, dear boy.
 IAN: No, no, no, the noise before that.
 DOCTOR: Oh, rubbish, there was no noise before that. Come along, come along.
+(An image of a girl passes through Ian)
 IAN: What have you found now?
 DOCTOR: Well, it looks like a laboratory to me. Look at all that equipment down there.
 IAN: Doctor, I think we'd better check on Barbara and Vicki.
@@ -693,8 +969,17 @@ IAN: Must you? I'd really rather not know.
 DOCTOR: You don't mean that, do you? Where's your spirit of adventure?
 IAN: It died a slow and painful death when those bats came out of the rafters.
 DOCTOR: Very well, then, stay where you are. Stay where you are.
+
+[Laboratory]
+
+(Frankenstein's monster rises from his slab and the Doctor retreats back up the stairs to the landing.)
 DOCTOR: I say, I think we'd better check where Vicki and Barbara is!
+(The monster stretches out his arms and Ian follows quickly. The monster lies down again.)
+
+[House]
+
 VICKI: What's that in aid of?
+(Barbara quotes John Donne.)
 BARBARA: And therefore never send to know, for whom the bell tolls. It tolls for thee. Vicki, I feel as though my hair's turned white.
 VICKI: It has as a matter of fact.
 BARBARA: What!
@@ -705,16 +990,27 @@ VICKI: Good evening.
 BARBARA: Who are you?
 DRACULA: I am Count Dracula.
 BARBARA: But you can't be, I mean, not, not really.
+(The figure goes back behind a door)
 VICKI: He's gone. Thank goodness for that anyway.
 BARBARA: Vicki, do you think there's something strange going on around here?
 VICKI: Oh. no.
 BARBARA: Why did he go away so quickly?
+(She tries the door)
 BARBARA: Well, I can't seem to open it from this side. Vicki, do you supp .
+(But Vicki's disappeared)
 BARBARA: Vicki? Vicki, where are you?
+(A White Woman on the landing screams something unintelligible. Barbara backs up against the wall and it turns, taking her away. She screams, of course.)
+
+[Corridor]
+
+(The Doctor and Ian are stumbling along with only the light of a small torch to guide them.)
 IAN: Oh, there's one thing about this place, Doctor. It certainly stimulates the phagocytes. The phago? You know, it's uncanny, strange and weird, but it is familiar.
 DOCTOR: Yes, that's the word, dear boy, familiar. You know, when I was coming down those stairs, I knew that thing was going to move. I knew it.
 IAN: Oh, did you? I didn't notice you standing around to check your premonition.
 DOCTOR: I never stay where I'm not wanted. Come along.
+
+[Upstairs landing]
+
 DOCTOR: Pre-conditioned. That's it. Pre-conditioned!
 IAN: What are you talking about now?
 DOCTOR: This house is exactly what you would expect in a nightmare. Yes, we're in a world of dreams. Creaking doors, thunder and lightning, monsters and all the things that go bumpety bumpety in the night.
@@ -724,27 +1020,52 @@ IAN: Then we're safe.
 DOCTOR: Safe? What on earth do you mean, dear boy?
 IAN: But the Daleks can't touch us here? Not in the human mind.
 DOCTOR: You know, I believe you're right. Yes! The Daleks can never land here!
+(They go down the stairs, pausing at the creaky one at the bottom.)
+
+[House]
+
 IAN: The girls have gone.
+(The Doctor checks in the Tardis.)
 DOCTOR: Vicki? Barb? Perhaps they followed us upstairs?
+(So Ian and the Doctor go back upstairs as the Dalek Machine materialises)
+
+[Dalek time machine]
+
 DALEK 1: The enemy time machine is here. We have caught them.
 DALEK 2: Which planet are we on.
 DALEK 1: Earth. They only changed their geographical and time location.
 DALEK 3: This time they will not elude us. Already the search force is disembarking.
+
+[House]
+
 DALEK 4: Search. I shall remain here in case they return.
+
+[Upstairs landing]
+
 IAN: Where are those girls, Doctor? Well, we would have seen them if they were upstairs. Hadn't we better take another look down there?
 DOCTOR: Had we?
 IAN: Afraid so.
 DOCTOR: Well, after you, dear boy.
 IAN: No, after you. Wait for me.
+
+[Laboratory]
+
 DOCTOR: Shh! Someone's coming.
 IAN: Take cover.
 DALEK: Where are the time travellers?
 IAN: The time travellers? They're
+(Ian drops a grill in front of the Dalek. The monster rises from his slab.)
 DALEK: Do not move.
 DOCTOR: The Tardis, quick!
+(Ian and the Doctor get out of the room.)
 DALEK: Do not move. I am a Dalek.
+(It shoots the monster, but it does not stop it.)
 DALEK: We are invincible.
+(The grill goes up and Frankenstein's monster attacks the Dalek)
 DALEK: Stop! Stop! Ahh!
+
+[House]
+
 VICKI: Oh, there you are!
 IAN: Vicki.
 DOCTOR: Where have you both been?
@@ -757,15 +1078,23 @@ DALEK 4: Halt! You will be exterminated.
 DRACULA: Good evening.
 IAN: Quick, into the Tardis while we've still got a chance!
 VICKI: Look out, he'll kill you! You'll be killed!
+(The Dalek shoots Dracula)
 DRACULA: I am Count Dracula.
+(Vicki is trapped by Daleks as the Tardis dematerialises.)
 DALEK 4: Eradicate her.
+(The monster arrives, now dressed in a suit instead of bandages, and starts to rip the top off a Dalek.)
 DALEK 4: Obliterate.
 DRACULA: I am Count Dracula. Don't go. Don't go. Don't go. Don't go. Don't go.
+(The monster throws a Dalek across the room, the White Woman wails, and the Dalek's weapons have no effect on any of them.)
+(Vicki runs into the Dalek time machine)
 DALEK 5: Embark at once.
 DALEK 4: At once!
 DALEK 5: Yes! Embark!
 DALEK 4: Embark! At once!
 DALEKS: Embark! Embark! Embark! Embark!
+
+[Tardis]
+
 IAN: This game of hide and seek through time is wearing a little thin now.
 DOCTOR: Game?
 IAN: What an extraordinary place? More spooks to the square mile than the Tower of London. You know that theory of yours
@@ -773,6 +1102,8 @@ DOCTOR: Theory, my dear boy? Fact. I am convinced that that house was neither ti
 IAN: And were the Daleks lodging too?
 DOCTOR: Oh, I don't want to enter into it. A discussion with him! Oh!
 IAN: Have it your own way. I think there's a much simpler explanation.
+(A ticket booth by the House says 'Festival of Ghana 1996, cancelled by Peking, Frankenstein's House of Horrors, price $10')
+(Later)
 IAN: Well, how's this box of tricks coming along, Doctor?
 DOCTOR: Oh, necessarily crude, dear boy. I haven't time to perfect anything.
 IAN: When's it going to be operational, eh?
@@ -780,11 +1111,15 @@ DOCTOR: You know just as much about that as I do.
 IAN: Oh Doctor, we can't go on like this, can we? We've given them the slip once or twice but sooner or later we're going to have to settle with them.
 DOCTOR: Oh, I quite agree with you. Running away won't solve our problem. But as soon as we've reached the final decision to stand and fight, there'll be no turning back. It'll either be them or us. Hmm?
 BARBARA: Here we are.
+(Barbara brings drinks)
 DOCTOR: Oh, my dear, very welcome.
 IAN: Thanks.
 DOCTOR: Thank you.
 BARBARA: Where's Vicki?
 DOCTOR: But I thought she was with you?
+
+[Dalek time machine]
+
 DALEK 3: We are locked in pursuit course.
 DALEK 2: Calculate destination of enemy time machine.
 DALEK 3: Report.
@@ -794,13 +1129,21 @@ DALEK 3: I obey.
 DALEK 2: Is the reproducer repaired?
 DALEK 4: We await your orders.
 DALEK 2: Manufacture will commence at once.
+
+[Reproduction chamber room]
+
 DALEK 2: Which of the four humans is to be reproduced?
 DALEK 4: Their leader, the one they call Doctor. Is the reproducer programmed?
 DALEK 3: All is in readiness. Photo images and relevant data are in the computer. The humanoid will be completed by the time we arrive at our destination.
 DALEK 4: Excellent. Commence operations, then assemble at cell renovator chamber.
 DALEK 2: We obey!
 DALEK 3: Of course.
-VICKI: Tardis. Hello, Tardis? Come in please. Over.  Hello, Tardis. Doctor? Somebody, please help me. Get me out of this. Tardis! Tardis!
+(The Daleks leave and Vicki comes out from behind the door. She fiddles with a communications panel.)
+VICKI: Tardis. Hello, Tardis? Come in please. Over. (static) Hello, Tardis. Doctor? Somebody, please help me. Get me out of this. Tardis! Tardis!
+(She goes to the reproducter where a duplicate of the Doctor is just visible)
+
+[Tardis]
+
 DOCTOR: It's my fault. All my own stupid fault. I shouldn't have moved the Tardis. I have should have checked up first to make sure that everybody was inside. I shall never forgive myself.
 IAN: Oh, no Doctor, don't blame yourself. We're all equally to blame. I was convinced she was on board.
 BARBARA: Isn't there anything we can do? Is there no way of going back for Vicki?
@@ -818,40 +1161,66 @@ DOCTOR: If we can only pull it off.
 BARBARA: Doctor, we have nothing to lose and now we have even more reason to stop and fight.
 IAN: What do you say, Doctor?
 DOCTOR: I say yes. Yes, yes! Our next landing will be our battle ground and we shall fight. We shall fight to the death!
+
+[Reproduction chamber room]
+
 VICKI: Tardis? Somebody hear me. Tardis! Tardis!
+
+[Dalek time machine]
+
 DALEK 1: Report position of enemy machine.
 DALEK 2: It's movement through time is ending.
 DALEK 3: It is approaching the planet Mechanus.
 DALEK 2: How long before we reach them?
 DALEK 4: Er, er, in earth time, er, four minutes.
 DALEK 1: There is much to do.
+
+[Reproduction chamber room]
+
 DALEK 1: Is the humanoid robot complete?
 DALEK 3: The computer is feeding its memory cells with data.
 DALEK 2: Physical characteristics are completed. Energy cells fully charged.
 DALEK 4: Micro-units containing personality and vocal mannerisms are charged.
 DALEK 1: Prepare to activate. Activate the robot.
+(Vicki watches as a near-duplicate of the Doctor opens the chamber door)
+
+[Tardis]
+
 IAN: Ah, looks swampy.
 DOCTOR: Yes, all to the good, my boy. This sort of terrain is going to make it very difficult for the Daleks.
 IAN: Yes. Well, we won't have long to explore, Doctor, before the Daleks arrive so lets get moving.
 DOCTOR: Yes, you are perfectly correct, perfectly correct. However, it doesn't matter about the appearances. It's quite safe to go outside.
 IAN: Good.
+(The Doctor opens the doors)
 BARBARA: Just look at that vegetation.
 IAN: Yes. Just as though it were alive.
 DOCTOR: Alive! Yes.
+
+[Reproduction chamber room]
+
 DALEK 1: Success! Paramount success! It is impossible to distinguish from the original.
 DALEK 4: We have landed on the planet Mechanus.
 DALEK 1: Operate ramp control. Activate robot power source.
+(The robot steps out of the chamber)
 DALEK 1: Your orders are understood? You will infiltrate and kill.
 DALEKS: Infiltrate and kill!
 ROBO-DOC: Understand? Of course I understand, my dear fellow. Don't fuss so. I am to infiltrate and kill. Infiltrate and kill.
+
 Episode Five - The Death of Doctor Who
+
+[Jungle]
+
+(It's a very alien jungle, with giant toadstools quivering)
 BARBARA: What is it, Doctor?
 DOCTOR: Well, I'm not sure, young lady. Is it a plant or some kind of fungus?
+(The Doctor pokes it with his walking stick and it collapses briefly)
 IAN: Ah! A living fungoid, Doctor.
 DOCTOR: Yes, I think this is the moment when discretion is the better part of valour. Let's get back into the ship.
+(But another fungoid is now blocking them)
 DOCTOR: How did that get there?
 BARBARA: They're moving. They're closing in on us!
-IAN:  It stings!
+IAN: (Ian hits one) It stings!
+(There's a bright light)
 DOCTOR: Well, our friends here obviously don't like the light.
 BARBARA: Well, thank goodness for that.
 IAN: No, but who switched the lights on? Who put them there in the first place?
@@ -863,6 +1232,10 @@ IAN: Corridor.
 DOCTOR: Yes, its a kind of pattern. Yes, you're quite right, my boy, a corridor.
 IAN: Doctor, this could be an ideal place to fight those Daleks.
 DOCTOR: Yes. Yes, well let's follow it. This way.
+
+[Outside the Dalek time machine]
+
+(Elsewhere, the Daleks have landed)
 DALEK 1: This is the planet Mechanus. All forms of life are to be treated as hostile.
 DALEK 2: Understood. Pass the order. All forms of life to be destroyed on contact.
 DALEK 1: I obey.
@@ -870,11 +1243,21 @@ DALEK 2: Is the humanoid robot standing by?
 DALEK 3: It awaits your orders.
 DALEK 2: Our enemies are moving through the jungle. You are to join them.
 ROBO-DOC: Infiltrate, separate and kill. Yes, yes. I understand. Well, the sooner I get started, the sooner I shall accomplish my mission.
+(Robo-Doc leaves)
 DALEK 2: We shall follow it as escort. Advise all units.
+(The Daleks trundle off, and Vicki carefully sneaks out of their time machine)
+
+[Jungle]
+
 BARBARA: Just a minute.
-DOCTOR : Come along, come along.
+(She's got something in her shoe)
+DOCTOR [OC]: Come along, come along.
 IAN: All right?
 BARBARA: Yep, fine.
+(Robo-Doc tags along behind them whilst Vicki plays dodge-the-Dalek somewhere else until she is 'captured' by a fungoid which hides her)
+
+[Cave]
+
 DOCTOR: We seem to have come to the end of our corridor of lights.
 IAN: Yes. Let me go first.
 DOCTOR: Any Daleks?
@@ -882,40 +1265,64 @@ IAN: No, nothing. It's empty.
 DOCTOR: Let's take a closer look.
 IAN: Strange place. Now why would anyone construct a complicated system of lights to lead directly to a cave like this?
 DOCTOR: Well, I'm not quite sure, dear boy, but there must be a reason for it. Yes, like everything else in the universe, there is a reason for it.
+(Ian puts down the equipment he's been carrying)
 DOCTOR: Oh, do be careful what you're doing with that.
 BARBARA: Hey, over here. Look what I've found.
+(A long, thin ornate stick or tube)
 IAN: Well, what do you make of that, Doctor?
 DOCTOR: Well, I should imagine it's some kind of weapon. Just hold that a minute.
-DOCTOR: Ah, cha, cha, cha, not so close! 
+DOCTOR: Ah, cha, cha, cha, not so close! (He presses something on the thicker end and the thin end lights up)
 DOCTOR: Well, that's ingenious, isn't it?
 BARBARA: Ah, it's designed to scare off those fungoid things we saw in the swamp.
 DOCTOR: Very good, my dear, very good.
 BARBARA: Well, Doctor, with this and that we are ready for the Daleks. Come on.
 IAN: She's right, you know.
 BARBARA: As they come down the flare path we can pick them off one by one.
+(There's a noise outside)
 DOCTOR: Just, just, just, shh, shh, shh. Just a moment now. May I speak? There's something I haven't told you, dear boy. We cannot use this machine in an enclosed area, otherwise we shall all go up in smoke.
 BARBARA: But Doctor, the Daleks will find this flare path and we'll be trapped here.
 DOCTOR: That may be
 IAN: Let's put the lights out.
 DOCTOR: Now you're talking common sense. Yes, let's find the cable, shall we?
+
+[Jungle]
+
+(Vicki has found the Tardis)
 VICKI: Doctor? Doctor, it's me, let me in! It's me!
+(A fungoid sneaks up on her and she runs away again until she finds the lit path and follows it)
+
+[Cave]
+
 BARBARA: Over here. I've found it.
 IAN: Good. Where? Ah.
 DOCTOR: You're quite safe, it's well insulated.
 IAN: Yeah.
+(Ian tries to prise the junction box open)
 IAN: It's tough.
+(On the path, Vicki screams in despair)
 IAN: There's someone out there!
 BARBARA: That noise! That noise, it was it was
 IAN: Come on, Doctor!
 BARBARA: Doctor, that noise! It was
 DOCTOR: Watch the machine. Watch the machine.
+(Ian and the Doctor run out, Robo-Doc pops up and heads to the cave)
+
+[Jungle]
+
 DALEK 1: The light source has vanished.
 DALEK 2: Patrols will continue to advance eastward. Perceptors register much movement in that area.
+(A fungoid covers the Dalek's eye-stalk)
 DALEK 1: Alert! Alert! Alert!
+(It gets free and kills the fungoid)
 DALEK 2: The patrol will continue.
 DALEK 1: Have I sustained damage.
 DALEK 2: No. The patrol will continue.
+(On the formerly lit path, the Doctor and Ian find the unconscious Vicki)
 IAN: Vicki! She must have smuggled herself aboard the Daleks time machine. So, they've arrived.
+
+[Cave]
+
+(Robo-Doc enters)
 BARBARA: Doctor. You were quick.
 ROBO-DOC: Oh, was I?
 BARBARA: Who was it?
@@ -926,13 +1333,22 @@ BARBARA: Dead?
 ROBO-DOC: The creatures caught him. I could do nothing.
 BARBARA: But, are you sure? Are you certain that he's not just hurt?
 ROBO-DOC: Come with me. Perhaps you can help. Come along, come along. Hurry.
+
+[Jungle]
+
+(Ian is carrying Vicki)
 IAN: About another twenty yards, Doctor, I think.
 DOCTOR: You know Chesterton, they have an extraordinary range of movement, extraordinary.
 IAN: Yes. All I'm interested in right now is getting into that cave where we'll be safe.
+
+[Cave]
+
 IAN: Barbara? Barbara, we've found her. Barbara? Where is she?
 DOCTOR: Take a look outside, my boy. I'll look after Vicki.
-IAN : Barbara? Barbara?
+IAN [OC]: Barbara? Barbara?
+(Vicki starts to wake)
 DOCTOR: Oh, come along child, you're all right. Come along. Come along, my dear. Come along.
+(Vicki pushes him away and tries to run)
 DOCTOR: My dear girl. What on earth is wrong with you?
 VICKI: No, no, no!
 IAN: Doctor! She's nowhere to be. Vicki, what is it?
@@ -946,12 +1362,17 @@ DOCTOR: A robot exactly like me?
 VICKI: Every detail. I heard them giving it orders. They made it to infiltrate our group. They told it to infiltrate and kill.
 DOCTOR: So that's it! This is very serious, Chesterton. Barbara would never have left here unless, unless you or I told her to go.
 IAN: They've got her. Barbara! Barbara! Barbara!
+(Ian dashes out)
 DOCTOR: You all right, child? Come along!
+
+[Jungle]
+
 BARBARA: Is this where you left him?
 ROBO-DOC: No.
 BARBARA: Oh, come on Doctor, We must find him. You do dawdle so!
-IAN : Barbara! Barbara!
+IAN [OC]: Barbara! Barbara!
 BARBARA: Ian! He's all right, Doctor. He's all right!
+(Robo-Doc attacks her with his walking stick. Her screams bring Ian but Robo-Doc elbows him in the stomach and gets away)
 BARBARA: What's the matter with him? Why did he try to kill me?
 IAN: It isn't the Doctor. It's a robot.
 BARBARA: A robot?
@@ -959,16 +1380,19 @@ IAN: Yes. A robot the Daleks made. Come on, Barbara, let's, let's find the other
 VICKI: I can't see any sign of Ian. I think he must have gone further than we thought. Barbara!
 IAN: Okay, Vicki.
 VICKI: Where's the Doctor?
+(enter Doctor and Robo-Doc)
 ROBO-DOC: Don't just stand there, Chesterton. That's the robot.
 DOCTOR: Robot? Robot? Me? You're the imposter. He is the imposter!
 ROBO-DOC: Then prove it, my dear fellow, prove it. Then we shall all believe you.
 DOCTOR: I don't have to.
 ROBO-DOC: You mean you can't.
 DOCTOR: Why, you!
+(The Doctor raises his stick, and Vicki, Barbara and Robo-Doc get out of the way as Ian confronts him)
 IAN: Put that stick down!
 DOCTOR: Get out of my way.
 IAN: And if I won't?
 DOCTOR: I shall give you the same treatment.
+(The Doctor and Ian struggle for his walking stick)
 ROBO-DOC: Watch him, Chesterton. Watch him!
 IAN: You still you insist you're the real Doctor?
 DOCTOR: Oh, what does it matter what I say now.
@@ -976,15 +1400,25 @@ ROBO-DOC: Chesterton, now's your chance. Destroy it. Destroy it with a rock! Sus
 BARBARA: Ian, don't. That's the Doctor!
 IAN: What?
 VICKI: This is the robot! This is the robot!
-DOCTOR:  Stop! Do not kill!
+(Ian throws the rock at Robo-Doc and misses. The Doctor trips up Robo-Doc then they fence with their walking sticks.)
+DOCTOR: (Dalek tones) Stop! Do not kill!
+(Robo-Doc freezes, the Doctor reaches in and pulls out wires, killing it)
 DOCTOR: Hmm, I must get a Doctor.
+
+[Outside the Tardis]
+
 DALEK 1: The enemy time machine. With this in our control, they cannot escape. What is that noise?
 DALEK 2: Hostile plant life! Destroy! Destroy!
+(A fungoid covers Dalek 1)
 DALEK 1: You destroy!
+(It does)
 DALEK 3: There is no trace of the humans.
 DALEK 2: Or the robot?
 DALEK 3: No. Contact has been lost.
 DALEK 1: We will organise a full scale search of the jungle at daybreak.
+
+[Cave entrance]
+
 IAN: Thing's don't look too good, do they, Doctor.
 DOCTOR: No, they're not very encouraging, dear boy.
 IAN: Oh, we've got one consolation. We're all together again.
@@ -993,11 +1427,27 @@ IAN: Why don't you go down and have a rest? Go on. I'll stay out here.
 DOCTOR: Yes, I don't suppose we can do much in this light.
 IAN: No. You know it's been dark ever since we landed on this planet.
 DOCTOR: Yes, well, we'll give it a few hours. It might get lighter. I think I'll take your advice. But I shan't sleep.
+
+[Cave]
+
+(The girls are already asleep on the floor when the Doctor lies down. Ian starts to doze too. A metallic lens descends and looks them over before going back up again)
+(The Doctor is woken by the sunlight)
+
+[Cave entrance]
+
 DOCTOR: Chesterton!
+(Ian wakes)
 DOCTOR: Get up, get up, get up!
 IAN: What's the matter?
 DOCTOR: Look here!
+(A white city sits on an elegant array of columns)
+
+[Cave]
+
 DOCTOR: I say, you two in there! Come along, wake up, wake up! Come out here quickly!
+
+[Cave entrance]
+
 VICKI: Wow, beautiful!
 IAN: Yes. To think that was up there all last night and we never knew.
 DOCTOR: Quite so. And that is where we've got to get to.
@@ -1008,6 +1458,9 @@ DOCTOR: Come along, come along, let's go. Come on.
 VICKI: Look.
 IAN: Daleks coming straight for us.
 BARBARA: Over there. There's two more of them. Come on, Vicki, quick!
+
+[Cave]
+
 IAN: What do we do now?
 DOCTOR: Well, we must clear this cave as soon as possible, otherwise we can't work that device.
 IAN: How?
@@ -1023,6 +1476,9 @@ VICKI: Anyway, it might confuse them just long enough to enable us to get away.
 BARBARA: Look, it would be sheer suicide.
 IAN: Yeah, perhaps you're right Barbara. Well, Doctor, what? Doctor!
 BARBARA: Doctor!
+
+[Outside the Tardis]
+
 DALEK 2: They are trapped in the rock face.
 DALEK 1: Attack formation! Attack formation! Attack formation! Attack formation! Attack!
 DALEK 2: Section four will enter the cave. Do not deviate.
@@ -1035,38 +1491,73 @@ DALEK 2: Move to position. On my command, advance and attack.
 DALEK 5: Align and advance!
 DALEK 6: Advance and attack!
 DALEKS: Attack and destroy! Destroy and rejoice!
-DALEK 1 : Halt! You will be exterminated!
-DOCTOR : I have infiltrated and killed. We may now return to Skaro.
-DALEK 1 : You lie. You are not the robot.
+
+[Cave]
+
+DALEK 1 [OC]: Halt! You will be exterminated!
+DOCTOR [OC]: I have infiltrated and killed. We may now return to Skaro.
+DALEK 1 [OC]: You lie. You are not the robot.
 IAN: Doctor!
+(The sound of Dalek weapons as the Doctor comes back in)
 BARBARA: Doctor, that was a foolish thing to do.
 DOCTOR: They know now who's who. Give me that machine. All of you, get against the wall. I'm going to see what I can do with this.
+(As the Doctor puts down his contraption a part of the cave wall drops and a large round-ish metal device is revealed. It speaks as though it's gargling. Why it isn't called a mechAnoid is apparently because Mr Nation originally wanted to call them Mechons, but a name that sounded the same was already taken... Info via Dalek 63.88 YouTube channel.)
 MECHONOID: Eight hundred thirty Mechonoid. English input. Enter.
-DALEKS : Advance. Advance and attack! Attack and destroy! Destroy and rejoice!
+DALEKS [OC]: Advance. Advance and attack! Attack and destroy! Destroy and rejoice!
 IAN: You heard what the gentleman said. Let's go!
+(DALEKS [OC]: Attack! Attack! Destroy!
+
+Episode Six- The Planet of Decision
+
+[Lift]
+
+(They all get into the area with the mechonoid and the cave wall closes.)
 VICKI: We're going up.
 BARBARA: Yeah, it's a lift.
 DOCTOR: Yes, you got us out of a nasty situation there. I supposed you'd like to know who we are and why we're here?
 IAN: You're not getting through to him, Doctor, you're not getting through.
 BARBARA: Doctor, ask him where he's taking us.
 IAN: He's taking us up to the city, obviously.
+
+[Cave]
+
 DALEK 1: They have escaped.
 DALEK 2: Not possible. Perceptor readings indicated they were here.
 DALEK 1: Subject walls to seismic detector tests.
+(Dalek 2 holds out the device)
 DALEK 1: It is required that we penetrate this wall. Section four will return to the time craft for the electrode unit.
 DALEKS: We obey.
+
+[Lift]
+
+(The top of the mechonoid opens and an antenna briefly pops out)
 IAN: We must have arrived.
+
+[Approach ramp]
+
+(The mechonoid leads the way out of the lift)
 MECHONOID: Stop. Follow. follow.
 VICKI: Look at it!
 DOCTOR: If's fantastic!
 BARBARA: I've never seen anything like it. It's huge!
+(The mechonoid leads the way across a cantilevered walkway)
+
+[City]
+
+(They meet a second mechonoid, and there is some electronic conversation before it leaves)
 MECHONOID: English. Enter. Enter. Zero. Stop.
 IAN: Enter, enter, zero, stop? What does he mean?
 BARBARA: It means enter, enter, zero, stop.
-VICKI:  Tttthhhaaannnk yyyooouuu!
+VICKI: (imitates the mechonoid) Tttthhhaaannnk yyyooouuu!
 BARBARA: Vicki!
+
+[Room]
+
+(The door slides shut behind them)
 BARBARA: What an extraordinary looking thing.
+(Ropes, and a set of stairs)
 IAN: Ha, looks like a monkey's perch.
+(They bounce on the bed or couch)
 VICKI: Oh, not bad, eh?
 DOCTOR: Yes, well I don't like it.
 VICKI: Why not? It's clean, it's comfortable, the robots seem quite friendly.
@@ -1074,6 +1565,7 @@ DOCTOR: Yes, yes, robot's. But haven't you noticed something very singular about
 VICKI: Like what?
 DOCTOR: We've only seen robots. No animal life, human or otherwise.?
 IAN: That's very true, Doctor.
+(A bearded man comes down the stairs. It's Peter Purves, not playing a comic Alabama hayseed this time.)
 STEVEN: Stay where you are! You real?
 IAN: Who are you?
 STEVEN: You are real. From Earth?
@@ -1084,7 +1576,7 @@ BARBARA: Yes, Steven Taylor.
 STEVEN: Say that again.
 BARBARA: Steven Taylor?
 STEVEN: Steven Taylor.
- STEVEN: That's my mascot, Hi-fi.
+(He throws a small toy panda to Barbara.) STEVEN: That's my mascot, Hi-fi.
 BARBARA: Oh! Hi, Fi, I'm Barbara.
 VICKI: I'm Vicki.
 IAN: Ian Chesterton.
@@ -1113,18 +1605,30 @@ BARBARA: Captured? Do you mean you're a prisoner.
 STEVEN: Well do you think I'd stay here otherwise? I'm just like you. We're all prisoners. Help yourself to a piece of eternity.
 IAN: Now, just a minute! There are five of us now. Surely we can do something? We can fight our way out.
 STEVEN: Look, at the first sign of violence towards them, the Mechanoids destroy.
+(Louvres are opened.)
 STEVEN: Now what's this? What are they playing at?
 DOCTOR: Yes, I see. We're being held here as specimens.
 VICKI: What, like something in a zoo?
 STEVEN: Yes, Vicki. Exactly like a zoo. Only we're the specimens that are on display. Aren't we, my fat little darlings?!
+
+[Cave]
+
 DALEK 1: Electrode unit ready.
 DALEK 2: Operate. Increase power. Conveyor descending.
 DALEK 1: By taking the humans, the Mechons have forced us to take action against them. We invade.
 DALEK 3: Skaro reports they have many powerful weapons. We may sustain damage.
 DALEK 1: The orders of the Dalek Supreme will be obeyed! The humans will be destroyed! The Mechons will not be permitted to stand in our way! We attack! We attack!
 DALEKS: Attack! Attack! Attack! Attack! Attack! Attack! Attack!
+(The Daleks get into the lift)
+
+[City]
+
 BARBARA: Oh, go away! Leave us alone, can't you?
+(The louvres shut)
 MECHONOID: Threat. Stop.
+
+[Room]
+
 STEVEN: There's only one thing to do to keep yourself sane, that's to make things. I built this.
 BARBARA: Did you?
 STEVEN: All my own work.
@@ -1146,8 +1650,12 @@ STEVEN: There aren't any. We're allowed to go up here anytime for light, exercis
 DOCTOR: Good, good!
 STEVEN: Go on, I'll show you.
 DOCTOR: Splendid.
+
+[Rooftop]
+
 STEVEN: See? I told you, no guards. I'll go and tell the girls.
 DOCTOR: Yes, wait a minute, dear boy.
+(Ian is standing right on the edge)
 DOCTOR: Chesterton, be careful!
 IAN: Yes, I see why the Mechanoids don't mind us coming up here.
 There are coils of thick cable.)
@@ -1157,6 +1665,9 @@ IAN: Doctor, I've got it. We can get down to the ground with this.
 DOCTOR: Yes, yes, if we can break it.
 IAN: Well, there's a junction box over here. A few good pulls, this'd come away. Come on, let's get the others.
 DOCTOR: Yes, come along, come along!
+
+[Room]
+
 BARBARA: Well? Any chance?
 IAN: Yes, but it's going to be dangerous.
 STEVEN: What, do you mean the cable?
@@ -1172,23 +1683,57 @@ STEVEN: The cable's strong. It wouldn't break.
 IAN: I think it's the only chance we've got.
 BARBARA: Well, I don't like it.
 VICKI: Look!
+
+[Outside the room]
+
 DALEK 2: Where are the space travellers?
 MECHONOID: Zero.
+
+[Room]
+
 VICKI: Daleks.
 IAN: Well, that settles it.
 DOCTOR: Go on, go on.
 IAN: On the roof, quick!
 DOCTOR: Go on! Now, I think we'll leave them something to remember us by.
+(He switches on his device, grabs his walking stick and goes up the stairs)
+
+[Outside the room]
+
 DALEK 2: You will be annihilated!
+(The Mechonoid is shot, and rolls away)
+
+[Room]
+
 DALEK 4: Dispatch a section to the roof area.
 DALEK 2: I obey.
+(Bang! goes the Doctor's device.)
 DALEK 4: Am exterminated! Am exterminated! Argh!
+(A Mechonoid grabs the other Dalek in it's curved arms)
 DALEK 2: Totally immobilised.
 MECHONOID: Trapped. Trapped.
+
+[Rooftop]
+
+(The adults pull the cable from the fuse box)
 IAN: I think we've fused it.
 DOCTOR: Never mind about that. Let's get on with this. Come along. Quickly! Get that. Come on.
 STEVEN: That's all right. There's plenty of it.
-BARBARA: 
+(Vicki is looking down on the trees, and wobbling.)
+BARBARA: (grabbing her. Vicki! Vicki, come and help us.
+STEVEN: We're going to have to lower her.
+IAN: Vicki Vicki, listen to me. We'll tie the cable round you and lower you to the ground.
+VICKI: No!
+IAN: You'll be quite safe.
+VICKI: No! I can't.
+DOCTOR: Vicki, my dear, I'm going to blindfold you. You won't be able to see a thing. You'll be quite safe. Now come along.
+VICKI: I can't. No!
+DOCTOR: Now come along, child. Pull your self together
+VICKI: Don't! No!
+DOCTOR: Vicki, come along, come along!
+VICKI: I
+IAN: Quick, lift up your arms.
+(He puts the loop of cable around her.)
 VICKI: No. No.
 IAN: Now hold onto this, Vicki.
 VICKI: No I can't.
@@ -1205,12 +1750,20 @@ VICKI: No no no!
 BARBARA: Hold on to this.
 VICKI: No! No!
 BARBARA: Okay.
+(They lower Vicki over the edge.)
 DOCTOR: Good gracious! The place is on fire!
 STEVEN: But, Hi-fi! I've got to get the mascot!
 DOCTOR: No, Steven!
 IAN: Steven, what are you doing?!
- IAN: Get hold of her! What are you doing!
+(Barbara is almost pulled over the edge. The Doctor and Ian grab her legs.) IAN: Get hold of her! What are you doing!
 DOCTOR: Come back!
+
+[Room]
+
+(Steven dodges a Dalek in the smoke.)
+
+[City]
+
 MECHONOID: Follow Mechonoid. Attack. System.
 DALEK 1: To defy Daleks is death!
 DALEK 2: We await commands!
@@ -1222,6 +1775,10 @@ DALEK 1: Exterminate them! Exterminate!
 MECHONOID: Attack here.
 DALEK 1: Annihilate!
 MECHONOID: Fire.
+(The Mechonoid's flame thrower is no match for the Daleks, and it goes BOOM. More Mechonoids arrive to grab Daleks and pin them in whilst the smoke gets thicker. Machine versus machine and the Mechanoids are winning.)
+
+[Jungle]
+
 BARBARA: Vicki. Vicki, are you all right?
 VICKI: Yes. Yes, thanks. How about the others?
 BARBARA: They're fine. Now, Vicki, remember the Doctor's device? Well it worked! The city's on fire. Look, you can see!
@@ -1234,7 +1791,11 @@ VICKI: What for?
 DOCTOR: We don't know, my child, and his chances of survival in this furnace are utterly
 IAN: Quick! That cable's on fire and the whole buildings collapsing!
 VICKI: No, we can't!
-IAN : Halt! You will be exterminated!
+
+[Outside the Dalek Time machine]
+
+IAN [OC]: Halt! You will be exterminated!
+(Ian comes out, holding his nose.)
 IAN: Exterminated!
 BARBARA: Oh, Ian!
 IAN: Doctor, it's empty. You've done it again! You've beaten them!
@@ -1246,6 +1807,7 @@ DOCTOR: Of course, my dear, I'd forgotten. You've taken a trip in it.
 VICKI: Shall I show you round?
 DOCTOR: My dear, I shall be delighted.
 IAN: After you!
+(The Doctor and Vicki go inside.)
 BARBARA: Ian, do you realise we could get home?
 IAN: Home? Yes. Do you want to?
 BARBARA: Yes. I never realised it before.
@@ -1253,8 +1815,15 @@ IAN: Neither did I. We may never get another chance.
 BARBARA: Do you think we could work it?
 IAN: Well, would the Doctor take us?
 BARBARA: Let's ask him.
+
+[Jungle]
+
 STEVEN: Doctor!
-DOCTOR : I don't want to know! I want none of this! I've never heard such nonsense in my life! You'll end up as a couple of burnt cinders, flying around in space. You idiots! You are absolute idiots!
+(Clutching Hi-Fi, Steven nearly gets caught by a fungoid.)
+
+[Jungle]
+
+DOCTOR [OC]: I don't want to know! I want none of this! I've never heard such nonsense in my life! You'll end up as a couple of burnt cinders, flying around in space. You idiots! You are absolute idiots!
 BARBARA: We are not idiots! We want to go home!
 IAN: Yes, home! I want to sit in a pub and drink a pint of beer again. I want to walk in a park and watch a cricket match. Above all, I want to belong somewhere, do something, instead of this aimless drifting around in space.
 DOCTOR: Aimless? I've tried for two years to get you both home!
@@ -1274,12 +1843,19 @@ DOCTOR: Do you both realise the enormous risks?
 IAN: We do. We still want to go.
 BARBARA: Please, Doctor.
 DOCTOR: Very well, follow me. But you must follow my instructions implicitly, understood? Implicitly! You will both have about a fifty-fifty chance. Follow me, come along.
+(Later, Vicki and the Doctor come out, and the Dalek machine dematerialises)
+
+[Street]
+
+(Ian comes out of a garage near a tube station. The car tax disc expiry date is December 1965)
 IAN: Barbara, we made it.
 BARBARA: I don't believe it!
 IAN: London 1965!
 BARBARA: Hey, we're two years out.
 IAN: Oh, what's two years amongst friends? We're home! I'll just go and press that button.
+(He goes inside and something starts beeping)
 IAN: Run!
+(KaBOOM)
 IAN: Well, that's put paid to the Dalek's time travelling for a while.
 BARBARA: It'll give the Doctor a breather anyway.
 IAN: Yes. I wonder where he is right now?
@@ -1287,12 +1863,16 @@ BARBARA: Hey, Doctor, wherever you are.
 IAN: Shh! There's someone coming.
 BARBARA: Goodbye, Doctor! Thanks for the ride!
 IAN: It was fun Doctor! Goodbye!
+(A series of stills to show our two explorers getting reacquainted with the Capital - Trafalgar Square and the pigeons, the Embankment, a blue Police Box, Regent Street)
+
+[Bus]
+
 BARBARA: Oh, I enjoyed that.
 IAN: Yes, so did I.
-CONDUCTOR : Fares please.
+CONDUCTOR [OC]: Fares please.
 IAN: Oh, it's great to be back. Nothing seems to have changed.
 BARBARA: Oh, you wait till we get back to Coal Hill. Hey!
-CONDUCTOR : Any more fares please?
+CONDUCTOR [OC]: Any more fares please?
 BARBARA: How are we going to explain our absence?
 IAN: Yeah, that's a point, isn't it? We'll have to think of something. It had better be good, eh?
 CONDUCTOR: Fares please.
@@ -1300,5 +1880,11 @@ IAN: Oh, er, two three's, please.
 CONDUCTOR: Two three's? You must be joking. Where've you been? On the Moon?
 IAN: Er, no, but you're getting warm.
 BARBARA: Shh!
+
+[Tardis]
+
+(On the Visualiser, Ian and Barbara burst into laughter)
 VICKI: Doctor, they made it! They made it!
 DOCTOR: I shall miss them. Yes, I shall miss them, silly old fusspots. Come along, my dear, it's time we were off.
+
+

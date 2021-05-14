@@ -1,5 +1,11 @@
 Galaxy Four
+
+
 Episode One - Four Hundred Dawns
+
+[Tardis]
+
+(Vicki is giving Steven a haircut. The Doctor is busy at the controls.)
 VICKI: Arrived, have we?
 DOCTOR: We have, my dear.
 STEVEN: Good. Where?
@@ -10,9 +16,11 @@ STEVEN: I just want to know where we are.
 DOCTOR: Quiet, both of you, will you?! Listen. Listen.
 STEVEN: Listen to what? I can't hear a thing.
 DOCTOR: Exactly. Exactly. There isn't a sound out there. Not a sound! Just silence.
+(The Doctor reexamines the Tardis' instruments. Everything seems to be in satisfactory working order.)
 DOCTOR: Well, the atmospheric pressure's quite normal. Oxygen, temperature, radiation. It's all quite normal. I wonder. Hmm. I wonder if it's possible to have a planet so obviously conducive to life and yet without any?
 VICKI: Well, I've finished chopping this fellow. Could we go out and see?
 DOCTOR: Yes, I don't see why not, my child. It appears absolutely deserted. As a matter of fact, I think we shall get some long-deserved, undisturbed peace for once.
+(On a rocky slope above the Tardis, a squat dome-shaped machine appears and moves towards the ship. Steven is more concerned with his new haircut.)
 STEVEN: Not bad. It's a bit amateurish, really.
 VICKI: Oh, come on.
 STEVEN: Hey, you know, there might be a lake or a river around, Doctor. Do you fancy a swim?
@@ -21,9 +29,11 @@ STEVEN: Oh, come off it, Doctor. You can't be scientific all the time. Anyway, y
 VICKI: What, get him in cold water? You'll be lucky.
 DOCTOR: From past experience, we must always be on our guard.
 STEVEN: Yes, well I'm prepared to take the risk.
+(Outside, the robot reaches the Tardis and collides with it.)
 VICKI: What's that?
 STEVEN: Well, are we all ready, then?
 DOCTOR: Shh, shh!
+(The robot bumps into the Tardis again, then slowly turns to the right, remaining in contact with the outside of the ship, feeling its way along the side. At the corner, it stops, then nudges its way round and proceeds along the next side.)
 STEVEN: What's going on?
 VICKI: Something is feeling it's way around the ship.
 DOCTOR: Yes. Like something trying to discover by touch. Something blind.
@@ -31,6 +41,7 @@ VICKI: It's just reaching this corner now.
 DOCTOR: Yes, it is blind.
 VICKI: Whatever it is.
 DOCTOR: As you say, my dear, whatever it is.
+(Completing its circuit of the Tardis, the machine stops. After a moment it moves away from the ship, coming into view on the Tardis scanner. A light on top of the machine begins to flash.)
 DOCTOR: Just look, now. Now look, that's something quite different, isn't it?
 STEVEN: You know, Doctor, it looks to me as if it's sending some kind of message. What do you think?
 DOCTOR: Yes, yes, it might be that. To its controller, whoever it might be.
@@ -46,6 +57,9 @@ VICKI: Chumbley.
 DOCTOR: Well, Chumbley, if you like, my child.
 STEVEN: You know, Doctor, that thing might have been dangerous. What are we going to do about it?
 DOCTOR: I'm going to find out. Come along, my child, and bring my stick.
+
+[Planet surface]
+
 DOCTOR: Oh, it's delightful. Yes, thank you. Just about the right amount of oxygen.
 VICKI: Mmm. I can smell flowers.
 DOCTOR: Oh, indeed, how delightful. Well, there's one thing child, there's no Chumblies about.
@@ -58,6 +72,7 @@ VICKI: You don't think we've jumped the time track again, do you?
 DOCTOR: No, no, my dear, not again, not again, but it's so quiet.
 STEVEN: It's almost too quiet.
 VICKI: Doctor! A Chumbley!
+(The Chumbley points a rod-like appendage at them from beneath its dome.)
 STEVEN: That one looks pretty vicious, Doctor. Is that a gun?
 DOCTOR: Stand still, otherwise we all might be killed. We come in peace. We don't wish you any harm.
 VICKI: He can't speak.
@@ -69,12 +84,15 @@ DOCTOR: Oh, indeed. That was very noble of you, indeed. Now you've put the thing
 STEVEN: Yes, it is blind.
 VICKI: But it can hear.
 DOCTOR: Oh yes, and very accurately. You know, I believe it can locate us by some form of heat wave, as it were.
+(The Chumbley moves towards the trio. It reaches the Doctor and nudges him gently forward.)
 STEVEN: Do you get that feeling that it wants us to go somewhere, Doctor?
 DOCTOR: Stand still. Don't let it move you.
+(After a moment, the Chumbley aims it's weapon at some nearby vegetation, and fires. The plants burst into flames.)
 DOCTOR: As neat a threat as ever I saw.
 VICKI: What was it?
 DOCTOR: Well, it's some kind of light ray, very powerful and dangerous, I would say. I think we're better do what the thing wants.
 STEVEN: Yes, come on Vicki.
+(The three travellers turn in the direction indicated, and move off across the plain. The Chumbley follows close behind. A short way ahead, two female figures are lying in wait behind a rocky outcrop. These are Drahvins. They have long blonde hair and might be considered attractive were it not for the total lack of warmth in their faces, their rigid features showing no emotion. They wear plain high-necked green and white uniforms, and each carries a large gun. As the Chumbley and its prisoners draw nearer, Drahvin 2 sets down her weapon and grasps one side of a metal mesh at her feet. Her companion takes the other side of the mesh. As the Chumbley passes beneath them, the Drahvins hurl the mesh down on top of it. The Chumbley's domes instantly collapse down one on top of one another. It is immobilised.)
 DOCTOR: What's that?
 VICKI: Who are they?
 STEVEN: I have no idea, but aren't they a lovely surprise.
@@ -110,6 +128,7 @@ DOCTOR: It's only what they say, and who are they?
 STEVEN: At least they stopped the Chumbley. Doesn't that prove something?
 DOCTOR: Yes, all right. Well, perhaps you'd better take us to this Maaga, this leader, whatever it is.
 VICKI: Doctor! More Chumblies!
+(Off in the distance, four more Chumblies are moving in a convoy towards them. As the robots come closer, the Drahvins react in panic.)
 DRAHVIN 1: The mesh!
 DRAHVIN 2: It's caught!
 DOCTOR: They're all magnetised so that you can't get the top off.
@@ -122,10 +141,18 @@ DRAHVIN 1: We must go!
 DOCTOR: Come! Come!
 VICKI: All right, Doctor!
 DOCTOR: Quickly! Quickly!
+(The pursuing Chumblies move in, and encircle the Chumbley trapped beneath the metal mesh. One of them stands before it, then extends a claw arm, grasps the mesh and pulls it away from the inert machine. Instantly, the Chumbley comes back to life. The Chumblies set off in pursuit of the Doctor and his party, who are heading to the Drahvin spaceship.)
+
+[Outside the spaceship]
+
+(Exhausted, the fugitives finally reach the ship.)
 DOCTOR: Oh, good gracious!
 VICKI: Are you all right?
 DOCTOR: Yes, I think so. It's all this physical exercise at my age.
 DRAHVIN 2: They're nearly here. Quickly, inside.
+
+[Spaceship]
+
 DRAHVIN 1: Close external door.
 DRAHVIN 3: Close external door.
 STEVEN: Well, it was a decent space ship once.
@@ -180,6 +207,7 @@ STEVEN: All women?
 MAAGA: Women?
 DOCTOR: Yes, feminine. Ah, female.
 MAAGA: Oh, we have a small number of men, as many as we need. The rest we kill. They consume valuable food and fulfill no particular function.
+(Maaga indicates the two Drahvins)
 MAAGA: And these are not what you would call human. They are cultivated in test tubes. We have very good scientists. I am a living being. They are products, and inferior products. Grown for a purpose and capable of nothing more.
 STEVEN: Grown for what purpose?
 MAAGA: To fight. To kill.
@@ -193,6 +221,7 @@ DOCTOR: Yes, I think I'm beginning to understand.
 STEVEN: Yes, so am I, Doctor. This planet's about to explode, the Rills have managed to repair their ship in time so they can escape. You haven't, so you want their ship.
 MAAGA: We have no desire to be here when this planet ceases to exist.
 DRAHVIN 3: Machine approaching!
+(The Chumbley outside is moving rapidly towards the Drahvin spaceship.)
 MAAGA: To your stations. Switch off the outside radio.
 VICKI: What are they doing now?
 STEVEN: They're going to have another go at the Chumblies, by the look of things.
@@ -202,6 +231,7 @@ DOCTOR: Yes, yes, madam! You may not but I'd like to hear it.
 MAAGA: It's not good for my soldiers.
 DOCTOR: Ah, I see. It's stopped.
 MAAGA: Yes. Now it is sending its message. Fire!
+(The Chumbley is hit by a burst of flame. It collapses its domes and is still. After a moment, it raises them again, signals, turns and chumbles off.)
 DOCTOR: You didn't do it very much damage, did you?
 MAAGA: My only intention was to scare it off. We've succeeded. To your places.
 DOCTOR: And you haven't destroyed one Chumbley yet.
@@ -232,22 +262,41 @@ VICKI: I'll stay. You'll need Steven anyway if you bump into the Chumblies again
 DOCTOR: Yes, well, very well. Young man, you and I will go.
 DRAHVIN: Door opening!
 STEVEN: We won't be long, Vicki. I promise we won't get lost.
+
+[Outside the Tardis]
+
+(The Doctor and Steven make their way back to the Tardis, but discover to their horror that they've been beaten to it.)
 STEVEN: Chumblies!
+(Crouching down, they observe a Chumbley trying to gain entry to the Tardis. A second Chumbley joins it, holding some kind of drill.)
 STEVEN: Can they get in Doctor?
 DOCTOR: Well, they'd have to be pretty well advanced to break my force barrier.
 STEVEN: How do you know they aren't?
 DOCTOR: Hmm?
+
+[Spaceship]
+
+(Vicki has been left on her own in the Drahvin living quarters. She's troubled, unable to quell the nagging suspicion that Maaga is hiding something. Hearing raised voices in the next compartment, Vicki crosses to the bulkhead and presses her ear against it. 
+MAAGA: To lose the mesh was gross incompetence. It was our only weapon against the machines. If we lose to the Rills it will be because of you. You want that, do you?
+DRAHVINS: (groans, groans)
 MAAGA: You want to be captured by those creeping, revolting, green monsters? You want their slimy claws to close about your necks?
 DRAHVINS: No, no Maaga, no.
 MAAGA: You fools. You fools.
+
+[Outside the Tardis]
+
 DOCTOR: I wonder what they're up to, eh?
 STEVEN: Trying something else by the look of it.
+(One of the Chumblies aims it's light beam at the lock of the Tardis doors. The ray has no effect. Backing off, the machines transmit a brief message then chumble away. As soon as they've gone, Steven and the Doctor emerge from their hiding place.)
 DOCTOR: There, you see, my boy? Look. Not a scratch. Not a scratch.
 STEVEN: Yes, well, are we going in or not, Doctor?
 DOCTOR: I certainly excelled myself with that force barrier.
 STEVEN: Yes, Doctor.
 DOCTOR: Oh, now wait a minute. I think they've all gone to bed. Well, it's a very good thing I brought you around, young man, to tell me what I'm supposed to be doing.
 STEVEN: Yes, you're so right, Doctor.
+
+[Tardis]
+
+(Inside the Tardis, the Doctor moves across to his astral map and activates it. The machine lights up and the Doctor adjusts various dials, checking the readings with growing concern.)
 STEVEN: Well, Doctor? Will this planet explode?
 DOCTOR: The Rills were quite right.
 STEVEN: We've got to get off the planet.
@@ -258,17 +307,27 @@ STEVEN: Okay, but we've got to get off here somehow!
 DOCTOR: It's imperative that we leave at once.
 STEVEN: Why is that that? The Drahvins did say fourteen dawns.
 DOCTOR: Two dawns! Tomorrow is the last day this planet will ever see.
+
 Episode Two - Trap of Steel
+
+[Tardis]
+
+(With Vicki still a captive of the Drahvins, Steven comes to a decision.)
 STEVEN: We've got to get back, get Vicki away from the Drahvins.
+(Reaching the door, Steven spots a Chumbley outside.)
 STEVEN: The doors, Doctor! Can we see the scanner?
+(The Chumbley is moving towards the Tardis carrying a large black tube-shaped object.)
 STEVEN: What's that it's got?
 DOCTOR: I wish I knew.
+(Reaching the Tardis, the Chumbley drops the vial and then retreats to a distance of a few yards.)
 STEVEN: Perhaps it's just going to stand guard there.
 DOCTOR: No. No, it's waiting for something.
 STEVEN: But what?
 DOCTOR: I can't quite see.
 STEVEN: Doctor, I think it's holding a couple of wires. Look out!
+(BOOM)
 STEVEN: Doctor? Doctor, where are you?
+(Steven spots the Doctor lying behind the console, and goes over to help him to his feet. As he does so, there's a second explosion.)
 STEVEN: Doctor.
 DOCTOR: Oh, thank you. Oh! Oh! I think Guy Fawkes must have been resurrected.
 STEVEN: Oh, please, Doctor! You all right?
@@ -281,6 +340,10 @@ STEVEN: Yes, they've given up.
 DOCTOR: Yes, yes, unless they come back with a piece more trouble, I wonder. Come on, we must go. So little time.
 STEVEN: Two dawns, hmm?
 DOCTOR: Two dawns. Come on, come on!
+
+[Spaceship]
+
+(Back in the Drahvin spaceship, Maaga joins Vicki at a table in the living quarters.)
 MAAGA: Are you sure you won't eat?
 VICKI: No. Thank you.
 MAAGA: It's very good.
@@ -304,6 +367,9 @@ VICKI: But let me go, now.
 MAAGA: No, I can't let you do that, because you might all escape in your spaceship. And we need your help.
 VICKI: Whether we want to give it or not.
 MAAGA: Oh, I'm sure that all of you want to help us.
+
+[Outside the spaceship]
+
 STEVEN: Well, we've made it Doctor. You know, this is a pretty strange kind of spaceship.
 DOCTOR: Are you talking to yourself, dear boy?
 STEVEN: I was just saying that it's a strange kind of spaceship. Old-fashioned.
@@ -312,6 +378,10 @@ STEVEN: Yeah, but it's the metal, I mean, Doctor, you know. Well, it's inferior.
 DOCTOR: Yes, well, it's tough, but, it's not impregnable. No, it's very common metal really. Yes, its it's nothing unusual, nothing unusual. Well, I suggest that we go in instead of standing around here admiring the scenery. Come along.
 STEVEN: Well, what are you talking about, Doctor? It's you who stopped to fiddle around on the outside.
 DOCTOR: But you brought up the subject. Now don't argue, please. Don't argue. I've never heard such rubbish.
+(They knock on the airlock door.)
+
+[Spaceship]
+
 MAAGA: Your friends, safe, you see?
 VICKI: No thanks to you, though, is it?
 STEVEN: All right Doctor?
@@ -325,6 +395,7 @@ MAAGA: They didn't succeed?
 DOCTOR: Well of course they didn't. My ship's not made of tin like this old trash. Oh, good gracious me! Seems if I cough too loudly, the whole thing'd fall to pieces.
 MAAGA: It served its purpose.
 DOCTOR: Ah, yes. Whatever that might be.
+(Maaga closes the main airlock doors.)
 DOCTOR: Is that necessary?
 MAAGA: We have to protect ourselves against the machines.
 DOCTOR: Hmm.
@@ -370,8 +441,16 @@ MAAGA: You will not change your mind?
 DOCTOR: No.
 MAAGA: This is your last chance.
 DOCTOR: Very likely.
+(Maaga pulls a weapon from her belt.)
 MAAGA: You may not realise it, but at first I point this at your hand and then I pull the trigger and
+(Steven leaps at Maaga. The Drahvin leader is unexpectedly strong and retains her grip on the gun. They wrestle to and fro as Vicki and the Doctor watch in consternation. Just as Steven is gaining the upper hand, two Drahvins enter, guns drawn.)
 VICKI: Steven!
+(Steven gives up.
+DOCTOR: A very good attempt, my boy. Never mind.
+MAAGA: You'll help us now?
+DOCTOR: Yes, I don't seem to have much chance.
+MAAGA: You have none whatsoever. The Rills are repairing their spaceship. They have fourteen dawns in which to complete it.
+(The Doctor and Steven exchange a look)
 MAAGA: It is fourteen, isn't it?
 DOCTOR: Oh, er, yes, quite.
 MAAGA: You sure?
@@ -381,6 +460,7 @@ DOCTOR: Oh, but why should I lie?
 MAAGA: I don't know. To trick us or something. When is this planet due to explode?
 DOCTOR: Fourteen dawns time.
 MAAGA: Very well, we shall kill the girl.
+(At Maaga's signal, two Drahvins seize Vicki and a third points a gun at her.)
 DOCTOR: Two dawns.
 MAAGA: As soon as that? Well, you'll have to work quickly. The Rill spaceship is that way. You will capture it for us.
 DOCTOR: It may not be ready yet.
@@ -394,8 +474,13 @@ STEVEN: Do you want our help or don't you?
 DOCTOR: You will do as the young man suggests.
 MAAGA: Very well, we'll keep him.
 DOCTOR: Come along, Vicki. We have very little time. Madam, do I begin by walking through this?
+(The Doctor waves at the locked airlock doors. They open.)
 STEVEN: Do you honestly believe that they can capture the Rills' spaceship all by themselves?
 MAAGA: Either they succeed, or we all die together.
+
+[Outside the spaceship]
+
+(Outside the Drahvin spaceship, the Doctor stops to gaze pensively up at the sky.)
 VICKI: Doctor, come on. What are you standing there for?
 DOCTOR: Oh, I was just ruminating about the night and day. I was wondering when it was going to get dark, then I just realised that there's three suns on this planet.
 VICKI: What, you don't think they have night here at all?
@@ -411,7 +496,13 @@ DOCTOR: No, it's all very odd, isn't it? Yes, it's very odd.
 VICKI: Come on, Doctor, you said we haven't much time.
 DOCTOR: Oh. Yes, of course, nearly one dawn. Yes, we must start that journey. Are you nervous?
 VICKI: Well, they sounded a bit nasty, didn't they?
+(The Doctor and Vicki begin their journey to the Rill craft, while Steven remains under guard in the Drahvin ship.)
+
+[Inside the spaceship]
+
+(Steven approaches one of his guards, who watches him impassively, and she does not even react or resist when he takes her gun from her. But the gun appears not to work. Bewildered, Steven attempts a hasty and unsuccessful repair before returning it to its owner.)
 STEVEN: Yes, well, it still won't work, but at least it looks prettier now. Can I have some food?
+(The Drahvin guard offers him two small tablets.)
 STEVEN: Is this all there is?
 DRAHVIN 1: That is our food.
 STEVEN: Ugh. Does Maaga eat this?
@@ -443,11 +534,13 @@ DRAHVIN 1: Yes.
 STEVEN: Well, I'll tell you what. You give me your gun, whilst you go and fetch Maaga's, and then we can both fight the machines together.
 DRAHVIN 1: Yes.
 MAAGA: You're trying to be too clever.
+(Unnoticed, Maaga has entered the room)
 MAAGA: You have done badly. You will be punished. This is a prisoner. You must not talk to him.
 DRAHVIN 1: He was talking.
 MAAGA: He was trying to trick you like the machine.
 DRAHVIN 1: I have done wrong. I did not understand.
 MAAGA: Go to your quarters.
+(Drahvin 1 leaves the room, and Maaga turns to address Steven.)
 MAAGA: You must keep out of our way.
 STEVEN: I don't particularly want to be here at all.
 MAAGA: You don't have to be.
@@ -469,10 +562,15 @@ STEVEN: No, you couldn't. Not even I can do the impossible. So sorry.
 MAAGA: Get over there and stay there!
 STEVEN: That's an order, is it?
 MAAGA: Yes, it is.
+(Steven moves over to the corner Maaga indicates. Frustrated, he sits, then lies down and closes his eyes. Satisfied that he will cause no more trouble, the Drahvin soldiers cross to the table and sit down with Maaga. Eventually, Drahvin 3 breaks the silence.)
 DRAHVIN 3: Maaga.
 MAAGA: What is it?
 DRAHVIN 3: Why do we not kill him now?
 MAAGA: I will let you kill him when I am good and ready.
+
+[Planet surface]
+
+(Out on the surface, the Doctor and Vicki have reached a ridge, from where they can observe several Chumblies patrolling back and forth ahead of them.)
 VICKI: Doctor, we'll never get past those sentries.
 DOCTOR: Fascinating things to watch, ay? I wonder what the principal of the operation is? I suppose it's quite simple once you know.
 VICKI: Doctor.
@@ -483,6 +581,7 @@ VICKI: You're telling me it is.
 DOCTOR: Well, now don't lose patience, you see. Now look, in this case, first we must observe, note, collate, and then conclude. After that, perhaps we can act.
 VICKI: Yeah. Well, with the time we've got you have to all that in ten minutes flat.
 DOCTOR: Shh, shh, shh. Quiet, quiet.
+(Ducking out of sight, they watch a Chumbley pass close by. As a second Chumbley moves past, Vicki picks up a rock and throws it down behind the machine. The Chumbley does not react, and continues on its way.)
 VICKI: That's your answer.
 DOCTOR: What are you doing?
 VICKI: Doctor, I thought
@@ -493,6 +592,11 @@ VICKI: That was no risk. I noted, observed, collated, concluded, and then I thre
 DOCTOR: Oh yes, yes, yes, quite so, yes, yes. You about finished? This time I'll give you the benefit of the doubt. But, well now, I suppose we've got to make a run for it.
 VICKI: Are you sure you can manage?
 DOCTOR: I think I can drag my aged limbs in some sort of semblance of a run. Go on.
+(Vicki and the Doctor dash towards the Rill ship, careful to remain on the blind side of any Chumblies.)
+
+[Spaceship]
+
+(Meanwhile, on the Drahvin spaceship, Steven is ignored as Maaga takes her soldiers through a weapons drill.)
 MAAGA: Power units off. Guns down. Power unit readings. One?
 DRAHVIN 1: 397.
 MAAGA: Two?
@@ -500,14 +604,22 @@ DRAHVIN 2: 394.
 MAAGA: Three?
 DRAHVIN 3: 386.
 MAAGA: Get it charged, Three. All guns must be perfect. If any one is found defective, the owner will be severely punished. Because soon now, we will use them. I, Maaga, will see to it. Soon now, we will break into the Rills' spaceship, and the Rills, they will all be wiped out.
+
+[Planet surface]
+
 VICKI: So far, so good.
 DOCTOR: Look! That looks like the home of the Rills.
+(The Doctor indicates a bunker-like building carved of rock, with what appears to be a vast black sphere growing from its left side.)
 VICKI: That must be their space ship over there.
 DOCTOR: Yes. And what's that other thing?
 VICKI: It looks like a drill rig.
 DOCTOR: Yes, it does, doesn't it. What could they be drilling for?
 VICKI: Oil? Gas?
 DOCTOR: Yeah. Well, there's only one way to find out. Go on.
+
+[Outside the Rill building]
+
+(The Doctor and Vicki are forced to duck out of sight as a Chumbley emerges from the entrance. After a moment the robot swings round and disappears back inside. Once they're sure that it has gone, the Doctor and Vicki creep forwards to the entrance.)
 VICKI: What on earth will we do if another one of those things comes out?
 DOCTOR: We'd be in trouble. You know, this is a nice piece of building.
 VICKI: It looks very temporary to me.
@@ -516,6 +628,9 @@ VICKI: It looks like some kind of air purifier.
 DOCTOR: Yes, or some kind of machinery for converting air into something else. Yes, it's most interesting. Can you see anything?
 VICKI: No.
 DOCTOR: I'll lead the way.
+
+[Rill Corridor]
+
 DOCTOR: You know, this looks as though it's been built for the Chumblies.
 VICKI: A Chumbley-shaped corridor. Doctor?
 DOCTOR: Hmm?
@@ -529,22 +644,44 @@ DOCTOR: Well, I must say, it's an astonishing shape and design. Marvellous work.
 VICKI: That smell's getting stronger, you know.
 DOCTOR: That what?
 VICKI: Shh!
+(They freeze as a Chumbley approaches, and are forced to hide as several more appear.)
 VICKI: Oh, Doctor, I thought they'd heard us.
 DOCTOR: What's it doing, listening or smelling? Come on, Come on.
+
+[Central chamber]
+
+(They emerge into a large central chamber)
 DOCTOR: A spaceship!
+(The Doctor notices that one wall is black, and realises what it must mean.)
 DOCTOR: You can't scratch the metal. Isn't that astounding? Yes, it's far superior, far superior. Wonderful stuff for a spaceship.
 VICKI: Doctor? I know what that smell is now.
 DOCTOR: Hmm?
 VICKI: Ammonia.
+(At the entrance to the Rill centre, a Chumbley moves into the passageway. VICKI: Doctor? What do you think this thing is here?
+DOCTOR: Well, I should say this is some sort of repair shop. Yes, and that's a what, a Chumbley attachment?
+VICKI: Yes.
+DOCTOR: Yes, a revelation, a revelation.
+(Vicki notices a deactivated Chumbley with its domes collapsed, making it look smaller than the others.)
 VICKI: Do you think it's a baby one?
+(The Doctor reaches out and taps the inert Chumbley.)
 DOCTOR: Not awake just yet.
+(They laugh, then Vicki screams.)
+
 Episode Three - Airlock
+
+[Central chamber]
+
+(The Doctor turns to see what has scared Vicki. An alien eye is observing them with curiosity through a window. Meanwhile, a Chumbley is making its way towards the central chamber.)
 DOCTOR: There's a Chumbley coming! Quickly!
-.
+(Dashing to the nearest doorway, the Doctor and Vicki spot a second Chumbley coming down the passage. They turn and run into another tunnel. Behind them, the Chumblies emerge into the central chamber and pause. After a moment they both move into the passage way that the Doctor and Vicki used as their escape route.)
+
+[Passageway].
+
 DOCTOR: Come on.
 VICKI: Come on, Doctor.
 )The Doctor emerges from the Rill central chamber and turns to help Vicki out.)
 DOCTOR: This way. Come on, we'll make it.
+(But an iron grill slams down in front of her, blocking her exit.)
 VICKI: Doctor!
 DOCTOR: I can't move it. It's immovable! Wait, wait, wait. I have an idea. I might be able to sabotage them. Be patient. We know what this machine's for. This is to convert air into ammonia gas.
 VICKI: Doctor, hurry up!
@@ -563,7 +700,11 @@ VICKI: Doctor, I'm so scared.
 DOCTOR: Look, you go with them, quickly, but don't cause any trouble. It'll give me time to see if I can help you. I think perhaps I can do something to that machine, but I must have time, yes?
 VICKI: All right, but be quick.
 DOCTOR: All right, don't worry. Goodbye.
-.
+(Reluctantly, Vicki allows herself to be taken back into the ship, and the Doctor turns his attention to the air converter.)
+
+[Spaceship].
+
+(On the Drahvin spaceship, Steven is still pretending to be asleep. Nervously, Drahvin 2 approaches Maaga.)
 DRAHVIN 2: Maaga, shall we go?
 MAAGA: Where?
 DRAHVIN 2: To patrol.
@@ -594,11 +735,18 @@ DRAHVIN 2: I do not understand.
 MAAGA: I know you don't. But despite that, you will obey orders. It may be that we shall kill neither the Rills nor the Earth creatures. Not with our own hands, that is. It may be better for us to escape in the Rills' spaceship and leave them here. And then, when we are out in space, we can look back. We will see a vast, white, exploding planet and know that they have died with it.
 DRAHVIN 1: But we will not see them die.
 MAAGA: You will not. But I, at least, have enough intelligence to imagine it. The fear, the horror, the shuddering of a planet in its last moments of life. And then they die. But that is for later. Attention!
- You will rest. You will guard the prisoner. You will go out and look for the Earth creatures. Open the door.
+(Maaga turns to address each of her soldiers in turn.) You will rest. You will guard the prisoner. You will go out and look for the Earth creatures. Open the door.
+(As the others leave the room, Drahvin 1 crosses over to sit next to Steven, where Maaga joins her.)
 DRAHVIN 1: He sleeps.
 MAAGA: But you will not. He must not move.
+(Maaga leaves the room. Unobserved, Steven opens his eyes to assess his armed guard.)
+
+[Central chamber]
+
+(Vicki has been taken back to the Rill central chamber. Nervously, she glances at the window where she saw the watching eyes, but the shutter is now closed. A second machine enters the chamber. One of the Chumblies gently nudges against Vicki.)
 VICKI: Stop doing that! What do you want, anyway?
-CHUMBLEY:  What do you want anyway? What do you want anyway? What do you want anyway? What do you want anyway? What do you want anyway? We are sorry to separate you from your friend, but it was necessary.
+CHUMBLEY: (fast, then slowing down) What do you want anyway? What do you want anyway? What do you want anyway? What do you want anyway? What do you want anyway? We are sorry to separate you from your friend, but it was necessary.
+(The shutter on the window has lifted.)
 VICKI: Who are you?
 CHUMBLEY: Who are you?
 VICKI: We're, er, we're time travellers from the planet Earth.
@@ -623,11 +771,12 @@ VICKI: Who are you?
 CHUMBLEY: We are the Rills.
 VICKI: Why can't I see you?
 CHUMBLEY: It is better that you do not. Not all the dominant species in the universe look like humans. Our appearance might shock you as it shocked the Drahvins.
- 
+(Outside, the Doctor has removed one of the access plates from the air convertor, and he peers inside.) 
 VICKI: The Drahvins said that you attacked them.
 CHUMBLEY: That is short of the truth. We were investigating outer space when we encountered a strange ship. Rills do not attack or kill without good reason, so we stopped our ship. Their ship also stopped. We hung in space facing each other. We could have turned and gone away, but we were afraid that we would be attacked.
 VICKI: Yes. Well, what happened?
 CHUMBLEY: For four dawns we hung there. Then we decided to turn. As we were doing so the Drahvins fired. Immediately we did the same, and both ships crashed. When we escaped from our ship we discovered that we could not breathe the atmosphere here, but we had a small supply of our own, and set out to help the Drahvins.
+(Through some form of mental projection, Vicki is now able to see past events unfold before her eyes.)
 CHUMBLEY: The first one we found was badly injured. We started to help the soldier. Then Maaga, their leader, appeared. She started to shoot at us, so we left. We could have fought back. Our weapons are superior to theirs. But, we do not kill. The Drahvins do. When we looked back, we saw Maaga kill the injured soldier.
 VICKI: But all the Drahvins believe that you did that.
 CHUMBLEY: We know. That is why they keep attacking us.
@@ -640,10 +789,25 @@ CHUMBLEY: No. Our home planet. What is it?
 VICKI: You must let me out quickly, or you'll all be killed!
 CHUMBLEY: Killed? By whom?
 VICKI: By the Doctor. He's trying to wreck your machine for making ammoniac gas.
+(Vicki dashes off towards the main entrance, where the Doctor is still working at sabotaging the air convertor.
+
+[Spaceship].
+
+(Steven meanwhile is still feigning sleep, hoping that his Drahvin guard will eventually go to sleep herself. Cautiously opening his eyes a fraction, he sees that at last she's nodding off in the chair. Taking great care not to make any sound that might wake the guard, Steven sits up very slowly. Gingerly he lowers his feet to the floor, freezing as the material beneath him creaks alarmingly. The Drahvin jerks and mumbles, but does not wake up. Only once he's sure that the guard is still asleep does Steven dare to move again. At last he's sitting directly in front of the Drahvin. He raises his hands, one aimed at her gun, the other at her mouth. Lunging forward, Steven quietly knocks the chair backwards and snatches for the gun. He turns it on the Drahvin, but there's no need. Examining her, he discovers she was knocked unconscious as she fell. All is quiet. Steven straightens and moves quickly to the door controls. Very gently, he depresses the lever. At that moment Maaga appears, gun in hand.)
 MAAGA: He's trying to escape!
+(Steven enters the airlock but finds himself cornered. He raises the gun.)
 STEVEN: Stop!
 MAAGA: You can't escape. Give up and we will not harm you.
 STEVEN: I'd be a fool to believe that, wouldn't I?
+(Steven presses the control and closes the inner door, sealing him off from the Drahvins.)
+
+[Outside the spaceship]
+
+(Opening the outer door, Steven emerges warily from the ship. He's about to set off after the Doctor and Vicki when a familiar sound alerts him to the presence of an approaching Chumbley. The Chumbley blocks his escape route. Cornered, Steven considers his options briefly before ducking back into the airlock, and closing the outer door. Defeated, he turns to find Maaga watching him through the inner door, a cruel smile on her face.)
+
+[Air converter]
+
+(At the Rill ship, the Doctor is poised to destroy the air convertor.)
 VICKI: Doctor, no! Don't do it, Doctor! Doctor!
 DOCTOR: Oh, child.
 VICKI: Oh good. I thought I was going to be too late.
@@ -661,7 +825,9 @@ VICKI: Doctor, if the Rills wanted to harm us, the Chumbley could shoot us now.
 DOCTOR: Well, yes. Indeed. Of course, child. Yes, that's quite true, quite true. Yes, well, lead the way, lead the way. As it happens, I'd like to take a look round. What's this? What's this fellow doing?
 CHUMBLEY: Going to repair the damage you have done.
 DOCTOR: Ah, yes. Quite so.
-.
+
+[Passageway].
+
 DOCTOR: Tell me, what do these Rills look like?
 VICKI: They won't show themselves, Doctor.
 DOCTOR: Oh? Why ever not?
@@ -669,6 +835,10 @@ CHUMBLEY: Because our appearance would not be pleasant to you.
 DOCTOR: Oh, what nonsense. We're not children, you know.
 CHUMBLEY: It is best you do not see us.
 DOCTOR: Oh, very well. Carry on, carry on. Oh, what utter rubbish, isn't it?
+(The Doctor and Vicki are escorted back to the central chamber.)
+
+[Central chamber]
+
 DOCTOR: Oh, yes. This this drill rigging here. Tell me, what is it you drilling for?
 CHUMBLEY: Power. We must have power for launching our spaceship. The suns are too weak to supply this power, therefore, by drilling we may find some in the ground.
 DOCTOR: Very well, if you take my advice, you'll get a move on. There's very little time left.
@@ -698,14 +868,19 @@ VICKI: Steven.
 CHUMBLEY: It detected that he was a friend of yours, but before contact could be made, he went back in again.
 VICKI: He still thinks the Chumblies are dangerous, you see. Doctor, let me go and tell him.
 DOCTOR: That won't be necessary, my dear. He's quite capable enough of looking after himself. Now, the cable, please, the cable.
+
+[Spaceship]
+
 MAAGA: Do you hear me, Earthman?
-STEVEN : Yes, I hear you.
+STEVEN [OC]: Yes, I hear you.
 MAAGA: Throw down your gun, and we will set you free.
+(Defiantly, Steven grips his gun tighter.)
 MAAGA: Very well, but if you try to come through here, you may kill one of us, but we will surely kill you. Yes, outside a Rills' machine waits to kill also.
-STEVEN : All right. I'll stay here. I may be trapped but you can't harm me.
+STEVEN [OC]: All right. I'll stay here. I may be trapped but you can't harm me.
 MAAGA: You are in the airlock. On the wall there are some dials. They are pressure gauges.
 STEVEN: So?
 MAAGA: We can empty the oxygen out of that section and you will suffocate.
+(Steven looks for the button that opens the outer door.)
 MAAGA: If you touch that, the door will open completely, leaving you at the mercy of the machine.
 DRAHVIN 2: Ready?
 MAAGA: Pressure?
@@ -713,8 +888,11 @@ DRAHVIN 2: Normal.
 MAAGA: Temperature?
 DRAHVIN 2: Normal.
 MAAGA: Good. Empty the airlock. Yes, Earthman. The air is already leaving the airlock. You have three choices.
-STEVEN : Three?
+STEVEN [OC]: Three?
 MAAGA: Stay there and die, go outside and be killed by the machine, or surrender.
+
+[Central chamber]
+
 DOCTOR: Yes, good. Good. Yes, I think that's enough. That should be all right. Now then, let me have your arm. That's splendid. Now, follow me to the ship.
 CHUMBLEY: Our thanks.
 VICKI: What does that mean?
@@ -729,6 +907,11 @@ CHUMBLEY: Go quickly! The Chumbley reports that the sounds are weakening.
 DOCTOR: You stay here, child.
 VICKI: No, I'm coming with you!
 DOCTOR: All right. Come, then, come. Come along. And you, stay here until you receive a message. Come on! Quickly! Quickly! Quick!
+(The Doctor and Vicki follow the Chumblies into the passageway and out of the Rill base, making their way as fast as they can back to the Drahvin spaceship.)
+
+[Outside the spaceship]
+
+(Nearing the ship, they encounter a Drahvin soldier on patrol.)
 DRAHVIN 1: Halt or I fire! Do not move.
 DOCTOR: What is wrong?
 DRAHVIN 1: Where are you going?
@@ -737,23 +920,38 @@ DRAHVIN 1: The machines are our enemies. Why do you bring them too?
 DOCTOR: We're going to help you and Maaga and the rest of them to get to the Rill spaceship. We wish to save lives, not to destroy them.
 DRAHVIN 1: Maaga does not trust you. I do not trust you.
 VICKI: Listen, we have captured these machines. They do anything we tell them now. Watch. Come forward. Stop. Go back. Stop.
+(Unconvinced, the Drahvin turns and fires at the Chumbley. Horrified, Vicki wrestles the gun away her.)
 DOCTOR: Now, madam! Listen to me!
 DRAHVIN 1: Kill me now. I have failed my duty.
 DOCTOR: Nonsense. Let us stop this thought of killing anyone. Now, madam, back to your spaceship. Back please.
 VICKI: Go on. Hurry.
-MAAGA : Why do you not give up, Earthman?
+
+[Airlock]
+
+(Inside the airlock, Steven is much the worse for wear.)
+MAAGA [OC]: Why do you not give up, Earthman?
+(Staggering to the wall, Steven attempts to activate the outer door control.)
 STEVEN: I'd rather face the Chumblies than you any day.
-MAAGA : That will not work now. The pressure has locked the door. You must surrender, or die.
+MAAGA [OC]: That will not work now. The pressure has locked the door. You must surrender, or die.
+(Gasping for breath, Steven slumps unconscious to the floor.)
+
 Episode Four - The Exploding Planet
-.
+
+[Spaceship].
+
+(The Doctor, Vicki, and the party of Chumblies are approaching the ship. One of the Chumblies carries a spherical bomb-like object.)
 DRAHVIN 2: He cannot live much longer, Maaga. Soon he will die.
 MAAGA: We do not wish him dead.
 DRAHVIN 2: But he is our enemy.
 MAAGA: Also our hostage.
 DRAHVIN 3: Machine with bomb approaching!
 MAAGA: Quick, take cover!
- 
-CHUMBLEY : Stand clear!
+(The Chumbley projectile crashes through the porthole and begins to discharge a thick cloud of ammonia gas.) 
+CHUMBLEY [OC]: Stand clear!
+(A second Chumbley fires at the airlock door, releasing Steven.)
+
+[Outside the spaceship]
+
 CHUMBLEY: All right, it's safe now.
 VICKI: Steven?
 DOCTOR: Come along, my boy. Up on your feet. Quickly! Come along. Come on, come on. Put your head down. Now breathe deeply. Come along.
@@ -761,18 +959,28 @@ VICKI: They nearly killed him in there. Come on, let's get away from there in ca
 DOCTOR: Steady. Take it easy. You're with friends.
 VICKI: Are you all right?
 DOCTOR: Yes, thanks to the Chumblies. They did the trick. I don't know what those Drahvins were going to think. Come on, keep breathing. Keep breathing. In and out. In and out. Come on.
-.
+
+[Spaceship].
+
 MAAGA: Guns ready. Door. After them, and kill!
+
+[Outside the spaceship]
+
 DOCTOR: Be all right in a minute.
+(The Drahvins run out.)
 CHUMBLEY: Stop! If you move at all, we shall fire. Do not mistake our intention. You will not interfere. Doctor, please lead your party away.
 DOCTOR: I certainly will. Can you walk? Come on, my boy, on your feet. Come along. That way. That way. Come on. Keep breathing hard. In and out.
+(The Doctor. Vicki and Steven leave with a Chumbley escort.)
 CHUMBLEY: Maaga, you will take your soldiers back into the ship, and you will stay there. Until now we have spared you, although you have attacked us time and time again. But we will always defend our friends.
 MAAGA: Friends.
 CHUMBLEY: We will prevent any attempt on your part to leave the ship. I am resolute. Now, go back into your spaceship.
 MAAGA: You have polluted the air with your bomb.
 CHUMBLEY: It will have cleared by now. The ammonia bomb was only a warning. Go inside.
 MAAGA: Come.
-.
+
+[Spaceship].
+
+(The Drahvins return to their ship, closing the airlock. Maaga crosses to the porthole and looks out.)
 MAAGA: It's still there.
 DRAHVIN 2: We cannot escape.
 MAAGA: Quiet!
@@ -788,6 +996,10 @@ DRAHVIN 3: Yes, Maaga.
 MAAGA: It is now dim light. Soon it will be night. The last night this planet will ever know. We must capture the Rill spaceship before then. When I give the order, you will steal silently through the forward hatch. You will then creep round behind the Rills' machine. Understood?
 DRAHVIN 3: Yes, Maaga.
 MAAGA: And you will destroy it.
+
+[Central chamber]
+
+(The Doctor, Vicki and Steven have reached the Rill central chamber.)
 STEVEN: Ugh!
 VICKI: It's that ammoniac gas we were telling you about.
 STEVEN: I'd rather they breathed it than me.
@@ -812,6 +1024,7 @@ VICKI: Can I come with you, Doctor?
 DOCTOR: Yes, child, if you wish. Come along. Hurry, hurry, hurry.
 VICKI: See you later, Steven.
 DOCTOR: Come along.
+(Vicki and the Doctor leave)
 CHUMBLEY: You have not gone with your friends.
 STEVEN: No.
 )Unable to contain his curiosity, Steven wanders around the chamber, examining the unfamiliar equipment.)
@@ -843,13 +1056,24 @@ CHUMBLEY: We must hope they do not succeed.
 STEVEN: Yes, well, there's so little time left, they're going to be desperate. I'll tell you what. Why not let me fix the cable for you at this end?
 CHUMBLEY: Thank you! The machine will help you. It will be quicker.
 STEVEN: It's got to be.
+
+[Spaceship]
+
+(In the Drahvin ship, Drahvin 3 is preparing to attack the Chumbley outside.)
 DRAHVIN 3: I'm ready, Maaga.
 MAAGA: Then go. And do not fail.
 DRAHVIN 3: I shall not.
+(Holding an iron bar, Three leaves the ship through a hatch and drops silently to the ground.)
+
+[Outside the Tardis]
+
 VICKI: It's getting darker, Doctor.
 DOCTOR: Hmm? Oh, it's nothing to worry about, my dear. I think the evenings last here for about four hours.
 VICKI: It's strange. To think that at dawn all this will explode into nothing.
 DOCTOR: No, not just nothing, child. Hydrogen gas that springs itself out like molten silver against the other stars in the same galaxy. Yes, well, let's have the cable, please.
+
+[Spaceship]
+
 MAAGA: She's out of sight.
 DRAHVIN 1: She will die willingly.
 MAAGA: She will not die until she has destroyed the machine.
@@ -857,6 +1081,11 @@ DRAHVIN 2: Will we escape, Maaga?
 MAAGA: Yes, when we have destroyed the machine we will escape.
 DRAHVIN 2: Oh! What is happening?
 MAAGA: It's first warning of the explosion. We have only five hours left. She must act quickly.
+(Undetected, Drahvin 3 creeps up behind the Chumbley. Raising the iron bar, she brings it crashing down with murderous force on the Chumbley's dome.)
+(Completing the work of connecting the cables to the Tardis power unit, the Doctor and Vicki return to the Rill base.)
+
+[Central chamber]
+
 STEVEN: Well, it's all fixed up here, Doctor. Any snags at the Tardis?
 DOCTOR: Everything under control, my dear boy.
 STEVEN: Oh good, good.
@@ -877,6 +1106,9 @@ CHUMBLEY: In the position he has taken up he is in no danger. Continue, Doctor.
 DOCTOR: Thank you, thank you.
 CHUMBLEY: There will be no more incidents.
 STEVEN: They won't go after the Tardis anyway, Doctor. It's this ship they want, and us.
+
+[Outside the spaceship]
+
 MAAGA: You have done well.
 DRAHVIN 3: Thank you, Maaga.
 MAAGA: I will see that you are mentioned. Did you see any other machines?
@@ -886,6 +1118,9 @@ DRAHVIN 3: It will not move again.
 MAAGA: We are going to attack the Rill spaceship. You will follow close behind me. Understood?
 DRAHVINS: Yes, Maaga.
 MAAGA: When we get nearer, I will give you further orders. Come.
+
+[Central chamber]
+
 DOCTOR: Oh, do stop worrying, dear boy, and stand still.
 CHUMBLEY: Stand still.
 STEVEN: Look, Doctor, I know exactly what they intend to do. And as soon as they see this cable, they're going destroy it.
@@ -906,23 +1141,32 @@ CHUMBLEY: Do not worry. We will ensure that you return safely to your ship.
 VICKI: Look, it's a Drahvin.
 STEVEN: They don't waste time, do they?
 DRAHVIN 3: Stand still. You have escaped once. You will not do so again.
-VICKI: Steven. 
+VICKI: Steven. (inaudible)
 STEVEN: And be killed?
 DRAHVIN 3: Death does not frighten me. I die a warrior Drahvin.
+(As Drahvin 3's finger tightens on the trigger, a Chumbley appears in the doorway and fires on her. She falls to the ground.)
 VICKI: Oh, Steven.
 STEVEN: What have you done?
 CHUMBLEY: Do not worry, she is completely paralysed. I told you there would be no further incidents.
 VICKI: Doctor? Where's the Doctor?
 STEVEN: Oh, there he is
-DOCTOR : Hello, I'm in here. Come in. Come in.
+DOCTOR [OC]: Hello, I'm in here. Come in. Come in.
 CHUMBLEY: You may enter. But be prepared for a shock.
 VICKI: Do you think we ought to go in?
-DOCTOR : Come along, come along, come along.
+DOCTOR [OC]: Come along, come along, come along.
+
+[Planet surface]
+
+(Maaga and her soldiers are resting on a ridge above the Rill base.)
 MAAGA: We've driven them off.
 DRAHVIN 1: But we have not destroyed one.
 MAAGA: Don't worry, we will.
 DRAHVIN 2: More machines!
 MAAGA: Again!
+
+[Rill chamber]
+
+(Entering the inner chamber, the Doctor, Vicki and Steven can see the Rills behind the glass partition, enveloped in dense smoky gas.)
 CHUMBLEY: Now you know what we look like.
 DOCTOR: I do. And I, for one, am glad of it.
 CHUMBLEY: We apologise for the glass partition, but you will understand we must keep our atmosphere in here.
@@ -946,14 +1190,24 @@ VICKI: I suppose we won't meet again.
 CHUMBLEY: It is improbable.
 VICKI: Goodbye.
 CHUMBLEY: Goodbye.
+
+[Central chamber]
+
 STEVEN: How much longer, Doctor?
 DOCTOR: One hour.
 STEVEN: And how long till the explosion?
 DOCTOR: One hour and a half.
 STEVEN: Hmm. Well, let's hope no more Drahvins get in here.
+
+[Planet surface]
+
+(The Drahvins take cover from the attacking Chumblies. Maaga throws aside her gun in disgust.)
 MAAGA: Oh, it's no good. Our guns can't harm them.
 DRAHVIN 1: Then we must use bars, as Three did!
 MAAGA: No, we will go that way. Head for the spaceship part of the building. We must concentrate on that.
+
+[Central chamber]
+
 STEVEN: It can't take much longer!
 DOCTOR: Oh, patience, dear boy, patience.
 VICKI: Dawn will be here in half an hour now.
@@ -981,16 +1235,30 @@ CHUMBLEY: Thank you. We shall give you time to get clear before we take off. Now
 DOCTOR: They've started the motors.
 STEVEN: Yes, and we've got less than half an hour, Doctor.
 DOCTOR: Yes, you're quite right. Quickly, quickly, come, come.
+
+[Planet surface]
+
+(As a sudden stillness falls, Drahvin 1 emerges to see what has happened.)
 DRAHVIN 1: Where are the machines?
 DRAHVIN 2: There are none.
 MAAGA: Listen! They're escaping!
+(The Drahvins watch in horror as the Rill ship takes off.)
 STEVEN: There they go!
 DOCTOR: Isn't it amazing? What a wonderful sight! Oh!
 VICKI: Doctor.
 DOCTOR: Yes, yes, of course.
 MAAGA: The Earth people. We can catch them!
+
+[Outside the Tardis]
+
+(The Doctor, Steven and Vicki hurry back towards the Tardis, their Chumbley escort following closely. As the pursuing Drahvins draw nearer, the Chumbley turns and fires at them. The Drahvins fling themselves to the ground.)
 STEVEN: Come on, Doc!
+(Finally reaching the Tardis, the Doctor fumbles to unlock the door then shepherds Steven and Vicki inside. After a moment, Steven reemerges with the end of the cable and tosses it out of the ship.)
 STEVEN: Here they come!
+(As the Drahvins rush towards the ship, the ground starts to tremble, and a low rumble like distant thunder starts to fill the air. Horrified, Maaga watches the Tardis dematerialise, fear etched on her face. And as the sun rises for the last time, the planet begins to break up around her.)
+
+[Tardis]
+
 STEVEN: Can we see the disintegration on the scanner, Doctor?
 DOCTOR: No, I'm afraid not, dear boy. We've dematerialised from that galaxy.
 VICKI: Oh!
@@ -1001,4 +1269,10 @@ VICKI: I've hurt my ankle.
 DOCTOR: Oh, yes, I'm afraid we shall, yes, we'll just have to put a cold compress on that. Oh dear, dear, dear. You know, I wish we could stop somewhere for a while and take stock of ourselves, instead of being surrounded by dangers all the time. Just put that third switch forward, would you? Thank you.
 VICKI: Look at that planet. I wonder what's going on there?
 DOCTOR: Yes. Yes, I wonder.
+
+[Jungle]
+
+(Light years away, on the planet Kembel Jeff Garvey is lying on the jungle floor, barely conscious. Garvey wakes up with a start, sitting up and peering about himself in confusion.)
 GARVEY: I remember now. I must, I must kill. I must kill. I must kill.
+
+

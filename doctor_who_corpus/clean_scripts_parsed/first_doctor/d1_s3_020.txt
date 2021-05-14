@@ -1,13 +1,23 @@
 The Myth Makers
+
+
 Episode One - Temple of Secrets
+[Plain outside Troy]
+
+(On the plain outside the ancient city of Troy, two men are fighting.)
 HECTOR: Achilles!
 ACHILLES: Over here, stable keeper. Barbarian horse worshipper!
 HECTOR: Out of breath so soon, my light-foot princeling? Your friend Petrocolus fled me further, and made better sport!
 ACHILLES: Murderer! Petrocolus was a boy.
 HECTOR: A boy? Well he died like a dog, whimpering after his master Achilles! How! Let me send you to him where he waits in Hades. Let me throw the dog a bone or two!
+(Achilles lunges at Hector, who easily parries the thrust. They circle round each other warily.)
 HECTOR: What? So anxious to be gone? Well, I would not keep you for the world.
 ACHILLES: Your bones would be the meatier, Trojan. Though meat a trifle rough at that. Well, all's one. They will whiten well enough in the sun!
+(Enraged, Achilles attacks again, and Hector counters every blow. Hector seems to be gaining the upper hand when Achilles turns and dodges out of reach, running past and ignoring the blue police box which has no place in the middle of a Trojan plain. Hector follows, calling after him.)
 HECTOR: Run, Achilles! Run! Run a little more, before you die!
+
+[Tardis]
+
 VICKI: What sort of people are they, Doctor?
 DOCTOR: Oh, I'm not sure, my child. You'll notice they're wearing Grecian costumes.
 VICKI: They don't seem to have noticed us.
@@ -19,11 +29,17 @@ VICKI: Doctor, you can't! You know if you go out there by yourself you'll g
 DOCTOR: Now you stay here, my dear, and look after that ankle.
 STEVEN: Wouldn't it be better if I went?
 DOCTOR: Not at all, young man. You stay here and keep an eye on Vicki. Besides, I don't think your present humour is fitting for the occasion. You know, I don't think they'd appreciate your kind of sarcasm.
+
+[Plain outside Troy]
+
 ACHILLES: The gods of my people, Hector, are not lightly mocked. They are terrible! And Troy itself is doomed to fall at their bidding, even as you are. You cannot stand against them.
 HECTOR: You pretend that old Father Zeus will descend to Earth and take Troy for you. I guarantee to trim his beard for him if he dare attempt it!
+(thunder)
 ACHILLES: Beware the voice of Zeus, Hector. Beware the anger of Olympus.
 HECTOR: Oh, I do not fear the thunder, you superstitious, dark-dodging decadent! Hear me, Zeus! Accept from me the promised life of your cringing servant Achilles! Or else, I challenge you. Descend to Earth and save him!
+(Hector lunges at Achilles as the Doctor emerges from the Tardis, and Hector falls to his knees, amazed.)
 HECTOR: Zeus! Forgive me.
+(With Hector distracted, Achilles runs him through with his sword.)
 DOCTOR: Stop! You must not kick a man when he is down. You have killed this poor fellow!
 ACHILLES: Oh, but in your name.
 DOCTOR: In my name, indeed! Get up! Get up, I tell you! This is terrible.
@@ -50,10 +66,18 @@ DOCTOR: Then do not hinder me, or I will strike you with a thunderbolt!
 ACHILLES: I must brave even the wrath of Zeus, and implore you to remain.
 DOCTOR: Well, I don't see why I should. I have many other commitments, you must understand.
 ACHILLES: And one of them lies here, in the camp of Agamemnon, our general. Oh, hear me out, I pray. For ten long years now we have laid siege to Troy and still they defy us. Come.
+
+[Tardis]
+
+(In the Tardis, Vicki and Steven watch on the scanner as Achilles leads the Doctor to the top of a ridge.)
 STEVEN: Where's he off to now? It's a fine time to go looking at the view.
 VICKI: After all, that's why he went out there, to find out where we are. Anyway, that man looks quite friendly now. He's probably showing him the way to the nearest town.
 STEVEN: Hmm, I wonder. I think I'd better try and find some more suitable clothes.
+
+[Plain outside Troy]
+
 ACHILLES: There they sit, secure behind their walls, whilst we rot in their summers and starve in their crack-bone winters.
+(The Doctor and Achilles gaze upon the distant walled city is disturbed by the arrival of Odysseus, King of Ithaca, accompanied by a group of soldiers.)
 ODYSSEUS: What's this, Achilles? So far from camp, all unprotected from a prisoner?
 ACHILLES: Odysseus, this is no prisoner.
 DOCTOR: Certainly not.
@@ -76,9 +100,17 @@ DOCTOR: Oh yes, I find it most interesting.
 ODYSSEUS: What? This old man? This threadbare grey pate? Oh come, Achilles.
 ACHILLES: Oh, forgive him, father Zeus! He is but a rough and simple sailor.
 ODYSSEUS: Aye, very rough, but scarce as simple as you seem to think. What have we here?
+(Odysseus approaches the Tardis to examine it.)
+
+[Tardis]
+
 VICKI: Steven, he's coming in.
+(Steven has changed into Greek robes)
 STEVEN: No, the Doctor'll stop him. I must go out and help.
 VICKI: No. Don't. Just a minute. Here. Take this, and wait behind the door, hmm?
+
+[Plain outside Troy]
+
 ODYSSEUS: The temple of Zeus, you say? A trifle modest, is it not, for so powerful a god.
 DOCTOR: This is my travelling temple. Being small, it's convenient.
 ACHILLES: You shall not enter.
@@ -95,6 +127,10 @@ DOCTOR: Have a care! Do not touch me!
 ACHILLES: You will pay for this, Odysseus.
 ODYSSEUS: Ha, will I? We shall see. This much must we do for the Lord Achilles, lest none believe his story.
 ACHILLES: You will not laugh so loud, I think, when Agamemnon hears of this.
+
+[Tardis]
+
+(From the Tardis, Steven and Vicki watch as the soldiers march out of sight, carrying the Doctor.)
 STEVEN: I am going after him. I'm sure he's been taken prisoner.
 VICKI: Oh, come on. The big man was laughing.
 STEVEN: It didn't look as though the Doctor made a joke.
@@ -109,6 +145,10 @@ STEVEN: No. You stay here. Rest your ankle, watch the scanners. You'll be perfec
 VICKI: But Steven, we mustn't
 STEVEN: No! I haven't got time to argue. I want to get to the Doctor before they cut his head off. Now stay here.
 VICKI: Goodbye. I hope you find the Doctor, that's all.
+
+[Agamemnon's tent]
+
+(The Greek encampment is a short distance from the walls of Troy. Inside the largest tent in the camp, the army's general, Agamemnon, is feasting with his brother, Menelaus.)
 AGAMEMNON: Now you drink too much, Menelaus. I've told you about it before. Why can't you learn to behave like a king instead of a dropsical old camp follower? Have a little dignity. Try to remember that you're my brother, can't you?
 MENELAUS: One of the reasons I drink, Agamemnon, is to forget that I am your brother. Another is this ridiculous Trojan expedition. We've been here for ten years! I want to go home. Besides, I'm not getting any younger.
 AGAMEMNON: You won't get any older if you talk to me like that, brother or no brother. What's the matter with you, man? Don't you want to get Helen back? Don't you don't you want to see your wife again?
@@ -155,8 +195,9 @@ AGAMEMNON: Oh! Where is he now, this little old Zeus?
 ACHILLES: He was about to accompany me here when Odysseus and his men arrived. They took him prisoner.
 AGAMEMNON: They what?
 ACHILLES: Odysseus mocked him then they seized him and are bringing him to camp. I ran ahead to warn you.
-AGAMEMNON: You did well. Perdition take Odysseus. You can't be too careful in matters like this. He may in fact be Zeus. Guard! Go find the Lord Odysseus. Command his presence here. 
+AGAMEMNON: You did well. Perdition take Odysseus. You can't be too careful in matters like this. He may in fact be Zeus. Guard! Go find the Lord Odysseus. Command his presence here. (A while later, Odysseus, having received the command, storms into Agamemnon's tent.)
 ODYSSEUS: Who dares command Odysseus? Well, Agamemnon, is it you? Well, we will not quarrel when we have a guest of such importance. Here's this old man, claims to be our father Zeus.
+(The Doctor is shoved into the tent.)
 DOCTOR: You may rise. I am most displeased. Who is in command here?
 AGAMEMNON: I have that honour.
 DOCTOR: As I have always understood. Yet this mountebank Odysseus appears to be a law unto himself. He makes fun of his guests, and laughs at Zeus.
@@ -191,11 +232,19 @@ DOCTOR: Arrest? But I must return to my TAR, er, my temple.
 AGAMEMNON: A reverent arrest. You must not be offended. We shall enjoy the benefit of your experience and your advice, and in return you will enjoy our hospitality.
 DOCTOR: Very well.
 AGAMEMNON: Excellent. Do sit down and have a ham bone.
+(Resigned to his fate, the Doctor joins Agamemnon and his brother at their table.)
+
+[Greek camp]
+
 Steven has waited until nightfall to approach the Greek encampment. Now, under cover of darkness, he picks his way towards the lights of the camp, dodging past the dozen sentries. But Steven's progress is observed from the shadows by a man with a patch over one eye. The Greek spy, Cyclops. Odysseus meanwhile dismisses the guard outside Agamemnon's tent in the hope of overhearing something of use from within.)
 ODYSSEUS: Get thee to thy rest.
+(Once the guard has gone, Cyclops emerges from the shadows.)
 ODYSSEUS: Ah, my little Cyclops. What news, hmm?
+(Cyclops gestures.)
 ODYSSEUS: The stranger? Ah, the other stranger. Another stranger. From the temple. Temple. In the camp! You think he is my enemy. You have done well. Now, my little chatterbox, go back to the temple, see what happens, hmm?
+(Odysseus spots Steven approaching.)
 ODYSSEUS: Get you gone.
+(Cyclops leaves and Odysseus ducks out of sight. As Steven peers into the tent, the Greek appears out of the shadows behind him.)
 ODYSSEUS: What have we here? Another god, perhaps?
 STEVEN: No, I'm just a traveller. I lost my way and saw the light.
 ODYSSEUS: At least the god Apollo, to walk invisible past sentries.
@@ -207,6 +256,10 @@ STEVEN: What do you mean?
 ODYSSEUS: That, that god who feasts yonder, that Trojan spy.
 STEVEN: I don't know him.
 ODYSSEUS: Do you not? We shall see! Move!
+
+[Agamemnon's tent]
+
+(Odysseus pushes Steven into Agamemnon's tent.)
 AGAMEMNON: Who is this?
 ODYSSEUS: My prisoner, the god Apollo. Achilles, will you not worship him? He is a Trojan spy, but of such undoubted divinity he must be spared.
 AGAMEMNON: Are you a Trojan, fellow?
@@ -229,6 +282,22 @@ MENELAUS: Convincing proof, I would say.
 AGAMEMNON: What sort of miracle would
 DOCTOR: I will strike him with a bolt from heaven!
 ODYSSEUS: Very spectacular!
+(Two guards drag the struggling Cyclops into the tent. AGAMEMNON: Ah, what's this? Who's this?
+ODYSSEUS: Release him.
+AGAMEMNON: All right, Odysseus. Who is this man?
+ODYSSEUS: My Cyclops. My little servant. So.
+AGAMEMNON: Well, can't he speak?
+ODYSSEUS: Alas no more. For once he spoke too loud for comfort, and stammered on a knife. But he speaks to me. Get you gone and wait for me. Thunder at the temple tomorrow, did you say?
+DOCTOR: Yes, I did.
+ODYSSEUS: Our weather is so unpredictable. If there is no thunder on the plain, I have a sword will serve for two as well as one. Your temple, as you call it, has disappeared.
+DOCTOR: Disappeared?
+ODYSSEUS: Vanished into thin air.
+
+Episode Two - Small Prophet, Quick Return
+
+[Plain outside Troy]
+
+(The following morning, the Doctor, Steven, Agamemnon, Odysseus and a company of soldiers travel to the place where the Tardis landed. There is no sign of the ship.)
 AGAMEMNON: Well, father Zeus, where is this temple of yours?
 DOCTOR: Well, it should be about here somewhere. Rather hard to understand, these sandy plains are so much alike.
 AGAMEMNON: Well, something has been here. Look.
@@ -245,6 +314,10 @@ ODYSSEUS: First of all, myrmidons. Who are you?
 DOCTOR: I think you had better tell him.
 STEVEN: Yes, well, this may take some time.
 ODYSSEUS: I will be patient. But this time, if you value your lives, do not lie to me.
+
+[Troy city square]
+
+(In the main square of Troy, a crowd has gathered. A group of soldiers are man-handling the off the cart that brought it into the city.)
 PARIS: Sound the trumpets! Dismiss!
 PRIAM: Silence! Great Horse of Asia, is none of us to rest? Who's there?
 PARIS: Paris, father, returned from patrol.
@@ -254,6 +327,7 @@ PRIAM: Well go back and wait until he gets his courage up. Upon my soul, what so
 PARIS: Ah. A prize, father, captured from the Greeks.
 PRIAM: Hmm, captured, you say? I wager they were glad to see the back of it. What is it?
 PARIS: What is it? Well, it's, ah it's, ah sort of, er, a shrine, or so it seems.
+(King Priam strides up to the Tardis door and tries to open it. Inside, Vicki watches with increasing horror as Priam's face looms on the scanner.)
 PRIAM: And what, may I ask, do you propose to do with this seeming shrine?
 PARIS: Well, I had rather thought of putting it in the temple.
 CASSANDRA: Ha! You're not putting that in my temple.
@@ -289,8 +363,17 @@ PRIAM: Why don't we open the thing and see?
 PARIS: Yes, well, that is rather the point. You see, there is a door, but it doesn't seem to open.
 CASSANDRA: Just as I said, it's locked from the inside.
 PRIAM: Oh, it is, is it? Stand aside.
+(Priam attacks the Tardis door with Paris' sword, but to no effect.)
 PARIS: Well, there you are, father. Perhaps you'll believe me next time, I suppose. Oh, Cassandra, perhaps you would like to care to have a try.
 CASSANDRA: The thing need not be opened. Bring branches, fire and sacrificial oil. We'll make of it an offering to the gods of Troy. And if there be someone within, so much the greater gift.
+
+[Tardis]
+
+(Panicked by what she's heard, Vicki goes to the Tardis wardrobe room to find something suitable to wear. She becomes increasingly agitated as she fails to find anything appropriate.)
+
+[Plain outside Troy]
+
+(Steven meanwhile is trying to explain their presence to Odysseus.)
 STEVEN: So really, you see, we arrived in your time entirely by accident. It's just another miscalculation by the Doctor.
 DOCTOR: Well, I would hardly call it a miscalculation, my boy.
 STEVEN: Well, then, what would you call it?
@@ -309,13 +392,20 @@ DOCTOR: Two days! That isn't very long, is it.
 ODYSSEUS: It should be ample if you are as clever as you say you are.
 STEVEN: What happens if we fail?
 ODYSSEUS: If I fail, then I shall have been foolish. And I would hate to seem foolish having believed your story. Indeed, I should be very, very angry!
+(Odysseus brings his sword down to neatly sever the traveller's bonds.)
+
+[Troy city square]
+
+(In the main square of Troy, branches have been piled around the base of the Tardis. Priam, Paris and Cassandra watch as a priestess pours oil over the wood. Soldiers stand ready with torches.)
 PRIAM: That should make quite a blaze.
 PARIS: Yes. Just one moment. Before we actually light the fire, shouldn't we see if such a gift would be acceptable to the gods? I mean, if it does contain treachery, might it not seem the most awful insult?
 PRIAM: Oh, good point, I suppose. Have a word with them, Cassandra.
 CASSANDRA: I assure you it's quite unnecessary.
 PARIS: Yes, but better to be on the safe side. Don't you think?
 CASSANDRA: Oh, hear me, you horses of the heavens, who gallop with our destiny. If you would accept this gift, let us see a sign. Show us your will, I pray you, for we are merely mortal and need your guidance.
+(At that moment, Vicki steps down from the Tardis, dressed in an elegant gown.)
 PARIS: Well!
+(She smiles disarmingly)
 PARIS: This is no horse of heaven.
 PRIAM: And this is no soldier either.
 CASSANDRA: Who are you?
@@ -365,6 +455,10 @@ PRIAM: Come, Cressida. You and I have a great deal to say to each other. I have 
 CASSANDRA: She will bring nothing but doom, death and disaster.
 PRIAM: Don't pay any attention to Cassandra. She takes the gloomiest view. I suspect it's a kind of insurance, so that if things do go wrong she can always say 'I told you so.' Come along.
 CASSANDRA: Hear me, gods of Troy. Strike with your lightnings this usurper. Or show me a sign that she is false, and then I'll strike her down myself!
+
+[Greek tent]
+
+(In a tent in the Greek camp, Steven and the Doctor are discussing plans for the capture of Troy.)
 STEVEN: Why not the wooden horse?
 DOCTOR: Oh, my dear boy, I couldn't possibly suggest that. The whole story is obviously absurd. Probably invented by Homer as some good dramatic device. No, I think it would be completely impractical.
 STEVEN: Yes, well, if you say so, Doctor. But in that case, hurry up and think of something else. The only way we can rescue Vicki is to get into Troy. We've only got two days left.
@@ -410,7 +504,11 @@ DOCTOR: I sincerely hope not. Have you thought of tunnelling?
 ODYSSEUS: It's been done. What we want is something revolutionary.
 DOCTOR: Ah, yes. Dear me, sear me. Well, tell me, have you thought about flying machines?
 ODYSSEUS: No, I can't say I have.
-PARIS: Achilles!  Achilles! Come out and fight, you jackal! Paris, prince of Troy, brother of Hector, seeks revenge. Do you not dare to face me?
+
+[Plain outside Troy]
+
+(Outside Troy, Paris is seeking Achilles.)
+PARIS: Achilles! (quietly) Achilles! Come out and fight, you jackal! Paris, prince of Troy, brother of Hector, seeks revenge. Do you not dare to face me?
 STEVEN: I dare to face you, Paris. Turn and draw your sword.
 PARIS: Ah. No, you're not Achilles. Are you?
 STEVEN: I am Diomede, friend of Odysseus.
@@ -421,6 +519,7 @@ STEVEN: I'm Greek, you're Trojan. Is not that quarrel enough?
 PARIS: Yes, well personally, I think this whole business has been carried just a little bit too far. I mean, that Helen thing was just a misunderstanding.
 STEVEN: Which I now propose to resolve. Draw your sword.
 PARIS: Oh, right. Well, you'll be sorry for this, I promise you.
+(Steven and Paris fight with surprising skill, circling round each other and trading blows. Steven keeps his guard up, then pretends to trip and falls to one knee.)
 PARIS: Now, die, Greek, and tell them in Hades that Paris sent you thither!
 STEVEN: I yield.
 PARIS: I beg your pardon?
@@ -435,7 +534,11 @@ PARIS: Really? They don't say that in Troy.
 STEVEN: Oh, I could tell them a tale or two of your valour that that would make even King Priam blanch to hear.
 PARIS: I say, could you really?
 STEVEN: Yes, and will. Why, I hope my Lord Achilles does not meet you. Even now he searches the plain for you, and what indeed would happen to our cause if he were vanquished?
-PARIS: Well, I don't really see how I can oblige him if I have a prisoner. I mean, there will come a day of reckoning, of course, but, well, for the moment, pick up your sword! Now, I suppose I shall have to drive you like a Grecian cur into the city, won't I? Excuse me a moment. Farewell, Achilles! For today, Paris of Troy has other business! Come, dog!  Oh, yes.
+PARIS: Well, I don't really see how I can oblige him if I have a prisoner. I mean, there will come a day of reckoning, of course, but, well, for the moment, pick up your sword! Now, I suppose I shall have to drive you like a Grecian cur into the city, won't I? Excuse me a moment. Farewell, Achilles! For today, Paris of Troy has other business! Come, dog! (Paris retrieves his sword and they depart for Troy) Oh, yes.
+
+[Priam's palace]
+
+(Vicki, meanwhile, is dining with King Priam.)
 VICKI: Oh, thank you, that was delicious.
 PRIAM: You're sure you wouldn't like a little more breast of peacock?
 VICKI: No, thank you. I couldn't eat another mouthful. How on earth do you manage to live like this when you're under siege?
@@ -480,7 +583,12 @@ VICKI: Steven! What on earth are you?
 STEVEN: Shh, Vicki.
 PRIAM: What was that he called her?
 CASSANDRA: You heard, didn't you? That was the name she called herself when we found her. And she recognised him too. Since he's a Greek, what more proof do you need that she's a spy? Guards! Kill her. Kill both of them!
+(Vicki runs to Steven's arms as the guards draw their swords and advance.)
+
 Episode Three - Death of a Spy
+
+[Priam's palace]
+
 VICKI: No! No!
 PARIS: Guards, sheath arms! And since when have you given orders to the military? I'm in command here!
 CASSANDRA: Of everything except your senses.
@@ -522,8 +630,13 @@ STEVEN: How long do you intend to keep us there?
 CASSANDRA: Till you rot.
 PRIAM: Oh, well really, Cassandra. Though that may be true in your case, Diomede, but I trust Cressida will join us before tomorrow evening.
 PARIS: Oh, yes, yes, right. Guards, take them away.
+
+[Greek tent]
+
+(The Doctor is hard at work at a make-shift desk in the Greek camp when Odysseus comes looking for him.)
 ODYSSEUS: Well, Doctor, you have one day left. What progress are you making?
 DOCTOR: Considerable. Here. Now, you just take that for a moment. Now, pay attention please.
+(With the air of a magician, the Doctor folds a piece of parchment into a paper aeroplane)
 ODYSSEUS: What is it?
 DOCTOR: Well, what does it look like? A flying machine.
 ODYSSEUS: Looks like a parchment dart to me. My boy makes these to annoy his tutors.
@@ -553,6 +666,9 @@ DOCTOR: Well, anyone could do it, for that matter. I mean, even a child could op
 ODYSSEUS: I'm very glad to hear you say that, Doctor, because I intend to build this flying machine.
 DOCTOR: Excellent, excellent!
 ODYSSEUS: And you shall have the honour of being the first man to fly!
+
+[Trojan dungeon]
+
 VICKI: If you hadn't called me Vicki, we wouldn't be here now.
 STEVEN: Look, you called me by my name first.
 VICKI: Only because I was surprised to see you. I can't think why you disguised yourself as a Greek, anyway.
@@ -581,7 +697,7 @@ VICKI: What?
 STEVEN: The servant of Odysseus. Look, Cyclops, can you understand me? Tell them. Tell them that I've found our other friend. Yes? That they mustn't attack Troy. That's it, the city. They mustn't attack Troy until the day after tomorrow. Otherwise, we'll both be killed, this girl and I. You understand?
 VICKI: Glad he thinks that's funny.
 STEVEN: Look. Tell, tell the old man.
-TROILUS : Cressida, what's going on?
+TROILUS [OC]: Cressida, what's going on?
 VICKI: Oh, Troilus!
 TROILUS: What were you doing?
 VICKI: Ah, nothing. Just watching Diomede examining those things in there.
@@ -596,8 +712,13 @@ VICKI: Why not?
 TROILUS: I'm on duty.
 VICKI: Well, can't you even
 TROILUS: I'm sorry, Cressida, but I must obey orders.
+(Vicki sits down sullenly and begins eating.)
 VICKI: Mmm. This is very good. Would you like some? Go on. Try some.
 TROILUS: Well, actually, I have already eaten.
+
+[Greek tent]
+
+(Back in his tent, Odysseus watches as the Doctor paces back and forth.)
 ODYSSEUS: Will you keep still?
 DOCTOR: I'm thinking.
 ODYSSEUS: Well, think sitting down. Now you said your plans were ready. I've got half a company of men standing by to make this machine of yours.
@@ -621,6 +742,9 @@ DOCTOR: We build it hollow, and we fill it with soldiers and leave it on the san
 ODYSSEUS: And it's just possible that the Trojans will come out and take the horse back into the city.
 DOCTOR: And the Greeks pretend to sail away.
 ODYSSEUS: Yes. Yes, that's quite an idea, Doctor.
+
+[Trojan dungeon]
+
 TROILUS: No, of course not. I It was just that Cassandra went on so about your being a witch!
 VICKI: And you thought I might put a spell on you?
 TROILUS: Well, no. Of course not. I'd like to see you try it. You're not a witch, are you?
@@ -631,6 +755,10 @@ TROILUS: I'm seventeen next birthday!
 VICKI: That's hardly any older than me. You shouldn't be killing people at your age.
 TROILUS: Well, between you and me, I don't honestly enjoy killing at all. But I love adventure.
 VICKI: Yes. I know what you mean.
+
+[Agamemnon's tent]
+
+(Odysseus and the Doctor visit Agamemnon with their plan to seize Troy.)
 AGAMEMNON: Well? What is this idea of yours?
 DOCTOR: Well, it's all perfectly simple.
 ODYSSEUS: Nonsense! Show them the plans, Doctor. It's quite revolutionary. There, what do you make of that?
@@ -667,6 +795,9 @@ DOCTOR: Oh, well, that is a calculated risk. But somehow I don't believe they'll
 MENELAUS: Yes, but once they have the horse inside, won't they close the gates?
 ODYSSEUS: Of course they will. But during the night, we shall leave the horse, open up the gates to let you all in again. What more do you want?
 MENELAUS: A drink.
+
+[Trojan dungeon]
+
 VICKI: There, I've finished. That was lovely.
 TROILUS: Then I'd better go. I've stayed here far too long as it is already.
 VICKI: Oh. But aren't you going to take some food to Diomede?
@@ -695,6 +826,7 @@ VICKI: I don't see why. At least I've done something towards getting us out of h
 STEVEN: And what chance have I had?
 VICKI: Anyway, I though he was rather nice.
 STEVEN: Oh, you made that painfully obvious. And I think you might at least have had the decency to have saved me some food.
+(Vicki takes some food from her pocket and hands it over.)
 STEVEN: Oh, thanks.
 VICKI: The guards are sending you some scraps later. Troilus said so.
 STEVEN: Hmm. Troilus.
@@ -704,10 +836,19 @@ VICKI: But you said you'd sent a message to the Doctor.
 STEVEN: Yeah, well, I think I have. It's hard to tell with the Cyclops. In any case, your new boyfriend came in before I'd finished telling him everything.
 VICKI: Well, let's hope he did understand.
 STEVEN: Yeah, and let's hope he got out of Troy safely. Otherwise we're in trouble.
+
+[Outside Troy]
+
+(Outside the city, Paris and his soldiers see Cyclops trying to leave.)
 GUARD: Halt! Halt or I shoot!
 PARIS: Identify yourself. Speak!
+(Cyclops cannot answer)
 PARIS: Who are you?
+(One of the soldiers throws his spear and Cyclops falls to the ground.)
 PARIS: Oh, confound you. Why did you have to do that? The poor little fellow probably never meant any harm. Well, now we shall never know who he was.
+
+[Plain outside Troy]
+
 ODYSSEUS: Well, Doctor, that's a warhorse and a half for you. That's something like a secret weapon. Better than half a dozen of your crack-brained flying machines.
 DOCTOR: Yes, I only wish I shared your confidence.
 ODYSSEUS: Oh, what's the matter with you? Have you no faith in your own invention?
@@ -717,13 +858,29 @@ DOCTOR: Ah, suppose it collapses whilst we're all in it?
 ODYSSEUS: Then we shall all look very foolish indeed.
 DOCTOR: Yes, and I've no wish to be made a laughing stock.
 ODYSSEUS: Not another word, Doctor. To coin a phrase, you are coming for a ride.
+
+[Trojan dungeon]
+
+(In the cells, a guard brings a plate of scraps for Steven. As the guard turns to leave, Steven jumps him and knocks him to the ground. At the door, Steven finds himself facing four spears. Helplessly he watches as the fallen man gets up and leaves the cells, slamming the door behind him.)
 VICKI: I told you strong-arm tactics wouldn't work.
+
+[Inside the Wooden Horse]
+
+(The Wooden Horse is now on the plain, with the Doctor, Odysseus and a number of Ithacan soldiers inside. The Doctor sits by the open hatch, peering out into the darkness.)
 DOCTOR: Odysseus. Come here, quickly.
 ODYSSEUS: What is it now, Doctor? Upon my soul, you're making me as nervous as a Bacchante at her first orgy. Why don't you try and get some sleep?
 DOCTOR: I've never felt less like sleep in my life. I thought I saw some movement down there.
 ODYSSEUS: I hope you did. That's the whole point of the operation, is it not? Pretty lot of fools we'd look if we come here and nobody takes a damned bit of notice of us.
 DOCTOR: I think I ought to warn you that I've given second thoughts to the whole of this scheme, and I think it better we turn round and go back before it's too late. Get out of my way.
 ODYSSEUS: Now look, Doctor, will you be still? I suggest, Doctor, that if you cannot sleep, you start counting Trojans. Here they come now.
+
+[Plain outside Troy]
+
+(Across the plain, a column of Trojan soldiers carrying torches advances towards the Wooden Horse.
+
+[Trojan dungeon]
+
+(The following morning, Troilus rushes to wake Vicki in the cells.)
 TROILUS: Cressida! Cressida, wake up. You must come quickly.
 VICKI: What's the matter?
 TROILUS: The Greeks have gone.
@@ -743,11 +900,20 @@ VICKI: Diomede.
 TROILUS: Yes. What about Diomede? Do you think that you can fight the whole of Troy on your own?
 STEVEN: I don't want to fight anybody.
 TROILUS: Well, that's just as well. You're the last of the Greeks now. Your friends have all sailed home without you. Well, come on.
+(Troilus leads Vicki from the cells, leaving Steven alone.)
+
+[Inside the Wooden Horse]
+
 ODYSSEUS: Absolute silence, everyone.
 DOCTOR: Well, but I, I
 ODYSSEUS: That includes you, Doctor.
 DOCTOR: Oh.
+(The Horse jolts violently as the Trojans begin to haul it towards the city.)
 ODYSSEUS: Well, this time Troy will be destroyed.
+
+[Priam's palace]
+
+(Troilus escorts Vicki to see King Priam.)
 PRIAM: Come on in, Cressida. Come in, both of you. Has Troilus told you the news?
 VICKI: Yes, it's marvellous, isn't it? I'm so pleased.
 PRIAM: Pleased? I should just say you are. You did it.
@@ -766,14 +932,18 @@ PRIAM: Whereabouts in the middle of the plain?
 PARIS: Near the Grecian line. Look. You can just see it from here.
 PRIAM: Great heavens, I do believe you're right. It is the Great Horse of Asia.
 CASSANDRA: It's an omen. An omen of disaster.
-VICKI:  It is the Trojan Horse. But I thought you
+VICKI: (sotto) It is the Trojan Horse. But I thought you
 TROILUS: What was that?
 CASSANDRA: Yes, ask her! Go on, ask her! She knows what it is. It's our doom! It's the death of Troy, brought upon us by that cursed witch!
 PARIS: Now understand me, Cassandra. I will not have one word said against that horse.
 TROILUS: And neither will I against Cressida.
 CASSANDRA: Will you not? Then woe to the House of Priam. Woe to the Trojans.
 PARIS: I'm afraid you're a bit late to say 'whoa' to the horse. I've just given instructions to have it brought into the city.
+
 Episode Four - Horse of Destruction
+
+[Priam's palace]
+
 CASSANDRA: Of all the idiocy, to have it brought into the city.
 PARIS: Why? That horse is in the image of one of our gods.
 CASSANDRA: It's a trick. My dreams have always been right and they foretell disaster.
@@ -790,17 +960,31 @@ KATARINA: But, great priestess, the auguries said that
 CASSANDRA: Do you dare to question me?
 KATARINA: No.
 CASSANDRA: Very well, then. Go and watch for that girl.
+
+[Dungeons]
+
+(Vicki has made her way to the cells to release Steven.)
 STEVEN: What's going on up there?
 VICKI: They're just bringing the horse into the city. Follow me.
+
+[Inside the Wooden Horse]
+
 DOCTOR: I'm still very worried about those fetlocks.
 ODYSSEUS: Be happy that's all you have to worry about. Of all the undignified ways of entering a city this takes the fried phoenix.
 DOCTOR: If only you would have allowed me another day to fit shock absorbers. Oh, I say! Oh!
 ODYSSEUS: Zeus be praised. We've arrived.
 DOCTOR: Oh! Well now, what is it you propose to do?
 ODYSSEUS: We wait, Doctor, without movement and in absolute silence.
+
+[Palace Balcony]
+
 PARIS: There, father, the horse is safely installed. And you may notice, my sister, that nothing disastrous, has occurred.
 CASSANDRA: Wait and see. There's time yet and mark my words that horse will be the doom of Troy.
 PRIAM: It's a little more rough hewn than I had expected. Well, since it's here we'd better take a closer look.
+
+[Troy city square]
+
+(In the square, Vicki and Steven are moving through the crowds towards the horse.)
 STEVEN: That's some horse.
 VICKI: If you can call it that.
 STEVEN: The Doctor said.
@@ -817,6 +1001,7 @@ STEVEN: All right, you do better in the time they had. Now I wonder why he didn'
 VICKI: He must have a plan of escape to rescue us. Cyclops must have told him where we were.
 STEVEN: If Cyclops got through.
 VICKI: Look out.
+(Vicki has spotted Katarina moving through the crowds.)
 VICKI: That is one of Cassandra's girls.
 STEVEN: What?
 VICKI: That girl. I've seen her with Cassandra. She's a handmaid at the Temple or something.
@@ -829,6 +1014,7 @@ VICKI: Troilus has been very kind to me and I'm very fond of him and if all you 
 STEVEN: I'm sorry, I'm sorry. I am sorry. Okay, but look. If you really are that fond of him you'd better tell him to get out of the city.
 VICKI: Why? You mean when they come out of that thing they. Steven!
 STEVEN: It's possible, isn't it? Tell him to get out of Troy, just to be on the safe side.
+(Elsewhere in the square, Priam, Paris and Cassandra are making their way through the crowds towards the horse when Troilus runs up to them.)
 TROILUS: Diomede. He's gone.
 PARIS: He's gone?
 TROILUS: His cell is empty. The guards were locked in by a trick, so they say.
@@ -850,9 +1036,13 @@ CASSANDRA: My handmaiden Katarina will stay with her.
 PRIAM: Very well. Come, my children, our people have gone to the square of oratory, we must go and join them there and I must speak. And we must also make plans for the celebration. Thank you, my dear. See you later.
 VICKI: Thank you. Thank you for being so kind to me.
 PRIAM: My dear child, this city owes it's salvation to you.
+(Priam and the others leave Vicki alone with Katarina.)
 VICKI: Oh, no. Let it not happen.
 KATARINA: Did you want something?
 VICKI: No, thank you.
+
+[Inside the Wooden Horse]
+
 DOCTOR: How you can sit there so peacefully defeats me. Have you no feelings, no emotions?
 ODYSSEUS: I was thinking, Doctor, that with any luck either Agamemnon or Achilles will not come through.
 DOCTOR: You mean they'll desert us?
@@ -869,7 +1059,12 @@ DOCTOR: You had no right to bring me here at all. I'm utterly useless to you. Yo
 ODYSSEUS: Be quiet, old man.
 DOCTOR: I will not be quiet. You may stay here if you wish to have your insignificant win, your victory or whatever you call it, but you must let me out of here.
 ODYSSEUS: One more word out of you and I shall kill you! You would be my first victim in Troy.
+(The Doctor moves away from the hatch)
 ODYSSEUS: That's better. About now our ships should be returning, as you planned.
+
+[Priam's palace]
+
+(Inside the palace, Troilus visits Vicki.)
 TROILUS: Cressida.
 VICKI: Oh, I'm so glad you've come.
 TROILUS: I had to see you.
@@ -893,8 +1088,17 @@ VICKI: Of course I did. I wouldn't ask you to do it otherwise.
 TROILUS: Oh, Cressida.
 VICKI: You haven't got time. You've got to go now.
 TROILUS: Don't worry. Everything's going to be all right.
+
+[Troy city square]
+
+(Night has fallen and the city of Troy is quiet. In the main square, a rope descends from the belly of the immense wooden horse. One by one, the Greek soldiers drop to the ground. Eventually the Doctor climbs awkwardly down the rope, followed by Odysseus.)
 ODYSSEUS: This plan of yours, Doctor, is going to be a great success. Stay close to me.
+
+[Outside Troy]
+
+(Outside the city walls, Troilus is searching for Steven.)
 TROILUS: Diomede!
+(A figure emerges from behind some nearby rocks)
 TROILUS: Diomede, where are you!
 ACHILLES: What ails you, petty princeling? Lost some plaything? The one you call for is long dead.
 TROILUS: You're a Greek. I thought you'd sailed away. Who are you?
@@ -903,12 +1107,28 @@ TROILUS: My brother's murderer.
 ACHILLES: So, Prince Troilus, is it? Well, I killed your brother fairly. Fought him man to man. Alas, I cannot do the same for you. This will be the murder of a boy.
 TROILUS: Has Cressida played me false? Very well. I'll fight my brother's murderer for I only live to kill Diomede.
 ACHILLES: Who is already dead. So follow him, Trojan!
+(Troilus and Achilles circle each other, battling furiously. The Greek is surprised by Troilus' skill with a sword. He's beginning to tire when he slips on the rocky ground and falls. Troilus is quick to move in for the kill.)
 TROILUS: So died my brother. The wheel has spun full circle.
+(But as Troilus strikes the death blow, Achilles brings up his own sword and stabs at Troilus. Troilus collapses from his wound.)
 TROILUS: Diomede, I lived to call down wrath for love of Cressida.
+
+[Troy city square]
+
+(Two Greek soldiers struggle to unbolt the main gates that seal the city of Troy. As the gates open, hoards of Greek troops surge through the ever-widening gap.)
+
+[Priam's palace]
+
+(In the palace, Priam listens to the carnage outside with growing alarm.)
 PRIAM: What noise was that? What are you doing?
 PARIS: It's the Greeks! They were inside the horse and our gates are open to the enemy.
 CASSANDRA: And none of you would listen to me!
+(Odysseus bursts into the room.)
 ODYSSEUS: Three hornets in their nest. Kill them!
+(The soldiers run after Priam and his children.
+
+[Outside the Tardis]
+
+(The Doctor has made his way to the Tardis)
 VICKI: Doctor! Oh, Doctor!
 DOCTOR: Oh, my dear child! Oh, how lovely to see you. Where have you been all this time? And where's Steven?
 VICKI: Doctor, he's over there, but I've got to talk to you.
@@ -923,11 +1143,19 @@ DOCTOR: Listen, my dear child, the boy, the boy.
 VICKI: Open the door and listen to me, please.
 DOCTOR: Oh, yes, but just be patient will you.
 VICKI: Steven is safe. Katarina will bring him. Come on, I've got to talk to you.
+
+[Troy city square]
+
 KATARINA: Diomede, Cressida has sent me.
 STEVEN: Who are you?
 KATARINA: I've come to take you to your temple. Oh, come, quickly.
 STEVEN: I can't.
 KATARINA: Lean on me.
+(Katarina helps the weakened Steven back towards the Tardis.)
+
+[Priam's palace]
+
+(Inside the palace, Priam and Paris lie dead. Odysseus has Cassandra by the shoulders and shakes her violently.)
 ODYSSEUS: Stop struggling, woman. You are reserved for Agamemnon and he's welcome to you.
 CASSANDRA: Tricksters! You Greeks will never learn to fight honestly!
 ODYSSEUS: But we win!
@@ -936,15 +1164,25 @@ ODYSSEUS: Take her away. The high-born are reserved for Agamemnon. I can't wait 
 CASSANDRA: Ten long years we fought you, Odysseus, and ten long years it'll be before you see your home again.
 ODYSSEUS: To Agamemnon with her. To his ship. A personal present from me.
 CASSANDRA: Take your hands off me! Take your hands off me!
+
+[Outside the Tardis]
+
+(The Doctor helps Katarina get Steven to the Tardis.)
 DOCTOR: You're sure it's just the shoulder? Right. Well, steady, steady. Hold tight. Hold on. Yes, careful. Just a minute. Careful, careful, Vicki. Oh, dear, dear. This business. There we are. Now, come on bring him in. Bring him in there. Gently and carefully. That's it. That's it. Put him on the couch.
 ODYSSEUS: Stand still, old man, or you die. I claim your machine as part of my share.
 DOCTOR: Share of what?
 ODYSSEUS: The spoils of war!
 DOCTOR: Now you stand back. I've gone far enough with you, my Lord Odysseus. You go adventuring on your own. Be off with you.
 ODYSSEUS: Seize it! Come on, move! Quickly! A cart!
+(The Tardis dematerialises)
 ODYSSEUS: Doctor!
+(Odysseus and his soldiers watch in awe as the Tardis dematerialises.)
 ODYSSEUS: Zeus! I wonder, were you really Zeus after all?
+
+[Outside Troy]
+
 TROILUS: Cressida, Cressida, could you have betrayed us? Cressida!
+(The distraught Troilus watches from the plain as the city burns.)
 VICKI: I came to find you.
 TROILUS: Cressida, what are you doing here? Where's Diomede?
 VICKI: He's gone with another friend that you never met.
@@ -972,6 +1210,10 @@ TROILUS: What?
 VICKI: He'll help us.
 TROILUS: But, there's, there's nothing left.
 VICKI: Yes, there is. There's us. We can start again. With your cousin's help we can, we can build another Troy.
+
+[Tardis]
+
+(Inside the Tardis, Steven's condition worsening. The Doctor mops his brow as Katarina stands by, watching helplessly.)
 DOCTOR: That's not good. That's not good at all. We must get help.
 KATARINA: What help is there in limbo?
 DOCTOR: What's that, my dear?
@@ -1005,3 +1247,4 @@ KATARINA: Yes, great god.
 DOCTOR: His name is Steven. And remember Katarina, you must call me Doctor.
 KATARINA: Oh, as you wish Doc.
 DOCTOR: I'm not a Doc. I am not a god. Oh, my dear Vicki, I hope you'll be all right. I shall miss you child. Oh, yes, now. Those drugs, those drugs. What am I going to do? I must stop somewhere. But, how? I've got to! Yes! I must! I must!
+

@@ -1,7 +1,17 @@
-Episode one - An Unearthly Child
+An Unearthly Child
+
+
+(A foggy night, and a policeman is patrolling his beat past I M Foreman's Scrap Merchants at 76 Totter's Lane. Inside is an assortment of items, including a police telephone box.)
+[Coal Hill School corridor]
+
+(The bell is ringing for end of classes.)
 GIRL: Night, Miss Wright.
 BARBARA: Wait in here, please, Susan. I won't be long.
 BOY: Goodnight, Miss Wright.
+
+[Laboratory]
+
+(A man is tidying up after the class)
 IAN: Oh? Not gone yet?
 BARBARA: Obviously not.
 IAN: Right, ask a silly question.
@@ -45,6 +55,10 @@ BARBARA: No, I thought we could drive there, wait till she arrives and see where
 IAN: Oh, all right.
 BARBARA: That is, if you're not doing anything.
 IAN: No, I'm not. After you.
+
+[Classroom]
+
+(Susan is listening to guitar rock music on her transistor radio. I'm thinking The Shadows. She looks a little elfin, like Audrey Hepburn)
 BARBARA: Susan?
 SUSAN: Oh, I'm sorry, Miss Wright. I didn't hear you coming in. Aren't they fabulous?
 BARBARA: Who?
@@ -53,6 +67,7 @@ IAN: John Smith is the stage name of the Honourable Aubrey Waites. He started hi
 SUSAN: You are surprising, Mister Chesterton. I wouldn't expect you to know things like that.
 IAN: I have an enquiring mind. And a very sensitive ear.
 SUSAN: Oh, I'm sorry.
+(She turns the radio off.)
 IAN: Thank you.
 SUSAN: Is that the book you promised me?
 BARBARA: Yes.
@@ -67,7 +82,12 @@ BARBARA: See you in the morning.
 SUSAN: I expect so. Good night.
 BARBARA: Good night.
 IAN: Good night, Susan.
+(They leave. Susan sits on a desk and starts reading.)
 SUSAN: But that's not right.
+
+[Totter's Lane]
+
+(Ian and Barbara are parked up.)
 BARBARA: Over there.
 IAN: We're lucky there was no fog. I'd never have found this.
 BARBARA: Well, she doesn't seem to have arrived yet. I suppose we are doing the right thing, aren't we?
@@ -80,36 +100,62 @@ BARBARA: Well, I don't know how you explain the fact that a fifteen year old gir
 IAN: Really?
 BARBARA: Really. She said she thought we were on the decimal system.
 IAN: Decimal system?
+
+[Memory - classroom]
+
+(The other pupils are laughing.)
 SUSAN: I'm sorry, Miss Wright.
 BARBARA: Don't be silly, Susan. The United States has a decimal system. You know perfectly well that we do not.
 SUSAN: Of course, the decimal system hasn't started yet.
+
+[Totter's Lane]
+
 IAN: I suppose she couldn't be a foreigner? No, doesn't make sense. Nothing about this girl makes sense. For instance, the other day I talking about chemical changes. I'd given out the litmus paper to show cause and effect
 BARBARA: And she knew the answer before you'd started.
 IAN: Well, not quite. The answer simply didn't interest her.
+
+[Memory - laboratory]
+
 SUSAN: Yes, I can see red turns to blue, Mister Chesterton, but that's because we're dealing with two inactive chemicals. They only act in relation to each other.
 IAN: But that's the whole point of the experiment, Susan.
 SUSAN: Yes, it's a bit obvious, isn't it? Well, I'm not trying to be rude, but couldn't we deal with two active chemicals? Then red could turn blue all by itself and get on with something else? I'm sorry, it was just an idea.
+
+[Totter's Lane]
+
 IAN: She means it. These simple experiments are child's play to her.
 BARBARA: You know, it's almost got to the point where I deliberately want to trip her up.
 IAN: Yes. Something like that happened the other day. I'd set the class a problem with A, B and C as the three dimensions.
+
+[Memory - classroom]
+
 SUSAN: It's impossible unless you use D and E.
 IAN: D and E? Whatever for? Do the problem that's set, Susan.
 SUSAN: I can't, Mister Chesterton. You can't simply work on three of the dimensions.
 IAN: Three of them? Oh, time being the fourth dimension, I suppose? Then what do you need E for? What do you make the fifth dimension?
 SUSAN: Space.
+
+[Totter's Lane]
+
 BARBARA: Too many questions and not enough answers.
 IAN: Stupid? Or just doesn't know. So we have a fifteen year old girl who is absolutely brilliant at some things, and excruciatingly bad at others.
 BARBARA: There she is.
+(Susan looks around then goes into the scrap yard.)
 BARBARA: Look, can we go in now? I hate to think of her alone in that place.
 IAN: If she is alone. Look, she is fifteen. She might be meeting a boy. Didn't that occur to you?
 BARBARA: I almost hope she is.
 IAN: What do you mean?
 BARBARA: Well, it would be so wonderfully normal. It's silly, isn't it? I feel frightened. As if we're about to interfere in something that is best left alone.
 IAN: Come on, let's get it over with.
+(They get out of the car.)
 BARBARA: Well, don't you feel it?
 IAN: I take things as they come. Come on.
+
+[Junk yard]
+
+(Ian has a small torch in his hand. There is no sign of Susan.)
 IAN: What a mess. We're not turning over any of this stuff to find her..
 BARBARA: Over there?
+(Ian falls over a bucket or something.)
 IAN: Blast. I've dropped it.
 BARBARA: What?
 IAN: The torch.
@@ -118,17 +164,22 @@ IAN: I haven't got any. Oh, never mind.
 BARBARA: Susan?
 IAN: Susan? Susan? Susan! Susan. Mister Chesterton and Miss Wright. She can't have got out without us seeing her.
 BARBARA: Ian, look at this.
+(She's found the police telephone box.)
 IAN: It's a police box! What on earth's it doing here? These things are usually on the street. Feel it. Feel it. Do you feel it?
 BARBARA: It's a faint vibration.
 IAN: It's alive!
+(He walks around it.)
 IAN: It's not connected to anything, unless it's through the floor.
 BARBARA: Look, I've had enough. Let's go and find a policeman.
 IAN: Yes, all right.
+(Someone coughs.)
 BARBARA: Is that her?
 IAN: That's not her. Quick.
-SUSAN: There you are, Grandfather.
+(They hide as an old man in Astrakhan hat and a long scarf enters the yard. He goes to the police box and puts a key in the lock.)
+SUSAN [OC]: There you are, Grandfather.
 BARBARA: It's Susan.
 IAN: Shush!
+(Ian comes out from the hiding place.)
 IAN: Excuse me.
 DOCTOR: What are you doing here?
 IAN: We're looking for a young girl.
@@ -138,7 +189,7 @@ DOCTOR: What do you want?
 IAN: One of our pupils, Susan Foreman, came into this yard.
 DOCTOR: Really? In here? Are you sure?
 BARBARA: Yes, we saw her from across the street.
-DOCTOR: One of their pupils, not the police, then.
+DOCTOR: (aside) One of their pupils, not the police, then.
 IAN: I beg your pardon?
 DOCTOR: Why were you were spying on her? Who are you?
 IAN: We heard a young girl's voice call out to you.
@@ -148,6 +199,7 @@ DOCTOR: You imagined it.
 BARBARA: I certainly did not imagine it.
 DOCTOR: Young man, is it reasonable to suppose that anybody would be inside a cupboard like that, hmm?
 IAN: Would it therefore be unreasonable to ask you to let us have a look inside?
+(The Doctor goes to an ornate picture frame.)
 DOCTOR: I wonder why I've never seen that before. Now isn't that strange. Very damp and dirty.
 BARBARA: Won't you help us? We're two of her teachers from the Coal Hill School. We saw her come in and we haven't seen her leave. Naturally, we're worried.
 DOCTOR: Have to be cleaned. Hmm? Oh, I'm afraid it's none of my business. I suggest you leave here.
@@ -171,10 +223,15 @@ DOCTOR: I'm not hindering you. If you both want to make fools of yourselves, I s
 IAN: While you nip off quietly in the other direction.
 DOCTOR: Insulting. There's only one way in and out of this yard. I shall be here when you get back. I want to see your faces when you try to explain away your behaviour to a policeman.
 IAN: Nevertheless, we're going to find one. Come on, Barbara.
-SUSAN: What are you doing out there?
+SUSAN [OC]: What are you doing out there?
 IAN: She is in there!
 DOCTOR: Close the door!
 IAN: Barbara!
+(Barbara goes inside the box as Ian briefly struggles with the Doctor before following her.)
+
+[Tardis]
+
+(Barbara finds herself in a very big room, with chair, hat stand, various other pieces of furniture, and Susan standing at a six-sided console in the centre.)
 DOCTOR: Close the door, Susan. I believe these people are known to you.
 SUSAN: They're two of my schoolteachers. What are you doing here?
 BARBARA: Where are we?
@@ -193,6 +250,7 @@ IAN: But it was a police telephone box. I walked all around it. Barbara, you saw
 DOCTOR: You don't deserve any explanations. You pushed your way in here uninvited and unwelcome.
 BARBARA: I think we ought to leave.
 IAN: No, just a minute. I know this is absurd, but I feel
+(The Doctor is examining an ornate clock.)
 DOCTOR: Oh dear, dear, dear dear. This is very
 IAN: I walked all round it.
 DOCTOR: It's stopped again, you know, and I've tried hmm? Oh, you wouldn't understand.
@@ -245,6 +303,7 @@ SUSAN: I mustn't.
 IAN: Very well, then. I'll have to risk it myself.
 DOCTOR: I can't stop you.
 SUSAN: Don't touch it! It's live!
+(Ian gets an electric shock from the console.)
 BARBARA: Ian! What on earth do you think you're doing?
 SUSAN: Grandfather, let them go now, please.
 DOCTOR: And by tomorrow we shall be a public spectacle, a subject for news and idle gossip.
@@ -259,13 +318,20 @@ DOCTOR: Now you're being sentimental and childish.
 SUSAN: No, I mean it.
 DOCTOR: Very well. Then you must go with them. I'll open the door.
 BARBARA: Are you coming, Susan?
+(But instead of flipping the switch to open the doors, the Doctor starts the time rotor moving.)
 SUSAN: Oh, no, Grandfather! No!
 DOCTOR: Let me go.
 SUSAN: No!
 DOCTOR: Get back to the ship, child. Hold it.
+(Ian and Barbara are thrown from side to side. The Doctor and Susan hang on to the console. Eventually Barbara lands in the chair and Ian on the floor. The Tardis heads into the vortex with a lot of noise and the opening title effects superimposed over the Doctor and Susan's faces. Later, it is peaceful and quiet. On the scanner is a view of a desolate, scrubby land. The shadow of a scruffy figure in animals skins is looking at the Tardis)
+
 Episode two - The Cave of Skulls
+
+[Cave]
+
+(A group of unkempt people in furs are gathered around a man rubbing a bone with his hands)
 MOTHER: Where is the fire Za makes?
-HUR: In his hands. We are not going to the wood.
+HUR: (a woman) In his hands. We are not going to the wood.
 ZA: My father made fire.
 MOTHER: They killed him for it. It is better that we live as we have always done.
 ZA: He showed me how to sharpen the stones and trap the bear and the tiger. He should have shown me this, too.
@@ -275,6 +341,7 @@ MOTHER: I never saw him make it. That is all I know.
 ZA: Out of my sight, old woman. You should have died with him.
 MOTHER: Za will never make fire.
 ZA: Put on more of the dead fire.
+(Hur adds ash, and Za rubs the bone between his hands again.
 HUR: The old men are talking against you, Za. They say it would be better for the stranger Kal to lead us.
 ZA: Kal?
 HUR: They say you sit all day rubbing your hands together while he brings us meat.
@@ -283,12 +350,16 @@ HUR: Old men see no further than tomorrow's meat. They will make Kal the leader.
 ZA: Kal is no leader.
 HUR: The leader is the one who makes fire.
 ZA: Where has the fire gone? Where? Where?
+
+[Tardis]
+
+(Barbara wakes up)
 BARBARA: Ian? Ian.
 IAN: I'm all right. I must have hit my head. The movement's stopped.
 SUSAN: The base is steady.
 DOCTOR: Layer of sand, rock formation. Good.
 SUSAN: We've left 1963.
-DOCTOR: Oh, yes, undoubtedly. I'll be able to tell you where presently. Zero? That's not right. I'm afraid this yearometer is not calculating properly. Hm! Well, anyway, the journey's finished. What are you doing down there?
+DOCTOR: Oh, yes, undoubtedly. I'll be able to tell you where presently. Zero? That's not right. I'm afraid this yearometer is not calculating properly. Hm! Well, anyway, the journey's finished. (to Ian) What are you doing down there?
 BARBARA: What have you done?
 IAN: Barbara, you don't believe all this nonsense.
 SUSAN: Well, look at the scanner screen.
@@ -325,24 +396,32 @@ DOCTOR: That is quite correct. But your tone suggests ridicule.
 IAN: But it is ridiculous. Time doesn't go round and round in circles. You can't get on and off whenever you like in the past or the future.
 DOCTOR: Really? Where does time go, then?
 IAN: It doesn't go anywhere. It just happens and then it's finished.
-DOCTOR: You're not as doubtful as your friend, I hope?
+DOCTOR: (to Barbara) You're not as doubtful as your friend, I hope?
 BARBARA: No.
 IAN: Barbara, you can't
 BARBARA: I can't help it. I just believe them, that's all.
 DOCTOR: If you could touch the alien sand and hear the cries of strange birds and watch them wheel in another sky, would that satisfy you?
 IAN: Yes.
+(The Doctor opens the doors)
 DOCTOR: Now, see for yourself.
 IAN: It's not true. It can't be.
 SUSAN: That's not on the screen.
 DOCTOR: Well I've no more time to argue with you. I must get some samples, Susan.
 SUSAN: Be careful, Grandfather.
-DOCTOR: Oh, dear, it's disgusting really.
+DOCTOR: (exiting, muttering) Oh, dear, it's disgusting really.
+(Barbara leaves the Tardis)
 BARBARA: Ian, come out and look.
+(Ian stumbles and clutches his head)
 SUSAN: Oh here, lean on me.
 IAN: No, thank you. I'm all right, thanks.
+(Ian and Susan step outside, and the doors close behind them)
+
+[Wasteland]
+
 BARBARA: Well?
 IAN: But there must be some explanation.
 DOCTOR: It's still a police box. Why hasn't it changed? Dear, dear, how very disturbing.
+(The Doctor collects his rock samples, watched by the primitive man. Barbara comes across an animal skull in the sand)
 BARBARA: What do you think it could be? Ian, look at this.
 IAN: I don't know. It hasn't got any horns or antlers. Could be a horse. Could be anything. Incredible. A police box in the midst of. Oh, it just doesn't make sense.
 SUSAN: It should have changed. Wonder why it hasn't happened this time.
@@ -358,8 +437,10 @@ BARBARA: Look, Ian, the point is, it's happened.
 IAN: Yes, it has. But it's impossible to accept. I know I'm here
 SUSAN: I can't see him anywhere.
 BARBARA: He can't be far away. I had a feeling just now as if we were being watched. Grandfather.
+(The Doctor is lighting his pipe when the primitive man attacks. The Doctor cries out)
 SUSAN: Grandfather!
 IAN: Come on!
+(They run to where the Doctor was gathering his samples, and find his bag on the ground)
 IAN: Look.
 SUSAN: What is it?
 BARBARA: Some of his things.
@@ -370,9 +451,9 @@ IAN: Susan.
 SUSAN: I must see.
 IAN: Well, be careful then.
 BARBARA: Ian, look.
-IAN: It's not much good any more.
+IAN: (broken Geiger counter) It's not much good any more.
 BARBARA: Well, maybe he saw something and went off to investigate.
-IAN: Leaving this?
+IAN: Leaving this? (his hat)
 BARBARA: Well, what do you think happened?
 IAN: I don't know. Perhaps he was excited and went off to investigate something as you suggest, but. He may have been taken.
 SUSAN: I can't see him. I can't find him anywhere. There's not a sign of him.
@@ -382,9 +463,13 @@ SUSAN: It's his notes. He'd never leave his notebook. It's too important to him.
 BARBARA: Susan, Susan. We'll find him, I promise you. He can't be far away.
 IAN: What's on the other side of those rocks?
 SUSAN: There's a line of trees. There's a gap in them. There might be a path on the other side.
-IAN: All right, we'll try there first. Come on. Strange.
+IAN: (gathering up the Doctor's things) All right, we'll try there first. Come on. Strange.
 BARBARA: What?
 IAN: This sand. It's cold. It's nearly freezing.
+
+[Cave]
+
+(The children are playing hunting, with one of them under a leopard's skin)
 HORG: Kal says, where he comes from, he's often seen men make fire.
 ZA: Kal is a liar.
 HORG: He says Orb will soon show him how it is done.
@@ -392,6 +477,7 @@ ZA: All his tribe died in the last cold. If he had not found us, he would have d
 HUR: What else did he say?
 HORG: He says Orb only shows the secret to the leader.
 ZA: I am leader. Orb will show me. I am the son of the great firemaker, but he does not show me how to put flames into the sticks. Kal comes. I do not kill him. I let him eat with us and sleep in our caves. I will have to spill some blood and make people bow to me.
+(There's a commotion as the Doctor is brought in and laid across a large rock)
 ZA: This is a strange creature.
 KAL: Is Za, son of the firemaker, afraid of an old man? When will Za make fire come from his hands?
 ZA: When Orb decides it.
@@ -416,13 +502,14 @@ HORG: I say there is truth in both of you. Za speaks truth, but fire cannot live
 HUR: Will my father listen to a woman? If this old man can make fire come from his fingers, let us see it now.
 ZA: I say what is to be done here, not old men and women.
 KAL: Za tries to talk like his father, the firemaker. Za does not want to see fire made. But I, Kal, am not afraid of fire. I will make my creature make fire.
+(The Doctor sits up)
 ZA: I will take him to the Cave of Skulls and he will tell me the secret!
 DOCTOR: I can make fire for you. Let me go and I'll make all the fire you want. You don't have to be afraid of me. I'm an old man. How can an old man like me harm any of you?
 ZA: What does he say?
 HORG: Fire? He says he can make fire for us.
 KAL: He makes it for me and I give you fire. I am firemaker.
 ZA: He will make it for me.
-DOCTOR: My matches. Where are they? I must get back. Must get back to the ship.
+DOCTOR: (searching his pockets) My matches. Where are they? I must get back. Must get back to the ship.
 KAL: Kal's creature, he makes fire only for Kal.
 DOCTOR: Take me back to my ship and I will make fire for you. All the fire you want.
 ZA: This is more of your lies. The old man cannot make fire.
@@ -438,11 +525,14 @@ ZA: Let the old man die. And we'll watch the great Kal as he kills his strong en
 KAL: Make fire! Make fire! Or I kill you now!
 ZA: Or we'll keep them and make them hunt for us. It's good to have someone to laugh at!
 SUSAN: Grandfather!
+(Susan, Ian and Barbara are quickly overpowered)
 DOCTOR: If he dies, there will be no fire.
+(Kal is fascinated by Barbara)
 MOTHER: Kill her. Kill her.
 ZA: Wait. You cannot kill all our enemies. When Orb gives fire back to the sky, let him look down on them. Then that is when they die, and Orb will give us fire again. Take them to the Cave of Skulls.
 SUSAN: No! Grandfather!
 DOCTOR: All right.
+(Hur goes to Za, and her father tries to pull her back)
 ZA: The woman is mine.
 HORG: My daughter is for the leader of the tribe.
 ZA: Yes, the woman is mine.
@@ -453,21 +543,30 @@ ZA: Many men, yes. They all dies when Orb left the sky and the great cold was on
 HUR: Za will be a strong leader of many men. If you give me to him, he will remember and always give you meat.
 MOTHER: There were leaders before there was fire. Fire will kill us all in the end. You should have killed the four strangers. Kill them.
 ZA: I have said we will wait until Orb shines again. Then they die.
+
+[Cave of Skulls]
+
+(so named because of the large number of skeletons scattered around)
+(The four are bound hand and foot)
 IAN: Are you all right? Did they hurt you?
 BARBARA: No. Ian, I'm frightened.
 IAN: Try and hang on.
 BARBARA: But how are we going to get out of this?
 DOCTOR: We should use our cunning. I hope you can get yourself free, Chesterton. I can't. The stench in here. The stench. I'm sorry. It's all my fault. I'm desperately sorry.
 SUSAN: Don't blame yourself, Grandfather.
-DOCTOR: Look at that. Look at it. 
+DOCTOR: Look at that. Look at it. (skulls)
 IAN: They're all the same. They've been split open.
+
 Episode Three - The Forest Of Fear
+
 DOCTOR: Oh, I'm sorry. I'm sorry, it's all my fault. I'm desperately sorry.
 SUSAN: Oh, don't blame yourself, Grandfather.
-DOCTOR: Look at those. Look at them. 
+DOCTOR: Look at those. Look at them. (the skulls)
 IAN: Yes, they're all the same. They've been split wide open.
+(In the main cave, the tribe sleep. The old woman gets up and takes a flint hand axe. Meanwhile, in the cave of skulls, the group are trying to free themselves)
 SUSAN: I've found another piece with a rough edge.
 IAN: Thank you.
+(Ian is sawing at Barbara's bindings with pieces of flint)
 IAN: It's no good, it keeps crumbling.
 DOCTOR: Oh, it's hopeless, hopeless. Even if we do get free, we shall never move that stone.
 IAN: There's air coming in here from somewhere.
@@ -484,6 +583,7 @@ DOCTOR: We must all take it in turns and try and cut his hands free.
 IAN: Surely we should get the girls free?
 DOCTOR: No, no, we've got to free you first. You're the strongest, and you may have to defend us.
 IAN: All right.
+(later)
 DOCTOR: Susan, you have a go. My arms are tired.
 SUSAN: All right.
 DOCTOR: And don't think of failing.
@@ -495,7 +595,12 @@ BARBARA: I never thought once you were afraid.
 DOCTOR: Fear is with all of us, and always will be. Just like that other sensation that lives with it.
 BARBARA: What's that?
 DOCTOR: Your companion referred to it. Hope. Hope, that's right.
+(In the main cave, Hur wakes Za and mimes that the old woman has gone with his weapon. They go after her with an axe)
+(The old woman breaks through some brush into the cave of skulls. Susan screams)
 MOTHER: You will not make fire.
+
+[Outside the cave]
+
 ZA: Now tell me.
 HUR: I saw the old woman take your knife.
 ZA: Why did you let her? She's old, you could have held her.
@@ -507,20 +612,39 @@ HUR: No, but she took your knife. She is afraid of fire.
 ZA: You should have stopped her.
 HUR: Kal was in the cave. Leaders are awake when others sleep. The strange tribe will not be able to show you how to make fire if the old woman kills them.
 ZA: If I stop her from killing them, they will give fire to me. And not to Kal. The woman could not have got into the cave. The great stone is still there. Why do you tell me this?
+(He pushes Hur over and threatens her with his axe)
 HUR: No! No!
+(Then they hear voices)
 ZA: The old woman is talking to them.
+
+[Cave of Skulls]
+
 MOTHER: I will set you free if you will go away and not make fire. Fire will bring trouble and death to the tribe.
 DOCTOR: There will be no fire.
+
+[Outside the cave]
+
+(Za and Hur strain at the big stone)
 HUR: No, we cannot move the great stone.
 ZA: The old woman is talking to them. I will move it.
+
+[Cave of Skulls]
+
+(The old woman has freed our travellers)
 MOTHER: Hurry, hurry. You must go across the tuft and into the trees.
 IAN: Yes.
+(They get away, but the old woman is too slow. Za grabs her from the opening)
 HUR: She set them free!
 MOTHER: They would have made fire. They would have made fire! No.
+(The old woman tries to stop Za from going after them. He knocks her down)
 ZA: They have gone into the night.
 HUR: They have taken fire with them.
 ZA: The beasts will kill them. They will kill us if we follow.
 HUR: Now, you are leader. You are as strong as the beasts. You will be stronger still when you know how fire is made. Stronger than Kal.
+
+[Forest]
+
+(Barbara leads the way, with Susan, Ian then the Doctor trying to keep up)
 DOCTOR: Stop. Just a minute, let me get my
 IAN: We can't stop here.
 DOCTOR: Just a moment.
@@ -535,10 +659,12 @@ IAN: Yes, I think so.
 BARBARA: I can't remember. I simply can't remember.
 IAN: We're free, Barbara. Think about that. Free.
 BARBARA: Yes. Yes.
+(But the sounds of nocturnal hunters and prey alarm them. Further on, Susan is helping the Doctor)
 SUSAN: I'm sure I remember this place. But we didn't come round it, we went across it.
 BARBARA: Yes, there was a sort of trail.
 IAN: If that's true, we must be quite near the ship. How are you feeling?
 DOCTOR: I'm all right. Don't keep on looking upon me as the weakest link of the party.
+(Barbara sees something scary)
 IAN: What's the matter?
 BARBARA: I don't know. I saw something. Over there in the bushes.
 DOCTOR: What nonsense.
@@ -568,23 +694,29 @@ DOCTOR: Oh, sheer imagination.
 IAN: Why are you so confident about it?
 DOCTOR: I won't allow myself to be frightened out of my wits by mere shadows, that's all.
 IAN: All right.
+(Hur and Za are tracking them)
 HUR: Look, there is a branch broken.
 ZA: They have strange feet.
 HUR: They wear skins on their feet.
 ZA: There are marks here.
 HUR: They've gone this way.
+(Animals call)
 ZA: It was wrong to do this. We should not have followed them.
 HUR: We cannot turn back now.
+(Further on, at the resting place)
 IAN: I think we'd better get going. Doctor, will you lead?
 DOCTOR: Yes, yes, yes, yes.
 IAN: Come on, Barbara.
-IAN: Barbara, Barbara.
+(But almost immediately, she falls over a dead boar, and screams. Za hears it.)
+IAN [OC]: Barbara, Barbara.
 ZA: Down here. That was one of the women.
 SUSAN: A dead animal.
 DOCTOR: It must have just been killed. By a larger animal, too.
 IAN: Shush. Shush. That must be them. They followed us. Quick, quick. Over there.
+(The four hide, and Hur and Za enter)
 IAN: Keep down, and not a sound.
 ZA: Wait. There is danger. I will go.
+(We don't actually see it, of course, but Za gets attacked by whatever killed the boar)
 IAN: Quick, now's our chance. Let's get away. Run!
 BARBARA: Look at them. We can't just leave them! I don't care what they've done.
 IAN: Barbara. Barbara, come on.
@@ -597,6 +729,7 @@ SUSAN: No, Grandfather. We can't leave them.
 DOCTOR: Silence! We're going back to the ship.
 SUSAN: No!
 DOCTOR: What are you doing? They must be out of their minds.
+(Za is badly wounded, and Hur is crying)
 HUR: No, keep away.
 IAN: Let me look at him.
 HUR: No.
@@ -610,6 +743,7 @@ BARBARA: Please, show me. Give me your handkerchief.
 IAN: Here you are.
 SUSAN: Is he all right?
 IAN: I think so. He must have buried his axe head in the animal. Thank you.
+(Barbara and Ian bathe his wounds)
 HUR: Water comes out of the skin!
 IAN: Yes. I think most of this is the animal's blood.
 SUSAN: Good.
@@ -634,6 +768,9 @@ DOCTOR: You're not going to take him back to the ship?
 IAN: Take your coat off, Barbara. Susan, try and find me two poles. Long ones, fairly straight.
 BARBARA: The old woman won't give us away. She helped.
 DOCTOR: Do you think so? These people have logic and reason, have they? Can't you see their minds change as rapidly as night and day? She's probably telling the whole tribe at this very moment.
+
+[Cave of Skulls]
+
 KAL: The creatures. Where? Where?
 MOTHER: Gone.
 KAL: The great stone. They could not move it.
@@ -643,6 +780,9 @@ MOTHER: Za and Hur went after them.
 KAL: There were skins around their hands and their feet. They could not move. Za helped them to get free? They're gone with Za to show him fire?
 MOTHER: They won't make fire. There won't be fire any more.
 KAL: Old woman, you helped them.
+
+[Forest]
+
 IAN: It's not going to work like this. What can we do?
 HUR: No! He's mine.
 SUSAN: I was only trying to help.
@@ -658,6 +798,7 @@ IAN: How about giving us a hand, Doctor?
 SUSAN: He's always like this if he doesn't get his own way.
 BARBARA: The old woman won't give us away. And now that we've got these two on our side, we should get back to the ship.
 SUSAN: Yes.
+(The Doctor picks up a stone, and Ian grabs his arm)
 DOCTOR: Get your hand off me.
 IAN: What are you doing?
 DOCTOR: Well, I, I was going to get him to draw our way back to the Tardis.
@@ -668,7 +809,11 @@ DOCTOR: You don't expect me to carry him, do you?
 IAN: Do you want the women to do the job for you?
 DOCTOR: Oh, very well.
 IAN: Right, now move him over very carefully. Now, back again, gently.
+(Za ends up on the stretcher, groaning)
 IAN: Good. Right, now, Susan, you get in front with her.
+
+[Cave]
+
 KAL: They have gone. Za and Hur have gone with them and we must go after them.
 HORG: Hur would not help them to get away.
 KAL: She has gone with them.
@@ -676,16 +821,33 @@ HORG: The old woman sleeps in the cave too, and she has gone.
 KAL: The old woman is in the Cave of Skulls.
 HORG: Hur would not go with them!
 KAL: Ask the old woman. She will tell what is done.
+
+[Cave of Skulls]
+
 KAL: She will tell.
+(But the old woman is dead)
 KAL: My eyes tell me what has happened. As they do when I sleep and I see things. Za and Hur came to free them, and find a way to make fire. The old woman saw them. Za killed old woman.
 HORG: The old woman is dead. It must have been as your eyes said it was.
 KAL: Za has gone with them, taking them to their cave. Za takes away fire. Now I, Kal, lead. Go!
+
+[Forest]
+
 IAN: Hold the branches back, Susan.
 SUSAN: The Tardis! There's the Tardis!
+(And there's the tribes people with spears too)
 IAN: Back! Back! Go back.
+(But Kal blocks their retreat)
+
 Episode Four - The Firemaker
+
+[Forest]
+
 IAN: Back. Get back.
+
+[Cave]
+
 HORG: They are coming.
+(The stretcher is put down and the travellers dragged away)
 KAL: Za and the woman went with them. I, Kal, stop them.
 HUR: They saved Za from death near the stream.
 KAL: They set them free from the Cave of Skulls and went with them.
@@ -703,21 +865,32 @@ DOCTOR: It is a finer knife than yours.
 KAL: I, Kal, say it is a bad knife.
 DOCTOR: This knife can cut and stab. I have never seen a better knife.
 KAL: I will show you one.
-DOCTOR: This knife shows what it has done. There is blood on it. Who killed the old woman?
+(Kal pulls out his flint knife)
+DOCTOR: This knife shows what it has done. There is blood on it. (to Za) Who killed the old woman?
 ZA: I did not kill her.
-DOCTOR: You killed the old woman.
+DOCTOR: (to Kal) You killed the old woman.
 KAL: Yes! She set them free. She set them free. She did this. I, Kal, killed her.
-DOCTOR: Is this your strong leader? One who kills your old women? He is a bad leader. He will kill you all. Yes, all. Follow my example.
+DOCTOR: Is this your strong leader? One who kills your old women? He is a bad leader. He will kill you all. Yes, all. (to Ian) Follow my example.
+(The Doctor picks up some stones and throws them at Kal)
 DOCTOR: Drive him out. Out.
 IAN: Yes, drive him out. He killed the old woman.
+(The tribe start pelting him with stones)
 TRIBE: Drive him out.
+(Kal leaves, and Za is on his feet again)
 IAN: Remember, Kal is not stronger than the whole tribe.
 ZA: Kal is no longer one of this tribe. We will watch for him. We will all fight Kal if he comes back. We will watch for him. Take them to the Cave of Skulls.
 IAN: Take us back to the desert and we will make fire for you.
 ZA: The great stone will close one place, and you will stand by another I will show you. Take them.
 DOCTOR: Don't struggle.
 ZA: They are inside the cave. You see them come out, kill them.
+
+[Cave of Skulls]
+
+(They are not tied up this time)
 DOCTOR: This place is evil.
+
+[Cave]
+
 ZA: Tell me what happened after I fought the beast in the forest.
 HUR: You were stronger than the beast. It took away your axe in its head. You lay on the earth. I believed you were dead.
 ZA: Tell me what they did.
@@ -737,11 +910,23 @@ HUR: Do you think they come from Orb?
 ZA: No. They are a tribe who know how fire is made, but they do not want to tell us.
 HUR: Then you will not kill them?
 ZA: Horg says the leader must know how fire is made. I do not want to be driven into the forest like Kal. I must make fire, or they must die, as the old men say. I will speak with him. I must hear more things to remember. The leader would have things to remember.
+
+[Cave of Skulls]
+
+(Ian is putting together the ingredients of a camp fire. Susan finds a stone)
 SUSAN: I think this is what you want, Mister Chesterton.
 IAN: Thank you.
 BARBARA: Here are some leaves, and some dead grass.
 IAN: Yes, well spread them around the hole. Don't put them inside. I hope this is going to work. Now, spread them around a bit more. Yes, that's it.
-ZA: I will speak with them. You wait here.
+(He's got twine around one twig, to twist another twig between two flat stones for friction)
+
+[Outside the second exit]
+
+ZA: (to guard) I will speak with them. You wait here.
+(Kal is watching, hidden)
+
+[Cave of Skulls]
+
 SUSAN: I can smell something.
 BARBARA: Yes, so can I.
 SUSAN: It's burning! It's burning!
@@ -770,11 +955,25 @@ IAN: Look, I think it's beginning to work. Susan, Barbara, blow gently. That's i
 SUSAN: We've done it.
 IAN: Yes.
 ZA: Fire. Fire.
+
+[Cave]
+
 HORG: Orb strikes the old stone and Za does not bring them out. We have no meat, and no fruit from the trees, and no roots. Za is no leader.
 HUR: Za would kill you if he could hear you. He's talking now with them in the Cave of Skulls. You should lie on the old stone until your blood runs into the earth.
 HORG: Za is letting them go away, just as the old woman set them free.
 HUR: Za told one of them to watch and guard them until he came out of the Cave of Skulls.
+
+[Cave of Skulls]
+
+(Kal kills the guard and goes in. He sees the fire, and starts swinging at Za with his axe. Za uses a thick branch to defend himself and breaks Kal's axe with it. Finally, Za gets the upper hand and ends it by smashing Kal's head with a big stone.)
+
+[Cave]
+
 HORG: Orb is above us and there is no fire. Bring them out from the Cave of Skulls and Za as well. Come on.
+
+[Cave of Skulls]
+
+(Ian lights a branch from the fire)
 IAN: Take this, and show it to your tribe.
 ZA: You, stay here.
 IAN: We will come with you.
@@ -782,6 +981,9 @@ ZA: No, you'll stay here.
 IAN: I will come with you.
 DOCTOR: Give him a chance. Give him a chance. Let him show the tribe fire, establish himself as leader, then he'll let us go.
 IAN: But we ought to go with him now.
+
+[Cave]
+
 ZA: Fire.
 TRIBE: Fire.
 ZA: Kal is dead. I give you fire. I am leader. We will give food and water to the new tribe in the Cave of Skulls.
@@ -789,7 +991,11 @@ HORG: There is no meat.
 ZA: I will go into the forest and get meat.
 HORG: Yes. I remember how the meat and fire joined together.
 ZA: Good. Watch the new tribe. They must be here when I return.
+
+[Cave of Skulls]
+
 IAN: It didn't work. They're going to keep us here.
+(Hur enters with some food)
 IAN: Why are you keeping us here?
 HUR: Za has gone into the forest to find meat. There will be more food later.
 BARBARA: But why can't we go outside?
@@ -797,29 +1003,45 @@ SUSAN: Please let us go. It's terrible in here.
 HUR: Za is leader.
 SUSAN: But we helped you. We gave you fire.
 HUR: We have fire now.
+(Hur leaves)
 IAN: Yes. And I was the fool who gave it to you. Why didn't I wait?
 BARBARA: Well at least we're alive. We wouldn't be if we hadn't given them fire.
+(Later, Ian is sleeping)
 BARBARA: Ian.
 SUSAN: They brought us some meat.
 BARBARA: And the Doctor found a stone with a hole in it, and they filled it with water.
 IAN: All the comforts of home.
+(Za enters)
 ZA: The animal was hard to kill. The meat on it is good. They have brought you fruit and water has been put into a stone. Is this the stone? Has anyone hurt you?
 DOCTOR: When are you going to let us go, hmm?
 ZA: You will stay here. I have the meat and I have the stick, and a piece of skin. I can make fire now. Your tribe and my tribe will join together.
 IAN: We don't want to stay here.
 ZA: Why? There is no better place the other side of the mountains. Do not try to leave here.
+(Za leaves with their water)
 DOCTOR: Quench the fire. Take the fire away from them. Scaring them, somehow.
-SUSAN: Hey, Grandfather, look! It's almost alive.
+SUSAN: (putting a skull on top of a burning brand) Hey, Grandfather, look! It's almost alive.
 IAN: Not alive, Susan. Almost dead. We're going to make four torches. We'll find the sticks. And we'll use the fat from the meat. And then
 SUSAN: And then?
 IAN: And then, to all intents and purposes, we're going to die.
+(The tribe continue to feast)
 IAN: When I give the sign.
+(Hur enters with more meat, sees the lit skulls and screams. The rest of the tribe come in and cower too)
 SUSAN: What are they?
+(With the tribe distracted, our travellers make a run for it through the forest. Finally one of the sticks falls over)
 ZA: Look. It is nothing but fire and the bones of the dead. They have gone! While we look at their fire, they have gone!
 HUR: Into the night. The dark will hide them.
 ZA: With fire, it is day.
+(So the men get themselves torches and the chase is on)
+
+[Desert]
+
+(Our intrepid time travellers get inside the Tardis before the tribe arrive.)
+
+[Tardis]
+
 IAN: Come on, Doctor, get us off! Get us off!
 DOCTOR: Yes.
+(The Tardis takes off as the spears fly towards it)
 DOCTOR: Yes, it's matching up.
 SUSAN: We're beginning to land.
 DOCTOR: Oh, how I wish.
@@ -835,7 +1057,11 @@ IAN: Just a minute. Did you try and take us back to our own time?
 DOCTOR: Well, I got you away from that other time, didn't I?
 IAN: That isn't what I asked you.
 DOCTOR: It's the only way I can answer you, young man. Now. Now we shall see.
+(The monitor shows strange trees)
 DOCTOR: It could be anywhere. Dear, dear, dear, dear. It's no help to us at all. Well, I suggest before we go outside and explore, let us clean ourselves up.
 SUSAN: Oh, yes.
 DOCTOR: Now what does the radiation read, Susan?
 SUSAN: It's reading normal, Grandfather.
+(But after they walk away, the needle goes up into the Danger Zone)
+
+

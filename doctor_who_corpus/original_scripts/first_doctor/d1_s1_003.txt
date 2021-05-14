@@ -1,6 +1,12 @@
 The Edge of Destruction
+
+
 Episode One - The Edge of Destruction
+[Tardis]
+
+(The Tardis is in flight after leaving Skaro, when there is bang, it shakes and everyone falls over. It goes dark. We rejoin the action with the lights back on. The Doctor is lying on the floor, Ian slumped in a chair, Susan draped over the console. Barbara is the only one awake.)
 BARBARA: Mister Chesterton? Ian Chesterton? I thought
+(Susan wakes. She looks almost drunk)
 SUSAN: I know you. Ow!
 BARBARA: Have you hurt your head?
 SUSAN: Yes, terribly.
@@ -12,10 +18,12 @@ BARBARA: He's cut his head open.
 SUSAN: I've got some ointment.
 BARBARA: Well get some water too.
 SUSAN: Yes.
+(As she stands up again, Susan grabs her neck in pain, then sees Ian in the chair)
 SUSAN: Who's that? Oughtn't we to go and help him?
 BARBARA: I don't like the look of this cut at all.
 SUSAN: Water. What happened?
 BARBARA: I don't know. Well, go on.
+(Ian has woken, and is standing by the chair)
 IAN: You're working late tonight, Miss Wright. Can I have a glass of water?
 BARBARA: Susan's fetching some.
 IAN: Susan Foreman, you mean?
@@ -29,8 +37,11 @@ DOCTOR: I can't take you back, Susan. I can't.
 IAN: He's rambling.
 BARBARA: The ship! The Tardis!
 IAN: What?
+(Susan in in the next room. She has cut a length of bandage, and is now at the liquids dispenser)
 SUSAN: Empty?
+(She gets a sachet of something from it)
 SUSAN: That's funny.
+(Susan returns to the console room and shrieks. The main doors are open)
 SUSAN: The doors! Well, they can't open on their own. They can't!
 IAN: Perhaps he did it.
 SUSAN: Grandfather?
@@ -46,42 +57,70 @@ BARBARA: But that's not possible.
 SUSAN: You feel it, don't you?
 BARBARA: Give me the bandage. What's this?
 SUSAN: The coloured part is the ointment. You'll find the colour disappearing. It goes into the wound. When the bandage is completely white, it means the wound is healed.
+(Ian walks towards the open doors, and they close in front of him)
 IAN: Did you do that?
 SUSAN: We haven't moved.
+(He walks back to the console, and the doors open again. Towards them and they shut)
 SUSAN: I'm going to try the controls.
 BARBARA: Be careful, Susan.
+(Susan stops, screams No! and collapses next to the Doctor)
 IAN: She's fainted. But she was all right a minute ago.
 BARBARA: Yes, and a while before that, you were all unconscious.
 IAN: What's going on here?
 BARBARA: He's beginning to stir. Take the girl and put her to bed.
+(Ian hauls Susan up and over his shoulder)
 IAN: If anything happens, let me know.
 BARBARA: Well, what could happen?
 IAN: I don't know.
+(Ian leaves, carrying Susan)
 BARBARA: How are you?
 DOCTOR: My head.
 BARBARA: You cut your forehead, but you'll be all right.
 DOCTOR: It hurts here.
 BARBARA: Where? Show me. I can't see anything. There's no bump or bruise or anything.
 DOCTOR: No, I was hit on the back of the neck.
+
+[Room]
+
+(Ian lets an S shaped recliner down from the wall and puts Susan on it)
 IAN: Water.
+(He goes to the dispenser)
 IAN: Empty?
+(Removes a sachet from the slot)
 IAN: All right.
+(He puts some of the water on his handkerchief and goes back to Susan. She is sitting up and holding a pair of scissors)
 IAN: What are you doing?
 SUSAN: No. Who are you?
 IAN: Susan. You don't need that.
+(He reaches for the knife, and she stabs at him, then, groaning in pain, repeatedly stabs the recliner instead before collapsing again)
+(The Doctor is sitting on a bench by the wall, and the scissors are on a table)
 DOCTOR: No, no, the ship must have stopped and put us down somewhere.
 BARBARA: But where? Where are we?
 DOCTOR: Oh, all these questions, Miss Wright. Please.
 BARBARA: You don't know, do you? You're just guessing, aren't you?
+
+[Tardis]
+
+(Barbara goes back into the console room)
 BARBARA: Can we have some light in here?
-DOCTOR : What for?
+DOCTOR [OC]: What for?
+
+[Room]
+
 IAN: Have you any idea where we are, Doctor?
 DOCTOR: Where is not as important as why, young man. I must go and check the fault locator again.
 IAN: Everything's in a mess.
 DOCTOR: You didn't touch the controls, did you?
 IAN: No.
+
+[Tardis]
+
 DOCTOR: Or you?
+(Barbara glares at him and goes into the room)
 DOCTOR: I know Susan wouldn't. I'm worried about that child. Temporary lapse of memory.
+
+[Room]
+
 BARBARA: I was thinking.
 IAN: Yes?
 DOCTOR: Well, yes, yes, anything may help.
@@ -98,6 +137,9 @@ BARBARA: No, it isn't. But does it have to be? I mean, things aren't always very
 DOCTOR: I've been very patient with you, Miss Wright, and really, there's no more time for these absurd theories.
 IAN: Probably a mechanical fault.
 DOCTOR: Yes, or electric.
+
+[Tardis]
+
 DOCTOR: It may even be the main unit. I don't know. I'm very worried about it all. Young man, I think you'll have to help me with that fault locator now that Susan's been put out of action.
 IAN: Yes, yes, of course I will.
 DOCTOR: Thank you. It won't take us long.
@@ -106,16 +148,22 @@ DOCTOR: Yes, well, perhaps it would be wiser to check the fault locator first. I
 IAN: Barbara.
 BARBARA: Keep an eye on Susan?
 IAN: Yes. Don't tell her about something being in the ship.
+(Susan overhears this conversation while sneaking out to get the scissors)
 BARBARA: No, of course not.
 IAN: You know, the less said, the better, eh?
-DOCTOR : Chesterton!
+DOCTOR [OC]: Chesterton!
 IAN: Coming. Coming.
+(At the fault locator panel, the Doctor is leaning against the wall)
 IAN: Are you all right?
 DOCTOR: Oh yes, these numbers keep blurring before my eyes, that's all.
 IAN: What can I do to help?
 DOCTOR: Well if you wouldn't mind standing in front of that indicator and what you will see will be a series of numbers.
+
+[Room]
+
 BARBARA: You're awake now. How are you feeling? Susan? You do remember who I am, don't you?
 SUSAN: Of course I do. You're Barbara.
+(Barbara puts a fresh moist towel on her forehead)
 SUSAN: Why?
 BARBARA: Hmm?
 SUSAN: There's nothing wrong with me.
@@ -132,6 +180,7 @@ SUSAN: I overheard the two of you. There's something here in the ship and he doe
 BARBARA: I see. You just overheard a couple of words and you
 SUSAN: No! You lied to me.
 BARBARA: We wouldn't hurt you, Susan. Surely you know that?
+(Susan threatens Barbara, but when she stretches out her arm, Barbara manages to get the scissors away from her)
 SUSAN: I never noticed the shadows before. It's so silent in the ship.
 BARBARA: Yes. Or we're imagining things. We must be. I mean, how would anything get into the ship, anyway?
 SUSAN: The doors were open.
@@ -145,6 +194,10 @@ IAN: Good.
 SUSAN: What's my grandfather doing?
 IAN: That's what I came to tell you both. He's decided that the only fault can be outside the ship. He's gone to turn on the scanner.
 SUSAN: No! No, he mustn't!
+(She dashes into the console room)
+
+[Tardis]
+
 SUSAN: Don't touch!
 DOCTOR: Hmm? Are you all right, child?
 SUSAN: Yes. Grandfather, I tried to touch it, and it was like being hit, but without any pain.
@@ -153,15 +206,19 @@ SUSAN: Well, the back of my neck hurt.
 DOCTOR: Yes, rather like mine.
 IAN: Funny, it didn't affect Barbara and me like that.
 DOCTOR: No, it didn't, did it? I must find out what's outside the ship, Susan. Stand close beside me, will you?
+(He reaches forward carefully and flicks a switch)
 SUSAN: Nothing happened to you.
 DOCTOR: No, indeed.
 BARBARA: Why does he keep looking at us like that?
 SUSAN: Hey, the scanner's working.
+(A pastoral scene and the sound of birds)
 BARBARA: That could be England.
 SUSAN: Oh, yes, I remember that.
 DOCTOR: That's very curious. That can't be what's outside the ship. This is a photograph.
+(The main doors open and a brilliant light bursts in, with a roaring sound)
 DOCTOR: Close the door, Susan!
 IAN: I'll do it.
+(The door closes)
 IAN: Well I didn't touch it.
 BARBARA: There's another picture.
 SUSAN: Oh, I recognise that. That's where we nearly lost the Tardis, four or five journey's back.
@@ -169,10 +226,12 @@ DOCTOR: Yes, the planet Quinnis, of the fourth universe.
 SUSAN: That's not outside either. That's a photograph.
 IAN: Can you explain it?
 DOCTOR: Did I ever tell you that the ship has a memory bank, hmm?
+(He sits in the chair)
 SUSAN: Yes, it records our journeys.
 IAN: No, I don't think so.
 DOCTOR: Are you sure? I thought I did.
 SUSAN: Hey, look.
+(A cratered planetoid, a sea of stars, and a flash of light then blank)
 IAN: Well, what's all that about?
 DOCTOR: Oh, don't you know? I thought you might be able to explain it.
 IAN: Why me?
@@ -180,11 +239,12 @@ DOCTOR: Trying to confuse me, eh?
 IAN: What are you getting at?
 BARBARA: Look, why don't we just try and open the doors and see for ourselves what's outside?
 DOCTOR: What is inside, madam, is most important at the moment.
+(they are now lined up across the console - Doctor and Susan versus Barbara and Ian)
 BARBARA: Inside?
 IAN: But you've just been telling us that the only people inside are ourselves.
 DOCTOR: Precisely. I know now who's responsible. You are. You sabotaged my ship.
 BARBARA: We didn't even touch your ship.
-IAN:  What are you talking about?
+IAN: (overlapping) What are you talking about?
 DOCTOR: You're the cause of this disaster. And you knocked both Susan and I unconscious.
 BARBARA: Don't be ridiculous. We were all knocked out.
 DOCTOR: A charade. You attacked us.
@@ -201,27 +261,41 @@ DOCTOR: Oh, I
 BARBARA: And what about what we went through against the Daleks? Not just for us, but for you and Susan too. And all because you tricked us into going down to the city.
 DOCTOR: But I, I
 BARBARA: Accuse us? You ought to go down on your hands and knees and thank us. But gratitude's the last thing you'll ever have, or any sort of common sense either.
+(Barbara walks away, then clutches her head and screams. There is a curious clockwork device on a plinth. Barbara rips off her own watch and throws it across the room, then collapses into the chair, sobbing. Ian and Susan look at their own watches)
 IAN: You can't blame us for this, Doctor. Where is he?
-DOCTOR: I've decided we need more time to think. We're all somewhat overwrought. Mister Chesterton.  Miss Wright. Susan.
+(The Doctor re-enters with four cups on a tray)
+DOCTOR: I've decided we need more time to think. We're all somewhat overwrought. Mister Chesterton. (offers the cups around) Miss Wright. Susan.
 IAN: I wish I could understand you, Doctor. One moment you're abusing us, and the next, you're playing the perfect butler.
 DOCTOR: A little nightcap to help us relax and sleep.
 IAN: If it is night. We have no way of telling now.
 BARBARA: I'm going to bed.
+(Barbara leaves)
 SUSAN: Make it up with her, Grandfather. Please do.
+(Susan leaves)
 IAN: Doctor, some very strange things are happening. I feel we're in a very dangerous position. This is no time for personal quarrels.
 DOCTOR: Meaning?
 IAN: I think you should go and apologise to Barbara at once.
 DOCTOR: I'm afraid we have no time for codes and manners. And I certainly don't underestimate the dangers, if they exist. But I must have time to think. I must think. Rash action is worse than no action at all, hmm?
 IAN: I don't see anything rash in apologising to Barbara.
+
+[Room]
+
 IAN: Frankly, Doctor, I find it hard to keep pace with you.
 DOCTOR: You mean, to keep one jump ahead. That you will never be. You need my knowledge and ability to apply it, and then you need my experience to gain the fullest results.
 IAN: Results? For good or for evil?
 DOCTOR: One man's law is another man's crime. Sleep on it, Chesterton. Sleep on it.
+(Barbara has pulled down a second curved bed. Susan goes over to her)
 SUSAN: I'm sorry for what Grandfather said to you.
 BARBARA: It wasn't your fault.
 SUSAN: I know, but, try and understand him. Forgive him.
 BARBARA: Try and get some sleep.
+(later, the Doctor checks they are all asleep, then goes into the console room, chuckling to himself. He is looking over the controls when someone grabs him around the throat!)
+
 Episode Two - The Brink of Disaster
+
+[Tardis]
+
+(The attacker is a staring-eyed Ian. The Doctor throws him off easily and he falls to the floor with a cry. Barbara comes out of the room too.)
 DOCTOR: So, it was you?
 BARBARA: Ian!
 DOCTOR: It's no use pretending.
@@ -259,7 +333,7 @@ BARBARA: Yes, you remember. You lost your memory. And there was this terrible pa
 SUSAN: Yes. Yes, that's true.
 BARBARA: What do you think we've done? Hypnotised you? Drugged you? Susan, we wouldn't do anything like that. Believe me.
 DOCTOR: I see. Divide and conquer, eh? She's trying to poison your mind against me.
-IAN:  Don't touch it, Doctor! 
+IAN: (suddenly sitting up) Don't touch it, Doctor! (and falling back again)
 SUSAN: I do believe you. Grandfather, they couldn't have done all the things that happened.
 DOCTOR: Oh, yes, I admit they were very smart.
 SUSAN: No, it's not a question of being smart.
@@ -283,6 +357,7 @@ BARBARA: Yes.
 IAN: I'll be all right when I get outside.
 SUSAN: Oh, Grandfather. He doesn't know what's happening. I won't let you do this.
 DOCTOR: If, of course, they'd like to confess to me what they have done to my ship, I may even change my mind.
+(A klaxon alarm sounds)
 BARBARA: What, what was that?
 SUSAN: The danger signal.
 DOCTOR: The fault locator! The whole of it!
@@ -295,8 +370,9 @@ BARBARA: It's all right.
 DOCTOR: The whole area of the fault locator has just given us a warning.
 SUSAN: But everything can't be. Everything can't be wrong!
 DOCTOR: That's what it means, child.
+(Ian grabs the back of Barbara's neck)
 BARBARA: No! Ian! Ian, it's all right. It's, it's all right. It's all right.
-IAN: I pulled you away. The controls are alive. 
+IAN: I pulled you away. The controls are alive. (passes out)
 DOCTOR: No, you mustn't be frightened of me. Not now, please. I can't explain, but I've just realised the danger we're in.
 SUSAN: It went off again, Grandfather.
 DOCTOR: Hurry. Look. We must pull him round. You see that panel up there? You've heard me refer to it? The fault locator?
@@ -324,7 +400,9 @@ IAN: Yes, but how long have we got?
 SUSAN: It's definitely every quarter of a minute.
 IAN: Well what does that prove?
 BARBARA: That we have a measure of time as long as it lasts. Yes, of course. That explains the clock face. We had time taken away from us, and now it's being given back to us because it's running out.
+(The ship shakes)
 SUSAN: The column.
+(goes up and down once, with no sound)
 DOCTOR: But, it's impossible.
 IAN: Doctor, I thought it only moved when the power was on.
 DOCTOR: Yes. The heart of the machine is under the column.
@@ -369,6 +447,7 @@ IAN: Something outside?
 DOCTOR: Yes, possible.
 IAN: A magnetic force?
 DOCTOR: Well, it would have to be a gigantic one. A one as strong as a solar system.
+(Another bang and shake)
 BARBARA: You see? The machine's been warning us all along. All those blackouts we had.
 SUSAN: Yes. But only if anybody went near the control column.
 BARBARA: Yes.
@@ -377,7 +456,9 @@ DOCTOR: No, no, it couldn't. If you felt the power, dear boy, you wouldn't live 
 SUSAN: Besides, it's the part of it that's safe.
 BARBARA: Yes. The scanner. I wonder.
 DOCTOR: We'll try it, but we're clutching at straws. Come.
+(Another bang and shake)
 DOCTOR: Now, Susan, and you, young lady, should those doors open again, I want you to be standing by them, and tell me whatever it is you see outside, understand?
+(Susan and Barbara go to the door, the Doctor beckons Ian to him)
 DOCTOR: I lied, deliberately, so that they won't know.
 IAN: Won't know what?
 DOCTOR: We have five minutes only. When the end does come, they won't know anything about it.
@@ -386,8 +467,10 @@ DOCTOR: I can't see any. Will you face it with me?
 SUSAN: What are you two talking about?
 IAN: Oh, just a theory of mine that didn't work.
 DOCTOR: Yes, we must solve this problem, you know. We must.
+(The countryside picture is back on the scanner. The doors open onto a dazzling light)
 SUSAN: There's nothing there. Nothing. Nothing. Nothing but space.
 BARBARA: It's all right, Susan.
+(The scanner shows a jungle)
 IAN: Barbara could be right, Doctor.
 BARBARA: I am right. I know I am. Whenever there's a good picture, the doors open because it's safe for us to go outside. And then it shows us a terrible picture and the doors close again.
 DOCTOR: Yes, then we have the sequence. A planet, a planet in the solar system, getting further away. Blinding flash. Destruction. Yes, of course. It's our journey.
@@ -395,6 +478,7 @@ BARBARA: And the ship refused to destroy itself.
 DOCTOR: Yes. Yes!
 BARBARA: The defence mechanism stopped the ship, and it's been trying to tell us so ever since!
 DOCTOR: Of course. Of course!
+(Another big shake, and the lights dim)
 DOCTOR: I know. I know. I said it would take the force of a total solar system to attract the power away from my ship. We're at the very beginning, the new start of a solar system. Outside, the atoms are rushing towards each other. Fusing, coagulating, until minute little collections of matter are created. And so the process goes on, and on until dust is formed. Dust then becomes solid entity. A new birth, of a sun and its planets.
 IAN: But, Doctor, where are we? When we left the planet Skaro, where did you ask the machine to take us to? Think, Doctor!
 DOCTOR: I, er, had hoped to reach your planet Earth. Skaro was in the future and I used the fast return switch.
@@ -405,7 +489,7 @@ BARBARA: Really? But that's the part of the control that's safe.
 SUSAN: Yes.
 DOCTOR: Strange.
 IAN: Doctor, we haven't got very much time left.
-DOCTOR: Yes, I see. Here it is.  Here, you see? Now, look, there's the switch. You see?
+DOCTOR: Yes, I see. Here it is. (pulls a small torch from his pocket) Here, you see? Now, look, there's the switch. You see?
 IAN: Yes, well how does it work?
 DOCTOR: Well, you merely press it down, and. It's stuck. It hasn't released itself!
 IAN: What? You mean it's been on all this time?
@@ -416,6 +500,7 @@ IAN: What's wrong?
 DOCTOR: The spring's not connecting. It's come off the base.
 IAN: Hurry, Doctor, hurry.
 DOCTOR: There we are. Take it out. Now, luckily we can turn it over and now it should work. There. Ah, that's all right.
+(The lights come back and the Tardis returns to normal)
 SUSAN: We're safe now.
 BARBARA: Are you sure?
 DOCTOR: Yes, we can all relax. We're quite safe now. But it was a narrow squeak.
@@ -424,7 +509,7 @@ DOCTOR: Yes, my child?
 SUSAN: What happened?
 DOCTOR: What happened? It was the switch. It was still in place. You see, there's a little spring inside it and it was stuck. It hadn't released itself.
 SUSAN: But why didn't the fault locator tell us?
-DOCTOR: Well, the switch hadn't broken down, therefore the fault locator couldn't give us any recognition. You see, let me give you a demonstration.  Now, look, when I put my thumb on there, the light comes on. And it only stays on so long as my thumb is pressing that switch. As soon as I take if off, a little spring inside releases the switch here and out goes the light.
+DOCTOR: Well, the switch hadn't broken down, therefore the fault locator couldn't give us any recognition. You see, let me give you a demonstration. (using his torch) Now, look, when I put my thumb on there, the light comes on. And it only stays on so long as my thumb is pressing that switch. As soon as I take if off, a little spring inside releases the switch here and out goes the light.
 SUSAN: Oh, I see. So if the spring were broken, it would be as if your finger were pressing it down all the time.
 DOCTOR: Precisely. As simple as that. You know, my dear child, I think your old grandfather is going a tiny little bit around the bend. Well, I think you were very brave and I was proud of you.
 SUSAN: Grandfather? What about them? You said some terrible things to them. When I thought he was going to attack you, even I was against him.
@@ -432,7 +517,13 @@ DOCTOR: Yes, I, I, er, well
 IAN: Don't bother to say anything, Doctor. You know there are times when I can read every thought on your face.
 DOCTOR: Really? And I always thought that you were a young man without any recrimination in you. Well, as for you, young lady, well, you were absolutely right. It was your instinct and intuition against my logic, and you succeeded. I mean, the blackouts, and the still pictures and the clock. Well, you read a story into all these things and were determined to hold on to it. We all owe you our lives.
 BARBARA: I, I
+(Barbara leaves)
 DOCTOR: You know, I really believe I have underestimated that young lady in the past, Chartow. Well now, we can all start again, eh? Yes, we can. Yes. But which? Hmm? What are you laughing at, dear boy? Oh, really, you are
+(The Doctor mumbles to himself and starts the Tardis off on another journey)
+
+[Room]
+
+(Much later. Barbara is in day clothes and still sulking)
 DOCTOR: I'd like to talk to you, if I may. We've landed on a planet and the air is good, but it's rather cold outside.
 BARBARA: Susan told me.
 DOCTOR: Yes, you haven't forgiven me, have you.
@@ -450,15 +541,26 @@ SUSAN: Good.
 DOCTOR: Oh, by the way, Susan has left you some wearing apparel for outside. You know, we have a very extensive wardrobe here.
 BARBARA: Yes, she gave me these.
 DOCTOR: Yes, I think they're rather charming. We must look after you, you know. You're very valuable. Yes.
+(He helps her on with the coat, and offers his arm)
 DOCTOR: Shall we go?
+
+[Tardis]
+
+(Ian has donned an Ulster coat, and Susan is in boots and jacket)
 DOCTOR: Oh, good taste.
 IAN: Hello.
 BARBARA: Very chic.
 SUSAN: Look, snow!
+(And throws some at them. Barbara chases after her)
 DOCTOR: Well, I think that's absolutely splendid, Chesterton. Yes, it suits you.
 IAN: Yes.
 DOCTOR: Always a trifle too big for me. You know, I acquired that ulster from Gilbert and Sullivan.
 IAN: Oh, really? I thought it was made for two. Well, shall we join the ladies, Doctor?
 DOCTOR: Yes, why not.
-SUSAN : Grandfather, look.
+SUSAN [on scanner]: Grandfather, look.
+
+[Snowfield]
+
 SUSAN: Look at this huge footprint. It must have been made by a giant.
+
+
