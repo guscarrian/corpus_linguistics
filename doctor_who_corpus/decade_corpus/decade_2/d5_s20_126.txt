@@ -1,0 +1,856 @@
+Terminus
+Part One
+TURLOUGH: I'm scared. This place is like a maze. Where am I supposed to be going?
+GUARDIAN : Your function is to obey, not question.
+TURLOUGH: I may not have must time. I don't think they trust me, especially Tegan.
+GUARDIAN : The roundel behind you.
+GUARDIAN : That one. Open it.
+GUARDIAN : Operate the blue switches. Now you'll be able to remove the space-time element from beneath the console.
+TURLOUGH: Which switches will release the Tardis to my control?
+GUARDIAN : Do only as I say.
+TEGAN : Turlough!
+GUARDIAN : Quickly, close the roundel.
+TURLOUGH: Now what do I do?
+GUARDIAN : Go to the console room.
+TURLOUGH: And? Where have you gone?
+TEGAN: Who were you talking to?
+TURLOUGH: Oh, no one. I was singing. Not very well, I'm afraid.
+TEGAN: Why didn't you answer when I called?
+TURLOUGH: I'm very sorry, I didn't hear you.
+TEGAN: You're up to something, I can feel it.
+TURLOUGH: I'm simply looking around. The Tardis is so very large.
+TEGAN: What have you been doing? Have you touched anything?
+TURLOUGH: You look so sweet when you get angry.
+TEGAN: I'm being serious. What have you been doing?
+TURLOUGH: Nothing. You're being foolishly and unjustifiably suspicious. Tegan, why do you dislike me so much?
+TEGAN: You're unreliable.
+TURLOUGH: You hardly know me.
+TEGAN: I heard the way you were talking to the Doctor.
+TURLOUGH: Being friendly hardly makes me unreliable.
+TEGAN: It's the way you were doing it.
+TURLOUGH: Oh, you would prefer I used your sledgehammer tactics?
+TEGAN: At least I'm honest.
+TURLOUGH: Being rude isn't honest. Neither is overreacting. If I choose to smooth the way with a smile and a soft phrase, that doesn't make me unreliable. Charm, the way I use it, is to disagree agreeably.
+TEGAN: You were using it to deceive.
+TURLOUGH: Oh, you're so typical of your planet, reduced to shouting if you can't have your own way.
+TEGAN: I am not!
+TURLOUGH: No? You seem unable to grasp that there are other approaches. To smile before asking.
+TEGAN: Don't patronise me, Turlough.
+TURLOUGH: I'm simply relating what I think.
+TEGAN: Turning an argument around is something you're very good at.
+TURLOUGH: Listen to yourself. You're so concrete in the way you think. Why can't you just agree to differ?
+TEGAN: I think you're dangerous.
+TURLOUGH: I think we should try and be friends.
+TEGAN: I'm going to tell the Doctor about the roundel.
+TURLOUGH: Do so, but you'd only make a fool of yourself. I travel in the Tardis too, now. I have no desire to kill myself. I had no reason to open that roundel. Where are you going?
+TEGAN: To show you to your room.
+TURLOUGH: We're friends?
+TEGAN: Not yet.
+TURLOUGH: Looks like a kid's room.
+TEGAN: It was Adric's.
+TURLOUGH: Who?
+TEGAN: Doesn't matter.
+TURLOUGH: I've had enough of children, what with that awful school on Earth.
+TEGAN: You can change things if you want.
+TURLOUGH: Right, all this can go for a start.
+TEGAN: It's your room. Do what you like.
+TEGAN: He's got the manners of a pig.
+NYSSA: The Doctor?
+TEGAN: The brat, Turlough.
+NYSSA: He'll settle down.
+TURLOUGH: It's repaired itself.
+GUARDIAN : Concentrate. You have work to do.
+TEGAN: What are you doing?
+NYSSA: Synthesising an enzyme. I seem to need the practice.
+TEGAN: You've done it before.
+NYSSA: Adric did the calculation for me. My own figures aren't as good, as you can see.
+TEGAN: I'll see if I can find his notes, before Turlough destroys them.
+TURLOUGH: What will this do?
+GUARDIAN : You are touching the heart of the Tardis. Rip it free!
+TURLOUGH: What happens to me?
+GUARDIAN : You will be safe. I am ready to lift you away.
+TEGAN: Turlough?
+TEGAN: Turlough?
+TURLOUGH: It's stuck.
+GUARDIAN : Continue.
+TURLOUGH: I'm trying. It won't move.
+GUARDIAN : The break-up is beginning. I can sense it. Remove the space-time element!
+TEGAN : Turlough?
+TEGAN: Turlough? Oh, no. Doctor!
+DOCTOR: What is it?
+TEGAN: Quickly!
+TEGAN: What is it?
+DOCTOR: We're in trouble. I'll explain later.
+DOCTOR: What was Nyssa working on?
+TEGAN: Nothing that could have caused this.
+DOCTOR: The rotor's jamming. Well, there's a safety cut out.
+TURLOUGH: Is Nyssa safe?
+DOCTOR: Well, we'll see. I'm trying to refocus the exterior viewer on the interior of the Tardis.
+TEGAN: It's just a mess.
+DOCTOR: Dimensional instability, that's the danger. Nyssa!
+DOCTOR : Nyssa, can you hear me?
+NYSSA: Yes!
+DOCTOR : Stay well back. There's nothing you can do. Nyssa?
+TEGAN: What's that? I saw something just for a moment.
+DOCTOR: Oh, no. The outside universe is breaking through.
+TEGAN: Look!
+DOCTOR : Look behind you, Nyssa.
+DOCTOR: Go through, Nyssa. It's your only chance.
+TEGAN: Where are you sending her?
+DOCTOR: I don't know, but if she stays in the room, she'll die.
+DOCTOR: Nyssa, if you can hear me,
+DOCTOR : Keep moving. Keep moving, Nyssa. Stay ahead of it. If you don't, it will kill you.
+TEGAN: What's that?
+DOCTOR: I don't know.
+TURLOUGH: Where does that door lead to?
+DOCTOR: Another spacecraft.
+TEGAN: Look!
+TEGAN: Where did the other spacecraft come from?
+DOCTOR: The Tardis found it. There's a fail-safe. On impending break-up, it seeks out and locks onto the nearest spacecraft.
+TEGAN: You never mentioned it before.
+DOCTOR: Well, it never worked before.
+TEGAN: Well?
+DOCTOR: She's gone. Stay there.
+TEGAN: Nyssa's gone.
+TURLOUGH: What was that?
+TEGAN: The Doctor!
+TEGAN: Doctor? Doctor?
+GUARDIAN: Follow them.
+TURLOUGH: I can't.
+GUARDIAN: Follow, and kill him!
+TURLOUGH : Tegan?
+TURLOUGH: I wonder how that happened.
+TEGAN: It seems we have no choice. We go on.
+DOCTOR: What have I sent you into, Nyssa?
+TEGAN: Come on, we can catch up with the Doctor. Come on!
+DOCTOR: Nyssa.
+NYSSA: Doctor!
+NYSSA: Where are we?
+DOCTOR: I think it's some sort of old passenger liner.
+NYSSA: And those things?
+DOCTOR: Yes, well, some people have the strangest ideas about decor. Come on, let's get back to the Tardis.
+KARI: Check the air seal.
+OLVIR: Secure.
+TEGAN: I'm positive that was Nyssa calling.
+TURLOUGH: You heard something. Your imagination did the rest.
+TEGAN: Maybe.
+TURLOUGH: Let's go back.
+TEGAN: No!
+TURLOUGH: Oh, no.
+KARI: The whole ship's rigged to run on automatic, yet there's atmosphere. It doesn't fit the briefing at all.
+OLVIR: So what? We're only here for the cargo.
+KARI: Would it really surprise you if there weren't any? This ship is dead.
+DOCTOR: Ah. I don't remember this. We must have taken a wrong turn.
+NYSSA: What is it?
+DOCTOR: A massive plug. The hull must have been damaged at some time.
+NYSSA: It's still soft.
+DOCTOR: Yes, I know. Come on, we'll try, er, this way.
+KARI: Advance party to raider. We're coming back. This isn't the ship you described.
+OLVIR: We can't go back if he doesn't link with the airlock.
+DOCTOR : Er, this way.
+NYSSA: We're lost, aren't we.
+DOCTOR: Certainly not.
+DOCTOR: Oh, dear. So sorry, I didn't know it was private.
+KARI: That's all right. We're in the mood for company.
+VOICE : Help me.
+TURLOUGH: Over there.
+VOICE : Help me.
+TEGAN: That's Nyssa!
+OLVIR: Kill them. We've enough problems.
+KARI: Be quiet. If you're not members of the crew, how did you get here?
+DOCTOR: We have a ship of our own.
+OLVIR: So they're after the cargo, too.
+KARI: Are you?
+DOCTOR: Unarmed?
+OLVIR: Kari.
+KARI: Watch them.
+OLVIR: That's our ship! He's running out on us!
+KARI: Shut up.
+KARI: Advance party to raider. Come in, raider. Come in.  Is this your work?
+DOCTOR: Hardly.
+DOCTOR: Neither is that.
+TURLOUGH: Engines.
+VOICE : Please help me.
+TEGAN: Hold on, Nyssa. We must find something to lever the door open.
+TURLOUGH: Let's get out of here.
+TEGAN: Find a pry bar. Now!
+TEGAN : Turlough, it's moving!
+TURLOUGH: On my way.
+TEGAN : Turlough!
+TURLOUGH: I'm coming!
+TEGAN : Turlough!
+TEGAN: Turlough
+TEGAN: Help me!
+TURLOUGH: Are you all right? I found the doorway to the Tardis.
+TEGAN: Where?
+TURLOUGH: This way. Come on.
+NYSSA: Who are they?
+DOCTOR: Raiders, by the look of it. Probably an advance party to open the airlocks.
+KARI: You say you have a ship?
+DOCTOR: Yes.
+KARI: I'm commandeering it.
+DOCTOR: I think not.
+DOCTOR: Stop bluffing. You haven't got a chance. Listen to the engines. Alignment manoeuvres. We're docking with another ship.
+KARI: Then I'm asking you, will you take us off this ship?
+DOCTOR: If you put the guns away, please.
+DOCTOR: Thank you.
+TANNOY: All decks stand by. All decks stand by. This is a special announcement from Terminus Incorporated.
+DOCTOR: I think we should get out of here. Follow me.
+TANNOY: Primary docking alignment procedures are now complete. Passengers with mobility should prepare to disembark.
+TANNOY: Anyone failing to disembark will be removed. Sterilisation procedures will then follow.
+TANNOY: There is no return. This is Terminus.
+OLVIR: Wait a minute.
+KARI: Olvir?
+OLVIR: I know where we are.
+KARI: Where?
+TEGAN: They're everywhere.
+TURLOUGH: Give me a hand. Come on, quickly.
+OLVIR: Now we know, don't we? Now we know what its all about.
+OLVIR: This is Terminus, where all the lazars come to die.
+OLVIR : We're on a leper ship! We're all going to die!
+Part Two
+NYSSA: Lazars?
+DOCTOR: Whatever you do, don't let them touch you.
+DOCTOR: No! That would be mass slaughter.
+KARI: I thought they were going to attack us.
+DOCTOR: Look at them. I doubt if they can feed themselves, let alone fight.
+NYSSA: What about Olvir?
+KARI: He ran. Leave him.
+DOCTOR: No. I rather think he's got a lot to tell us.
+TURLOUGH: It's stuck.
+TEGAN: It can't be.
+TURLOUGH: It's those things walking over the grating.
+TEGAN: There must be another way out.
+TEGAN: This place is a death trap.
+KARI: What are the lazars doing here?
+DOCTOR: Dying. Some cargo you came to steal.
+NYSSA: Why did you choose this ship?
+KARI: It was a big liner from a rich sector. It looked like the perfect target, so we thought.
+DOCTOR: Indeed.
+DOCTOR: Now, what about Terminus? We must find Olvir.
+NYSSA: We could try the computer.
+TURLOUGH: Is there any way through?
+TEGAN: Solid.
+TURLOUGH: We'll have to go back.
+TEGAN: Wait. There's a ladder. This way.
+KARI: Hurry, Doctor. I want to get off this ship as soon as possible.
+DOCTOR: In a moment. Can you see any more computer blocks?
+NYSSA: I'll look.
+KARI: What precisely are you looking for?
+DOCTOR: Information about Terminus. There must be something here, the liner's just docked with it.
+NYSSA: Olvir?
+GUARDIAN : The Doctor still lives. You know the rewards for success. I have other rewards for your failure.
+TEGAN : Turlough?
+TURLOUGH: Coming.
+DOCTOR: Star charts.
+KARI: What's that in the middle?
+DOCTOR: Must be Terminus. Nyssa?
+NYSSA: Coming. Come and talk to the Doctor. We need your help. You know about Terminus.
+OLVIR: Kari's there.
+NYSSA: Yes?
+OLVIR: I'm supposed to be combat trained, and I ran away.
+NYSSA: I'm sure she'll understand.
+DOCTOR: What do you make of this?
+KARI: Not very much.
+OLVIR: Whatever you're planning, you can forget it, because we're dead. We're breathing in the disease at this very moment.
+KARI: You decided to come back.
+NYSSA: Please, we need his help.
+DOCTOR: Nyssa's right. How do you know about Lazar's disease?
+OLVIR: My sister died of it.
+DOCTOR: On Terminus?
+OLVIR: Yes. They supposedly offer a cure, but I've never met anyone who came back.
+DOCTOR: And you didn't try and find out why?
+OLVIR: From whom? A commercial company runs Terminus. They don't care about anything apart from their profit.
+NYSSA: How are they allowed to get away with it?
+OLVIR: They just play on irrational fear, just like the old plagues. They terrified people and this is no different. It isn't something you admit to.
+DOCTOR: What do you make of this?
+OLVIR: An expanded chart of the universe.
+DOCTOR: In all you heard about Terminus, was there ever any comment on its position?
+OLVIR: No, not that I recall.
+DOCTOR: There's something very strange about this.
+OLVIR: What?
+DOCTOR: Well, it could be pure coincidence, but Terminus seems to be at the exact centre of the known universe.
+TURLOUGH: I'm so unfit. Any luck?
+TEGAN: I can hear something.
+TEGAN: What was it?
+EIRAK: Sterilise.
+TURLOUGH: Come on.
+BOR: What's happening? The reading's still climbing.
+VALGARD: Bor! No, Bor!
+BOR: The reading's still climbing. I must find out what's happening.
+VALGARD: Eirak, Bor has just entered the Forbidden Zone.
+EIRAK: Oh, that's all we need.
+VALGARD: We must do something.
+EIRAK: I can't afford to send men after him.
+VALGARD: We must do something!
+EIRAK: This is my responsibility. To keep Terminus running.
+VALGARD: We can't just let him die.
+EIRAK: Valgard, we're all dying. Did Bor say anything before he entered the Zone?
+VALGARD: He muttered something about the readings.
+EIRAK: He'll be back, when he gets hungry or needs his Hydromel.
+DOCTOR: This could be useful. Plan of the ship.
+NYSSA: It's vast.
+DOCTOR: It's no wonder we got lost.
+KARI: Everybody down.
+NYSSA: What's happening?
+DOCTOR: Look.
+TANNOY: Attention. Preparations for departure will begin with stage one sterilisation. Unprotected personnel are advised to leave this liner immediately. No return will be permitted. This warning is final. Stage one sterilisation is now commencing.
+DOCTOR: We must get out of here.
+TURLOUGH: Now what?
+TEGAN: Back.
+TEGAN: Must be to do with the sterilising.
+KARI: Who was that voice talking to?
+OLVIR: A crew that doesn't exist.
+NYSSA: This is a layout of the ship. There are two ways back to where we think the Tardis is. We must go in two parties.
+TEGAN: We were lucky. It got vented away.
+NYSSA: I must rest.
+OLVIR: We can't. Come on.
+NYSSA: Please.
+OLVIR: All right then, but only for a moment. What's the matter?
+NYSSA: I'm ill.
+OLVIR: Oh. I'll get help.
+OLVIR: There's leak interference. There must be bad shielding on the engine somewhere.
+NYSSA: Look.
+OLVIR: Can you walk?
+NYSSA: I don't know. I feel, I feel as if I'm going to burst.
+OLVIR: Come on.
+NYSSA: What's wrong? Olvir, what's wrong?
+OLVIR: You're contaminated.
+TANNOY: Attention.
+TANNOY: All Lazars and any other personnel must disembark immediately. Stage two sterilisation is about to begin.
+NYSSA: No, please.
+TANNOY: All other must leave immediately.
+NYSSA: Olvir, help me.
+TANNOY: All Lazars must comply with the drones.
+NYSSA: Olvir!
+TANNOY: All Lazars must comply with the drones.
+NYSSA: Olvir!
+TURLOUGH: I feel sick.
+TEGAN: We haven't got time. Come on.
+SIGURD: What did Eirak say?
+VALGARD: He doesn't care about Bor.
+SIGURD: Get in there. Valgard, don't anger Eirak. He has great power.
+VALGARD: The only power he has is in the control of the Hydromel. Without that, we're all dead.
+SIGURD: Be careful.
+SIGURD: This one's in better condition than most.
+VALGARD: Not for much longer.
+VALGARD: Where's that drone with the Hydromel?
+SIGURD: I'll check.
+VALGARD: Well, hurry. They've started sterilising.
+NYSSA: Where are you taking me?
+VALGARD: They don't usually speak.
+NYSSA: I'm not one of the Lazars.
+VALGARD: Your appearance says otherwise.
+NYSSA: Are you doctors?
+VALGARD: Baggage handlers. We just receive and pass on.
+NYSSA: But I have to know what's happening.
+VALGARD: You'll be taken to the Garm. Thereafter, who knows? No one's ever come back from a meeting with him.
+SIGURD: Bitter sweet taste of life.
+NYSSA: Why do you wear armour?
+VALGARD: Radiation levels. What are you doing?
+NYSSA: I've cut my thumb. Look.
+SIGURD: The Garm awaits. There's no escape, not for you. All right, Valgard?
+VALGARD: Only my pride damaged.
+NYSSA: What is this horrendous place?
+DOCTOR: We can't have missed the door. There was a book lying on the floor.
+DOCTOR: Nyssa's skirt. There's blood on it. Call Olvir, quickly.
+TURLOUGH: Shush.
+TEGAN: What is it?
+TURLOUGH: It's the Doctor.
+EIRAK: Has anybody told the Garm to look out for Bor in the Forbidden Zone?
+SIGURD: Not yet.
+EIRAK: If he dies, we'll want his body back for the armour. Valgard, see to it at once.
+SIGURD: I'll see to the Lazar.
+VALGARD: Garm, can you hear me?
+VALGARD: One of the Vanir has entered the Forbidden Zone. If he has died, we must have his body back. You understand?
+VALGARD: And quickly!
+DOCTOR: More spots of blood. Try them again.
+KARI: There must be a radiation leak.
+DOCTOR: That's the wave pattern the Tardis homed in on.
+TURLOUGH: Doctor?
+TEGAN: Doctor! Doctor, we're here!
+TURLOUGH: Doctor!
+TEGAN: Doctor!
+TEGAN : Doctor, over here!
+DOCTOR: Someone's calling.
+KARI: Look.
+KARI: What is it?
+DOCTOR: Stage two sterilisation. Come on!
+KARI: Now where?
+DOCTOR: Down there.
+DOCTOR: The centre of the universe.
+TURLOUGH: He couldn't have heard us. We're going to get out of here even if we have to smash our way out.
+KARI: You realise that Nyssa and Olvir could have found the Tardis by now.
+DOCTOR: Then why don't they reply? Tell me. The star charts on the liner, do you think they were accurate?
+KARI: I don't know. They were probably
+DOCTOR: Let her go!
+VALGARD: Now it's your turn, only you I'm going to kill.
+Part Three
+DOCTOR: I'd appreciate some help.
+KARI: Is it a machine?
+DOCTOR: No. He's wearing radiation armour. Keep him covered.
+KARI: My power pack's dead.
+DOCTOR: Come on.
+DOCTOR: Let me have your radio.
+KARI: It's always the same pattern.
+DOCTOR: Well, at least the level's acceptable, for the time being. Come on.
+NYSSA: Are you in charge?
+EIRAK: Be quiet.
+NYSSA: Please listen.
+EIRAK: Shut the door.
+INGA: You'll get nothing out of them. They're not interested.
+NYSSA: I've got to make them understand.
+INGA: You can't even bribe them. The only thing they care about is Hydromel, the drug that keeps them alive.
+NYSSA: What are they going to do with us?
+INGA: Supposedly cure us, but I rather think they're going to let us die.
+SIGURD: Lazar assessment from tank three, Eirak.
+EIRAK: Coloured water. They must think we're fools. They've even reduced the size of the consignment.
+SIGURD: Why the cutback?
+EIRAK: Maybe our performance is down.
+SIGURD: But we process everyone who comes here. Why doesn't the Company send someone to see the conditions we work under?
+EIRAK: Maybe they already have. We are slaves. The Company doesn't need to tell us anything.
+VALGARD: Intruders. I saw two people down in the stockyard, a man and a girl. They went into the Forbidden Zone.
+EIRAK: Lazars?
+VALGARD: No. No, they were too fit. And they were armed.
+SIGURD: Agents from the Company.
+EIRAK: Why didn't you stop them?
+VALGARD: I tried.
+SIGURD: Why are they in the Forbidden Zone?
+EIRAK: The perfect place to hide. We never go there. As the Company has decided to cut back our supply of Hydromel, it is in our own interest to learn why. If the couple in the Forbidden Zone are from the Company, their knowledge is vital.
+VALGARD: How do we find them?
+EIRAK: Someone must go after them.
+VALGARD: Why don't you? You're supposed to be our honoured leader.
+EIRAK: I'm needed here.
+VALGARD: So you keep telling us, although I sometimes wonder whether we need you at all.
+SIGURD: Valgard!
+EIRAK: You think you could be better?
+VALGARD: Yes.
+EIRAK: All right, I'll make you an offer. Bring back the spies and I'll step down in your favour.
+VALGARD: I have your word on that?
+EIRAK: You have the Vanir as your witness. Think of it as a bet. If you're ambitious enough, you'll accept it.
+VALGARD: All right, agreed.
+EIRAK: Then go!
+SIGURD: He'll die in the Forbidden Zone.
+EIRAK: He hates me. He'll succeed.
+SIGURD: And you will give him what you say?
+EIRAK: Of course.
+INGA: There's no way out, just as there's no cure. It's hopeless.
+NYSSA: Tell me about the Forbidden Zone.
+INGA: You don't give up, do you.
+NYSSA: Tell me.
+INGA: I only know what I've heard. It's where the radiation's too strong for them, and where we're supposed to be cured.
+NYSSA: And what's the Garm?
+INGA: You'll find out soon enough.
+SIGURD: They're starting to move the Lazars. Tank three.
+OLVIR: I'll be down in a moment.
+SIGURD: I've just come from the equipment store. I think we have a third intruder.
+EIRAK: Excellent. Carry on with those.
+EIRAK: It seems Valgard's mission was unnecessary after all. Come on, we'll apprehend this one ourselves.
+DOCTOR: Why do the crew put up with such a radiation leak?
+KARI: It could be part of the cure.
+DOCTOR: Olvir said there wasn't one. So, why don't they repair it?
+KARI: They may not know how to.
+DOCTOR: Hmm. Radiation. Fallout. Now that's a thought.
+KARI: What?
+DOCTOR: Nothing. Just an idea worth pursuing.
+EIRAK: You. Turn around.
+EIRAK: You fool.
+SIGURD: But it spoke.
+EIRAK: Perhaps you're developing the Lazar disease.
+VALGARD: I'm going.
+EIRAK: It's hardly touched. Take her first, then.
+SIGURD: You.
+NYSSA: No. No, wait. Others are worse than me.
+EIRAK: The fit ones go first. Take her.
+NYSSA: No. No, please. No.
+DOCTOR: What is it?
+KARI: I can hear someone singing.
+TURLOUGH: Tegan.
+TEGAN: What?
+TURLOUGH: If ever you had to kill someone, could you do it? Could you?
+TEGAN: No. I don't know. If it was important, to save my friend, to defend myself.
+TURLOUGH: But cold-bloodedly?
+TEGAN: You're weird, Turlough. What a subject to bring up at a time like this. Come on, let's find the control room.
+GUARDIAN : You are a fool, boy.
+KARI: Who is it?
+DOCTOR: Well, he seems happy enough. Let's find out.
+KARI: No.
+DOCTOR: He's hurt. Hello, I'm the Doctor. Can I help?
+BOR: Most kind. Yes. A burden is a, er, something or other. Most kind. Thanks. This way.
+BOR: The cold ground. Rest in peace.
+TURLOUGH: Curious. What do you make of this?
+TEGAN: It's a map. Like one of those diagrams when they thought the Earth was at the centre of the universe.
+TURLOUGH: Hmm. Strange, isn't it.
+DOCTOR: Terminus entrance. At least we know where the radiation comes from.
+DOCTOR: Look at the damage. Easy now.
+BOR: Thank you. Most kind. Most kind. My name is, er, Bor. I. Haven't we met somewhere before?
+DOCTOR: Indeed. I'm the Doctor.
+BOR: Short term memory's the first to go.
+KARI: He needs a medic.
+BOR: Do you know anything about engines?
+DOCTOR: A little.
+BOR: I tried to pull down the control cables. I picked the wrong ones. Power lines. As I couldn't stop the radiation, I had to try and wall it in. Now things are even worse.
+DOCTOR: In what way?
+BOR: The whole lot's unstable. Know what would happen if one of those exploded? It'd be more than just a loud bang.
+DOCTOR: Chain reaction.
+BOR: Nothing in the universe would be safe.
+KARI: What?
+BOR: Did I tell you? One of the engines has already exploded.
+DOCTOR: When?
+BOR: No, oh, it was a long time ago. It's all in the computer. That one will go next. I didn't find out why until I followed the control cables.
+KARI: Why wasn't Terminus destroyed in the explosion?
+BOR: Terminus is protected.
+VALGARD: Tell them nothing, Bor. They're Company spies.
+BOR: Really? They seemed so friendly.
+VALGARD: You forget our last encounter. The power pack is exhausted. I'm taking you back, but not before I've beaten some respect into you.
+BOR: My wall!
+KARI: Doctor!
+NYSSA: Let me go. Please, please, let me go.
+SIGURD: Don't you want to be cured? This is for your own good.
+NYSSA: Please, let me go.
+SIGURD: At least, that's what I'm told.
+KARI: What's that?
+DOCTOR: Some sort of signal.
+DOCTOR: Come on.
+NYSSA: No! What is that thing?
+SIGURD: Your cure. The Garm's found Bor.
+BOR: Most kind.
+SIGURD: Let's get him to Eirak while he can still talk.
+OLVIR: Let's see that chain.
+NYSSA: No!
+OLVIR: It's me, Nyssa.
+NYSSA: Quickly! Quick.
+OLVIR: I can't, I'm not strong enough.
+NYSSA: Olvir! 
+KARI: What are you looking for now?
+DOCTOR: The control lines. The ones Bor said he followed.
+TURLOUGH: There must be a way to recreate the door we entered this ship by. Wait here.
+KARI: This is a complete waste of time. Bor doesn't know what he's talking about. He's suffering from radiation sickness.
+DOCTOR: Yes, you're right about the sickness. I want to find out what he discovered.
+KARI: Does it matter?
+DOCTOR: I think it could be rather important.
+SIGURD: Bor, can you hear me?
+BOR: Sigurd?
+SIGURD: Why did you do it? You knew you couldn't survive in the Forbidden Zone.
+BOR: Worth a try. The pilot's dead, you know.
+SIGURD: Pilot?
+BOR: Of Terminus.
+SIGURD: What?
+BOR: But he's still there. He's going to fire up the engines again and they won't take it and the big bang will happen all over again.
+EIRAK: Where's his helmet?
+SIGURD: He didn't have it. He's delirious. He needs Hydromel.
+EIRAK: There isn't any to spare.
+SIGURD: But he's dying.
+EIRAK: So why detain him?
+GUARDIAN : You have not destroyed the Doctor.
+TURLOUGH: I haven't found him yet.
+GUARDIAN : Kill the Doctor.
+TURLOUGH: I will, I will. I have a plan.
+GUARDIAN : You have nothing.
+TURLOUGH: I do! But I need to get back to the Tardis.
+GUARDIAN : Why?
+TURLOUGH: Trust me.
+TEGAN : Turlough!
+TURLOUGH: How do I recreate the door?
+GUARDIAN : Fail me again
+TURLOUGH: I won't, I promise.
+GUARDIAN : Then search for an emergency bypass switch.
+TURLOUGH: Where?
+GUARDIAN : You have skills. Use them. Look beneath your feet.
+TEGAN: What are you doing?
+TURLOUGH: Remember when we were underneath the floor? Well, I noticed something familiar. It's only just come to me what it was. Come on.
+DOCTOR: Terminus control.
+KARI: Look.
+NYSSA: Olvir!
+DOCTOR: Do you remember Bor saying one of the engines had exploded?
+KARI: Did he?
+DOCTOR: He was wrong. It didn't come to that. Look at this. Terminus was once capable of time travel.
+KARI: So?
+DOCTOR: Well, to push a ship of this size through time would require an enormous amount of energy.
+KARI: What are you getting at?
+DOCTOR: Well, think about what we've learnt. Terminus seems to be at the centre of the universe, yes? Now, imagine this ship in flight. Suddenly the pilot finds he has an enormous amount of unstable fuel on board. What would you do?
+KARI: Jettison it.
+DOCTOR: Perfectly normal procedure. Unfortunately, he ejects his fuel into a void.
+KARI: And it exploded.
+DOCTOR: Starting a chain reaction.
+KARI: How big?
+DOCTOR: Enormous. Biggest explosion of all time. Event One.
+KARI: The Big Bang?
+DOCTOR: Yes.
+KARI: It isn't possible.
+DOCTOR: A chemical reaction in a primeval swamp can create life on a planet. Why couldn't the universe be created by a similar chance factor, hmm?
+KARI: But exploding fuel in space? It's almost too simple.
+DOCTOR: It only appears simple because the circumstances were exactly right.
+KARI: Well, if what you're saying is right, why wasn't Terminus destroyed in the explosion?
+DOCTOR: Well, the pilot time-jumped the ship forward before realising how unstable the fuel was. The resulting shockwave must have caught up with him, boosting the ship billions of years into the future.
+KARI: Killing the pilot and damaging the second engine.
+DOCTOR: Yes.
+KARI: If there was a second explosion, would it have the same effect as the jettisoned fuel?
+DOCTOR: Not quite. Whereas the first explosion created the universe, the second would undoubtedly destroy it.
+TURLOUGH: There it is. Emergency bypass. We'll soon have that door open.
+TEGAN: Where's the light coming from?
+TURLOUGH: It's nothing.
+KARI: What's happening?
+DOCTOR: I don't know. Oh, no.
+KARI: What?
+DOCTOR: It wasn't the pilot's decision. The computer's just started an automatic sequence to jettison the unstable fuel. If we don't do something quickly, the whole universe will be destroyed.
+Part Four
+DOCTOR: We must stop the sequence.
+KARI: Do you know how?
+DOCTOR: Not yet.
+KARI: What, then?
+VALGARD: Where are the others?
+OLVIR: What?
+VALGARD: Spies!
+OLVIR: Oh, no. Nyssa!
+TEGAN: Are you all right?
+TURLOUGH: I think so.
+TEGAN: What happened?
+TURLOUGH: I don't know.
+TURLOUGH: Look!
+TEGAN: We must make it materialise fully.
+TURLOUGH: It won't move.
+TEGAN: Let me help. It's not going to defeat us now.
+VALGARD: I wouldn't. The radiation'll kill you. Get much closer and you're dead, unless you can get to a decontamination unit.
+OLVIR: You're lying.
+VALGARD: Please yourself, then, but in my day we were better trained.
+OLVIR: What?
+VALGARD: You're not from the Company. You're combat trained. Colonel Pereira, was it? The one they call the Chief?
+OLVIR: How do you know?
+VALGARD: Recognise the moves. Taught the same ones to me. I was with him for five tours, till he turned me in for the reward.
+OLVIR: And how did you get here?
+VALGARD: Slave labour. That's how Terminus works. You couldn't pay anyone enough to work here.
+OLVIR: Where are the guards?
+VALGARD: Don't need them. If we don't work, we don't get the Hydromel we need to stay alive. Help me, please. Oh, come on. Look at me. I'm a danger to no one. I'm finished. I'm dying.
+OLVIR: Where did that thing take Nyssa?
+VALGARD: Nyssa? Oh, is that her name? I've no idea. This is my first time in the Zone.
+OLVIR: Will he harm her?
+VALGARD: No. He's curing her. That's what he's here for.
+OLVIR: How can that thing cure anyone?
+VALGARD: Help me. I'll show you.
+OLVIR: I'll find her myself.
+VALGARD: Don't leave me.
+KARI: Why won't it move?
+DOCTOR: It's controlled by the computer, and the computer's uncontrollable.
+TEGAN: I don't think I've got any skin left on my hands.
+TANNOY: Primary ignition is now beginning. All systems running on test. Departure sequence is beginning now.
+TEGAN: What's happening?
+TURLOUGH: The liner's preparing to move.
+TEGAN: No, wait! You can't leave yet!
+TANNOY: All drones to designated assembly points. Countdown to secondary ignition follows.
+TEGAN: No!
+TURLOUGH: The ship's on automatic, Tegan. There's nothing you can do.
+TEGAN: I've got to try.
+TANNOY: Departure sequence is now underway. Countdown to docking disengagement now beginning.
+TANNOY: Preparing to blow clamps and withdraw all lines.
+TEGAN: Can anyone hear me?
+TANNOY: Countdown to primary burn is now underway.
+TEGAN: You must stop!
+TANNOY: Countdown to primary burn is now underway.
+TANNOY: Test mode on all systems is now disengaged.
+TANNOY: All systems operating within permitted tolerances.
+TEGAN: Shut up!
+TANNOY: Emergency, emergency. Launch abort. Launch abort.
+TEGAN: I don't believe it.
+TANNOY: Launch abort.
+TANNOY: Launch abort. Launch abort.
+KARI: How can this ship still be operational after all this time?
+DOCTOR: The technology here is phenomenal, unfortunately. There must be a way to reset that handle.
+KARI: He must have had the strength of a giant.
+DOCTOR: A giant.
+KARI: Of course.
+DOCTOR: The Garm.
+KARI: But will there still be enough time?
+DOCTOR: Well, we can only hope there is.
+GUARDIAN : The Doctor still lives.
+TURLOUGH: He's trapped. He's powerless, probably dead already.
+GUARDIAN : You represent a poor investment of my time and energy, and for such an investment there is only one course to follow.
+OLVIR: I'm unarmed. Can you understand me?
+GARM: Perfectly.
+OLVIR: Why are you doing this? You're torturing people.
+GARM: I draw the disease from them. All would die but most survive.
+OLVIR: And the last one you treated, Nyssa, did she survive?
+GARM: She is recovering.
+OLVIR: Where?
+GARM: Follow me.
+BOR: If only I could remember.
+SIGURD: Try to relax.
+BOR: It doesn't matter. In a couple of hours there won't even be a Terminus or a Company or anything. I found some information in a computer.
+SIGURD: What's going to happen?
+BOR: That's the trouble. I can't remember.
+SIGURD: But Bor, you must.
+BOR: Short term memory is always the first to go.
+SIGURD: Look, I'll get some Hydromel. There's a case of it through there.
+BOR: Eirak won't release any.
+SIGURD: Who said I was going to ask him?
+BOR: It really isn't worth the trouble, you know.
+DOCTOR: You ready?
+KARI: Call him.
+TEGAN: Turlough? Turlough?
+KARI: He's coming. What do we do now?
+DOCTOR: Let's just get into the control room. I'll do the rest.
+KARI: And if he won't cooperate?
+DOCTOR: We'll humour him. Right, let's go.
+KARI: It's not working.
+GARM: Deception is unnecessary. You have given the signal, I must obey.
+NYSSA: Olvir!
+OLVIR: Nyssa! You came through the cure.
+NYSSA: Just about.
+OLVIR: What happened?
+NYSSA: I was simply exposed to a massive dose of radiation. There's no proper diagnosis, no control, and this is supposed to be someone's idea of decontamination.
+OLVIR: Well, let's go. The sooner we can put Terminus behind us
+NYSSA: You don't understand. There must be thousands of people who've passed through here and think they're cured. It's all just hit and miss. No one cares.
+OLVIR: Let's go, Nyssa.
+NYSSA: Listen to me. The cure works, but it needs to be controlled, otherwise you just trade one killer for another. Radiation induced diseases that may take years to show.
+OLVIR: Let's just concentrate on getting away, shall we?
+NYSSA: It could all be changed.
+OLVIR: I've no doubt you're right, but we can argue your case later. Now come on, quickly.
+EIRAK: Who took it? Who took the signal box? Someone will suffer for this.
+DOCTOR: You understand what we need you to do?
+DOCTOR: I'd appreciate it if you'd hurry.
+GARM: Is this necessary?
+DOCTOR: If you can return the lever, I can disconnect the computer controlling it.
+GARM: And if I fail?
+DOCTOR: It's the end of the universe.
+BOR: Beginning of the end, boys.
+KARI: Nothing's happening.
+DOCTOR: It must. You must push harder. It's the only way.
+KARI: Please.
+KARI: It's working!
+DOCTOR: That's it!
+GARM: Have I served you well?
+DOCTOR: Indeed you have.
+GARM: Do something for me. Destroy the box. Set me free.
+DOCTOR: Rest. You've earned it. Come on.
+KARI: What now?
+DOCTOR: Disconnect the control lines to the engines.
+DOCTOR: Look, whoever you are, we haven't got time for
+VALGARD: Silence. Move.
+DOCTOR: You're taking a very narrow view of all this.
+NYSSA: It's the Doctor.
+VALGARD: I want to stay alive. If that's a narrow view, then you're right.
+DOCTOR: You're quite happy to see things go on as they are.
+VALGARD: Happy? This is Terminus. No one's happy here. Staying alive is all that counts.
+DOCTOR: Things could change.
+NYSSA: Over here!
+OLVIR: Here!
+KARI: Freeze!
+DOCTOR: Nyssa, I've been so worried.
+NYSSA: I'm fine. Doctor, I've made a fantastic discovery. The cure for Lazar disease works.
+DOCTOR: How do you know?
+NYSSA: Because I've been cured myself.
+OLVIR: It seems I was wrong.
+NYSSA: The system is far from safe.
+DOCTOR: Well, you think it could be?
+NYSSA: With the Garm's help, yes. It's only his lack of free will which has prevented him from doing anything about it.
+DOCTOR: Well, he has it now.
+VALGARD: She's sick. She doesn't know what she's talking about.
+NYSSA: With changes, Terminus could work, become a proper hospital.
+VALGARD: The Company isn't interested.
+NYSSA: Are you, though? And the other Vanir?
+VALGARD: Even if we were, it's not possible without Hydromel, and it's the Company who control that.
+NYSSA: But if you had an endless supply of it, you'd be free of their control, wouldn't you?
+BOR: Am I dead yet?
+SIGURD: No.
+BOR: Oh, funny, I could have sworn that. But still, it's a relief. I am hoping for something rather better on the other side. Sigurd
+SIGURD: Try to sleep.
+BOR: Sleep? It's all I can do to keep awake for more than a minute.
+SIGURD: Valgard!
+VALGARD: Shush. I've got some people with me.
+SIGURD: What's going on?
+VALGARD: Come in.
+DOCTOR: Where is it?
+VALGARD: Here.
+SIGURD: Now wait a minute.
+VALGARD: They say they can free us from the Company.
+SIGURD: You believe that?
+VALGARD: You know anybody harder to convince?
+DOCTOR: It's locked. Olvir, may I borrow your laser?
+SIGURD: Now if this is just some madcap scheme for getting back at Eirak, then you've got another thing coming.
+VALGARD: Wait.
+DOCTOR: You're the expert, what do you think?
+DOCTOR: Look, er, while we're sorting things out here, perhaps you'd be so good as to cut the control lines to the engines. I'd hate anyone to start the sequence manually.
+KARI: Of course. Come on.
+NYSSA: It's crude stuff, probably organic.
+DOCTOR: Think you can synthesise it?
+NYSSA: I might even improve on it.
+SIGURD: Well, how's this supposed to free us from the Company?
+NYSSA: Terminus Incorporated only control you because they supply you with Hydromel, but if you produced your own
+VALGARD: Here on Terminus.
+SIGURD: Is it possible?
+NYSSA: Of course.
+SIGURD: But the Company would send troops. They'd destroy us.
+NYSSA: With the current reputation Lazar disease has, would any sane soldier come here?
+VALGARD: Of course they wouldn't.
+SIGURD: I suppose not.
+NYSSA: Then help.
+SIGURD: All right. Why not?
+BOR: Oh, Sigurd.
+SIGURD: I'm with you.
+OLVIR: Are you sure these are the right cables?
+KARI: According to the Doctor.
+OLVIR: It's what you said about this ship. I'd hate to end the universe by mistake.
+KARI: Give me the gun.
+OLVIR: No, no, I'll, I'll do it. Just wanted to be certain.
+EIRAK: I want it found. Without the signal box we've got no control over the Garm.
+VALGARD: Pleased to see me? I want you to meet some people.
+DOCTOR: How do you do? I'm the Doctor, and this is Nyssa.
+EIRAK: All right, Valgard, what do you think you're doing?
+VALGARD: I think you owe me something.
+SIGURD: A small matter of your position here.
+VALGARD: If I bring back the intruders, your position is mine, remember? There he is.
+BOR: We all think it's time for a little chat.
+DOCTOR: Yes, well, before you start, perhaps one of you could show us the way to the damaged engine. There's still a great deal to be done.
+KARI: Terminus will never move again.
+OLVIR: Have you given any thought as to how we're going to get home?
+KARI: I'm about to.
+DOCTOR: It'll be good to see the Tardis again.
+NYSSA: And Tegan.
+DOCTOR: Yes, well, it'll be nice to know she's safe. Tegan!
+TEGAN: Doctor.
+DOCTOR: What are you doing?
+TEGAN: I was trying to reach you. Turlough went back to the Tardis on his own.
+DOCTOR: I told you not to follow me.
+NYSSA: Doctor, say you're pleased to see her.
+DOCTOR: Yes, well, I'm pleased to see her but she shouldn't have followed us.
+TEGAN: You don't understand.
+DOCTOR: Yes, well, we'll talk about it later. Valgard?
+TEGAN: Why does he never listen?
+NYSSA: He has a great deal to do.
+TEGAN: There always is.
+NYSSA: Tegan, I have to tell you something.
+DOCTOR: Now it's important you inform the authorities about what's been going on here. Make it impossible for Terminus Incorporated to retaliate. For example, you must make contact with the pick-up ship.
+VALGARD: What ship?
+DOCTOR: The one that takes the cured Lazars away. Well, the Garm will know all about it.
+VALGARD: We no longer have any control over him.
+DOCTOR: Then speak to him, win his confidence. You'll find him very agreeable.
+TEGAN: Doctor? Doctor, talk to Nyssa.
+DOCTOR: What is it?
+NYSSA: I'm not coming with you.
+DOCTOR: What?
+NYSSA: There's too much to be done here.
+TEGAN: Tell her she must.
+DOCTOR: Well, you can't stay. It isn't safe. Certainly not until the Vanir have sorted out how they're to run Terminus.
+NYSSA: And with my skills, I can help them.
+TEGAN: We need you, too.
+NYSSA: I've enjoyed every moment of my time on the Tardis, and I'll miss you both, but here I have a chance to put into practice the skills I learnt on Traken.
+TEGAN: Please, Nyssa.
+NYSSA: I'm adamant. Please, let us part in good faith.
+DOCTOR: You do fully understand the commitment you'll be undertaking?
+NYSSA: Yes.
+DOCTOR: And that life here will be very hard.
+NYSSA: I am fully aware of that, but I want to stay.
+DOCTOR: Then you're a very brave person. I wish you every luck.
+TEGAN: She'll die here.
+NYSSA: Not easily, Tegan. Like you, I'm indestructible.
+GUARDIAN : Turlough. Can you hear me?
+TURLOUGH: What?
+GUARDIAN : The Doctor is returning.
+TURLOUGH: I feel ill.
+GUARDIAN : This is your last chance, boy.
+TURLOUGH: What did you do to me?
+GUARDIAN : You will recover.
+TURLOUGH: I can't go on. Kill the Doctor yourself. Blame me for it, I don't care. I can't do it.
+GUARDIAN : You have little choice.
+DOCTOR : Turlough? Turlough!
+GUARDIAN : He's coming, boy. This is your last chance. I shall not say that again. Kill the Doctor!

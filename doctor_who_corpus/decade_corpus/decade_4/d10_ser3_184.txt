@@ -1,0 +1,524 @@
+42
+DOCTOR: Right, there we go. Universal roaming. Never have to worry about a signal again.
+MARTHA: No way. This is too mad. You're telling me I can phone anyone, anywhere in space and time on my mobile?
+DOCTOR: As long as you know the area code. Frequent flier's privilege. Go on, try it.
+DOCTOR: Distress signal. Locking on. Might be a bit of
+DOCTOR: Turbulence. Sorry. Come on, Martha. Let's take a look.
+COMPUTER: Distress signal transmitted.
+DOCTOR: Whoa, now that is hot.
+COMPUTER: Automated distress signal transmitted.
+MARTHA: Whuff, it's like a sauna in here.
+DOCTOR: Venting systems. Working at full pelt, trying to cool down. Wherever it is we are. Well, if you can't stand the heat
+RILEY:  Oi, you two!
+McDONNELL:  Get out of there!
+RILEY: Seal that door, now!
+McDONNELL: Who are you? What are you doing on my ship?
+RILEY: Are you police?
+DOCTOR: Why would we be police?
+MARTHA: We got your distress signal.
+DOCTOR: If this is a ship, why can't I hear any engines?
+McDONNELL: It went dead four minutes ago.
+SCANNELL: So maybe we should stop chatting and get to Engineering. Captain.
+COMPUTER: Secure closure active.
+McDONNELL: What?
+SCANNELL: The ship's gone mad.
+ERINA: : Who activated secure closure? I nearly got locked in to area twenty seven.
+ERINA: Who are you?
+MARTHA: He's the Doctor and I'm Martha. Hello.
+COMPUTER: Impact projection forty two minutes twenty seven seconds.
+McDONNELL: We'll get out of this. I promise.
+MARTHA: Doctor.
+DOCTOR: Forty two minutes until what?
+MARTHA: Doctor! Look.
+McDONNELL: Forty two minutes until we crash into the sun.
+DOCTOR: How many crew members on board?
+McDONNELL: Seven, including us.
+SCANNELL: We transport cargo across the galaxy. Everything's automated. We just keep the ship spaceworthy.
+DOCTOR: Call the others, I'll get you out.
+RILEY: What's he doing?
+McDONNELL: No, don't!
+DOCTOR: But my ship's in there!
+RILEY: In the vent chamber?
+DOCTOR: It's our lifeboat.
+SCANNELL: It's lava.
+ERINA: The temperature's going mad in there. Up three thousand degrees in ten seconds, and still rising.
+RILEY: Channelling the air. The closer we get to the sun, the hotter that room's going to get.
+MARTHA: We're stuck here.
+DOCTOR: So, we fix the engines, we steer the ship away from the sun. Simple. Engineering down here, is it?
+McDONNELL: Yes.
+COMPUTER: Impact in forty twenty six.
+DOCTOR: Blimey, do you always leave things in such a mess?
+McDONNELL: Oh, my God.
+SCANNELL: What the hell happened?
+RILEY: Oh, it's wrecked.
+DOCTOR: Pretty efficiently too. Someone knew what they were doing.
+McDONNELL: Where's Korwin? Has anyone heard from him or Ashton?
+SCANNELL: No.
+MARTHA: You mean someone did this on purpose?
+McDONNELL: Korwin, Ashton? Where are you? Korwin, can you answer? Where the hell is he? He should be up here.
+DOCTOR: Oh, we're in the Torajii system. Lovely. You're a long way from home, Martha. Half a universe away.
+MARTHA: Yeah. Feels it.
+DOCTOR: And you're still using energy scoops for fusion? Hasn't that been outlawed yet?
+McDONNELL: We're due to upgrade next docking. Scannell, engine report.
+SCANNELL: No response.
+McDONNELL: What?
+SCANNELL: They're burnt out. The controls are wrecked. I can't get them back online.
+DOCTOR: Oh, come on. Auxiliary engines. Every craft's got auxiliaries.
+McDONNELL: We don't have access from here. The auxiliary controls are in the front of the ship.
+SCANNELL: Yeah, with twenty nine password sealed doors between us and them. You'll never get there in time.
+MARTHA: Can't you override the doors?
+SCANNELL: No. Sealed closure means what it says. They're all dead-lock sealed.
+DOCTOR: So a sonic screwdriver's no use.
+SCANNELL: Nothing's any use. We've got no engines, no time, and no chance.
+DOCTOR: Oh, listen to you. Defeated before you've even started. Where's your Dunkirk spirit? Who's got the door passwords?
+RILEY: They're randomly generated. Reckon I know most of them. Sorry. Riley Vashti.
+DOCTOR: Then what're you waiting for, Riley Vashti? Get on it.
+RILEY: Well, it's a two person job. One, a technish for the questions, and the other to carry this. The oldest and cheapest security system around, eh, Captain?
+McDONNELL: Reliable and simple, just like you, eh, Riley?
+RILEY: Try and be helpful, get abuse. Nice.
+MARTHA: I'll help you. Make myself useful.
+RILEY: It's remotely controlled by the computer panel. That's why it needs two.
+DOCTOR: Oi. Be careful.
+MARTHA: You too.
+ASHTON : McDonnell. It's Ashton.
+McDONNELL: Where are you? Is Korwin with you?
+ASHTON : Get up to the med-centre now!
+COMPUTER: Impact in thirty four thirty one.
+KORWIN: Argh! Stop it!
+ABI: Korwin, it's Abi. Open your eyes, I need to take a look at you.
+McDONNELL: Korwin! What's happened? Is he okay?
+KORWIN: Help me! It's burning me!
+DOCTOR: How long's he been like this?
+ABI: Ashton just brought him in.
+McDONNELL: What are you doing? 
+DOCTOR: Don't get too close.
+McDONNELL: Don't be so stupid. That's my husband.
+ASHTON: And he's just sabotaged our ship.
+McDONNELL: What?
+ASHTON: He went mad. He put the ship onto secure closure, then he set the heat pulse to melt the controls.
+McDONNELL: No way. He wouldn't do that.
+ASHTON: I saw it happen, Captain.
+DOCTOR: Korwin? Korwin, open your eyes for me a second.
+KORWIN: I can't!
+DOCTOR: Yeah, course you can. Go on.
+KORWIN: Don't make me look at you, please.
+DOCTOR: All right, all right, all right. Just relax. Sedative?
+ABI: Yes.
+McDONNELL: What's wrong with him?
+DOCTOR: Rising body temperature, unusual energy readings. Stasis chamber. I do love a good stasis chamber. Keep him sedated in there. Regulate the body temperature. And, just for fun, run a bioscan and tissue profile on a metabolic detail.
+ABI: Just doing them now.
+DOCTOR: Oh, you're good. Anyone else presenting these symptoms?
+ABI: Not so far.
+DOCTOR: Well, that's something.
+McDONNELL: Will someone tell me what is the matter with him?
+DOCTOR: Some sort of infection. We'll know more after the test results. Now, allons-y, back downstairs. Hey. See about those engines. Go. Hey. Go.
+DOCTOR: Call us if there's news. Any questions?
+ABI: Yeah. Who are you?
+DOCTOR: I'm the Doctor.
+COMPUTER: Heat shield failing. At twenty-five percent. Impact in thirty two fifty.
+MARTHA: Hurry up, will you?
+RILEY: All right. Fix the clamp on.
+MARTHA: What are you typing?
+RILEY: Each door's trip code is the answer to a random question set by the crew. Nine tours back, we got drunk, thought them up. Reckoning was, if we're hijacked, we're the only ones who know all the answers.
+MARTHA: So you type in the right answer
+RILEY: This sends an unlock pulse to the clamp. But we only get one chance per door. Get it wrong, the whole system freezes.
+MARTHA: Better not get it wrong then.
+RILEY: Okay. Date of SS Pentallian's first flight. That's all right. Go!
+MARTHA: Yes!
+RILEY: Twenty eight more to go!
+DOCTOR : Abi, how's Korwin doing? Any results from the bio-scan?
+ABI: He's under heavy sedation. I'm just trying to make sense of this data. Give me a couple of minutes and I'll let you know.
+DOCTOR: Martha? Riley? How're you doing?
+MARTHA: Area twenty nine
+MARTHA : At the door to twenty eight.
+DOCTOR: Yeah, you've
+DOCTOR : Got to move faster.
+MARTHA: We're doing our best. 
+RILEY: Find the next number in the sequence three one three
+RILEY : Three three one, three six seven.
+RILEY: What?
+MARTHA: You said the crew knew all the answers.
+RILEY: The crew's changed since we set the questions.
+MARTHA: You're joking.
+DOCTOR: Three seven nine.
+MARTHA : What?
+DOCTOR: It's a sequence of
+DOCTOR : Happy primes. Three seven nine.
+MARTHA: Happy what?
+DOCTOR: Just enter it.
+RILEY: Are you sure? We only get one chance.
+DOCTOR: Any number that reduces to one when you take the sum of the square of its digits
+DOCTOR : And you continue iterating until it yields one is a happy number.
+DOCTOR: Any number that doesn't, isn't. A happy prime is a number that is both happy and prime. Now type it in! I don't know, talk about dumbing down! Don't they teach recreational mathematics any more?
+MARTHA: We're through!
+DOCTOR : Keep moving, fast as you can.
+DOCTOR: And, Martha, be careful.
+DOCTOR : There may be something else on board this ship.
+MARTHA: Any time you want to unnerve me, feel free.
+DOCTOR: Will do, thanks.
+COMPUTER: Impact in thirty fifty.
+MARTHA: I can't believe our lives depend on some stupid pub quiz. Is that the next one?
+RILEY: Oh, this is a nightmare. Classical music. Who had the most pre-download number ones, Elvis Presley or The Be-atles? How are we supposed to know that?
+DOCTOR: We need a backup in case they don't reach the auxiliary engines in time. Come on, think. Resources. What have we got?
+MARTHA : Doctor?
+DOCTOR: What is it now?
+MARTHA: Who had the most number ones, Elvis
+MARTHA : Or the Beatles. That's pre-download.
+DOCTOR: Elvis.
+DOCTOR : No! The Beatles!
+DOCTOR: No! Wait! Er, er. Oh, what was that remix? Er, I don't know. I am a bit busy.
+MARTHA: Fine. I'll ask someone else.
+DOCTOR: Now, where was I? Here comes the sun. No, resources. So, the power's still working, the generator's going. If we can harness that. Ah!
+McDONNELL: Use the generator to jump-start the ship.
+DOCTOR: Exactly. At the very least, it'll buy us some more time.
+McDONNELL: That is brilliant.
+DOCTOR: I know. See? Tiny glimmer of hope.
+SCANNELL: If it works.
+McDONNELL: Oh, believe me. You're going to make it work.
+DOCTOR: That told him.
+COMPUTER: Impact in twenty nine forty six.
+FRANCINE: Hello?
+MARTHA : Mum? It's me.
+MARTHA: It's Martha. Wow!
+FRANCINE : Where are you?
+FRANCINE: Don't you check your messages? I've been calling you.
+MARTHA: Actually, a bit busy. Need you to do something
+MARTHA : For me.
+FRANCINE: No, listen to me.
+FRANCINE: We have to talk
+FRANCINE : About this Doctor.
+MARTHA: Mum, please, not now. I need you to look something up on the internet.
+FRANCINE: Do it yourself. You've got a computer.
+MARTHA: Oh, just do it, will you? Please.
+FRANCINE: When did you get so rude? I'll tell you when. Ever since you met that man.
+MARTHA: I need to know who had more number ones.
+MARTHA: The Beatles or Elvis?
+FRANCINE: Hang on, the mouse is unplugged. Okay, I'm on.
+FRANCINE : What is this, a pub quiz?
+MARTHA: Yeah, a pub quiz.
+FRANCINE: Using your mobile is cheating.
+MARTHA: Have you found it?
+FRANCINE : There's over four hundred thousand results. Give me a minute.
+COMPUTER: Impact in twenty eight fifty.
+ABI: Doctor, these readings are starting to scare me.
+DOCTOR: What do you mean? 
+ABI : Well, Korwin's body's changing. His whole biological make-up.
+ABI: It's impossible.
+ABI: This is Med-centre. Urgent assistance requested.
+ABI : Urgent assistance!
+DOCTOR: Stay here! Keep working!
+ABI: Urgent assistance!
+ERINA: Abi, they're on their way.
+ABI: What's happening to you?
+KORWIN: Burn with me.
+KORWIN : Burn with me.
+SCANNELL: Captain?
+DOCTOR: I told you to stay in Engineering.
+SCANNELL: I only take orders form one person round here.
+DOCTOR: Oh, is he always this cheery?
+FRANCINE: Elvis.
+MARTHA: What? Really. Elvis.
+KORWIN: Burn with me.
+ABI: Korwin, you're sick.
+KORWIN: Burn with me!
+MARTHA: Mum, you're a star!
+FRANCINE: Now, we need to have a serious
+FRANCINE: What was that?
+MARTHA: I've got to go.
+MARTHA: Doctor, what were those screams?
+DOCTOR: Concentrate on those doors. You've got to keep moving
+DOCTOR : Forward.
+COMPUTER: Impact in twenty seven oh six.
+McDONNELL: Korwin's gone.
+SCANNELL: Oh, my God.
+SCANNELL: Tell me that's not Lerner. 
+DOCTOR: Endothermic vaporisation. I've never seen one this ferocious. Burn with me.
+SCANNELL: That's what we heard Korwin say.
+McDONNELL: What? Do you think? No way. Scannell, tell him. Korwin is not a killer. He can't vaporise people. He's human!
+DOCTOR: His bioscan results. Internal temperature, one hundred degrees! Body oxygen replaced by hydrogen. Your husband hasn't been infected, he's been overwhelmed.
+McDONNELL: The test results are wrong.
+DOCTOR: But what is it, though? A parasite? A mutagenic virus? Something that needs a host body, but how did it get inside him?
+McDONNELL: Stop talking like he's some kind of experiment.
+DOCTOR: Where's the ship been? Have you made planet-fall recently? Docked with any other vessels? Any kind of external contact at all?
+McDONNELL: What is this, an interrogation?
+DOCTOR: We've got to stop him before he kills again.
+McDONNELL: We're just a cargo ship.
+SCANNELL: Doctor, if you give her a minute.
+McDONNELL: I'm fine. I need to warn the crew. Everybody, listen to me. Something has infected Korwin. We think he killed Abi Lerner. None of you must go anywhere near him, is that clear?
+ASHTON: Understood, Captain. Erina? Get back here with that equipment.
+ERINA: Whatever you say, boss. Go there. Come back. Fetch this. Carry these. Make drinks. Sweep up. Please, kill me now.
+KORWIN: Burn with me. Burn with me.
+COMPUTER: Impact in twenty four fifty one.
+McDONNELL: Is the infection permanent? Can you cure him?
+DOCTOR: I don't know.
+McDONNELL: Don't lie to me, Doctor. Eleven years we've been married. We chose this ship together. He keeps me honest, so I don't want false hope.
+DOCTOR: The parasite's too aggressive. Your husband's gone. There's no way back. I'm sorry.
+McDONNELL: Thank you.
+DOCTOR: Are you certain nothing happened to provoke this? Nobody's working on anything secret? Because it's vital that you tell me.
+McDONNELL: I know every inch of this ship. I know every detail of my crew's lives. There is nothing.
+DOCTOR: Then why is this thing so interested in you?
+McDONNELL: I wish I knew.
+MARTHA : Doctor, we're through to area seventeen.
+DOCTOR : Keep going.
+DOCTOR : You've got to get to area one and reboot those engines.
+ASHTON: You got those tools, Erina? Because I
+ 
+ASHTON: Whoa!
+ASHTON: Korwin, it's me. We're mates.
+KORWIN: They are getting too far. We must share the light.
+COMPUTER: Heat shields failing. At twenty percent.
+RILEY: Come on!
+RILEY: Everything on this ship is so cheap. 
+RILEY: Who's there?
+MARTHA: Is that Korwin?
+RILEY: No, wait a minute. 
+RILEY: Oh, Ashton, what're you doing?
+ASHTON: Burn with me.
+RILEY: Well, if you want to help
+ASHTON: Burn with me. Burn with me. 
+MARTHA: Move! Come on!
+RILEY: What is happening on this ship?
+MARTHA: Never mind that, where are we?
+COMPUTER: Airlock sealed. Jettison escape pod.
+MARTHA: That doesn't mean us? Doctor!
+COMPUTER: Pod jettison initiated.
+MARTHA: Doctor! We're stuck in an escape pod off the area seventeen airlock.
+MARTHA : One of the crew's trying to jettison us! You've got to help us!
+MARTHA: Tell me you can stop it.
+McDONNELL: Why is this happening?
+DOCTOR: Stay here. I mean it this time! Jump start those engines!
+McDONNELL: It's picking us off, one by one.
+COMPUTER: Jettison held.
+RILEY: Thank you.
+COMPUTER: Jettison reactivated.
+RILEY: Come on.
+RILEY: Tsilpinski sequence. This'll get him.
+COMPUTER: Jettison held. Escape pod stabilised.
+MARTHA: You're pretty good.
+McDONNELL: Ashton!
+SCANNELL: Someone's hacked into the systems. I can't reroute the generators. There's no way I'm going to be able to jump-start this ship! Who the hell did that!
+McDONNELL: Korwin? What are you? Why are you killing my crew? What did you do to him? What have you done to my husband?
+McDONNELL: You recognise me. Korwin, you know me. It's Kath. Your wife.
+KORWIN: My wife.
+McDONNELL: That's right. You're still in there. I'm your wife.
+KORWIN: It's your fault.
+DOCTOR: That's enough! What do you want? Why this ship? Tell me.
+COMPUTER: Jettison activated.
+RILEY: He's smashed the circuit. I can't stop it. I can't stop it!
+McDONNELL: What do you mean, it's my fault?
+KORWIN: It's your fault. Now burn with me!
+McDONNELL: What are you doing?
+SCANNELL: Freezing him. Ice vents.
+McDONNELL: You'll kill him!
+DOCTOR: Come on. Let's see you. I want to know what you really are.
+COMPUTER: Airlock sealed.
+DOCTOR: McDonnell? Ashton's heading in your direction.
+DOCTOR  He's been infected, just like Korwin!
+SCANNELL: Korwin's dead, Doctor.
+MARTHA: This thing's locked!
+COMPUTER: Airlock decompression completed. Jettisoning pod.
+MARTHA: Doctor!
+DOCTOR: I'll save you!
+RILEY: Martha, it's too late.
+MARTHA: Doctor!
+DOCTOR: I'll save you!
+MARTHA: I can't hear you!
+DOCTOR : I'll save you!
+MARTHA: I'm sorry.
+COMPUTER: Impact in seventeen oh five.
+SCANNELL: What did he mean, your fault? What are you doing? Don't touch him. He's infected. We don't know how it spreads.
+McDONNELL: You murdered him!
+SCANNELL: He was about to kill you.
+McDONNELL: He recognised me.
+SCANNELL: You heard the Doctor. It� it isn't Korwin anymore.
+McDONNELL: The Doctor doesn't know. None of us knows!
+SCANNELL: So what are you going to do, sit there until we burn? Because without you none of us stand a chance of getting out of here.
+DOCTOR : Scannell! I need a spacesuit in area seventeen now!
+SCANNELL: What for?
+DOCTOR: Just get down here!
+McDONNELL: Well, go on. Do what he says.
+SCANNELL: Ashton's still out there.
+McDONNELL: I'll deal with him.
+RILEY: The wonderful world of space travel. The prettier it looks, the more likely it is to kill you.
+MARTHA: He'll come for us.
+RILEY: No, it's too late. Our heat shields will pack in any minute, and then we go into free fall. We'll fall into the sun way before he has a chance to do anything.
+MARTHA: You don't know the Doctor. I believe in him.
+RILEY: Then you're lucky. I've never found anyone worth believing in.
+MARTHA: No girlfriend? Boyfriend?
+RILEY: The job doesn't lend itself to stable relationships.
+MARTHA: Family, then?
+RILEY: My dad's dead, and I haven't seen my mum in six years. She didn't want me to sign up for cargo tours. Things were said, and since then, all silent. She wanted to hold on to me, I know that. Oh, she's so stubborn.
+MARTHA: Yeah, well, that's families.
+RILEY: What about you?
+MARTHA: Full works. Mum, Dad, Dad's girlfriend, brother, sister. No silence there. So much noise. Oh, God! They'll never know! I, I'll just have disappeared, and they'll always be waiting.
+RILEY: Call them.
+McDONNELL : Ashton.
+SCANNELL: I can't let you do this.
+DOCTOR: You're wasting your breath, Scannell. You're not going to stop me.
+SCANNELL: You want to open an airlock in flight on a ship spinning into the sun. No one can survive that.
+DOCTOR: Oh, just you watch.
+SCANNELL: You open that airlock, it's suicide. This close to the sun, the shields will barely protect you.
+DOCTOR: If I can boost the magnetic lock on the ship's exterior, it should remagnetise the pod. Now, while I'm out there, you have got to get the rest of those doors open. We need those auxiliary engines.
+SCANNELL: Doctor, will you listen! They're too far away. It's too late.
+DOCTOR: I'm not going to lose her.
+COMPUTER: Decompression initiated. Impact in twelve fifty five.
+FRANCINE: Hello. 
+MARTHA : It's me again.
+MARTHA: Sorry about earlier.
+FRANCINE : Is everything all right?
+MARTHA: Yeah. Of course.
+FRANCINE: Martha?
+MARTHA: Mum, I. you know I love you, don't you?
+FRANCINE: Of course I do. What's bought this on?
+MARTHA: I never say it. I never get the time. I never think of it, and then
+MARTHA : I really love you. Tell Dad, Leo and Tish that I love them.
+FRANCINE: Martha, what's wrong?
+MARTHA : Nothing. I promise.
+FRANCINE: Where are you?
+MARTHA : Just out.
+FRANCINE: With anyone nice?
+MARTHA: Some mates.
+FRANCINE : What mates?
+MARTHA: Mum, can we not just talk?
+FRANCINE: Of course. What do you want to talk about?
+MARTHA: I don't know. Anything! What you had for breakfast. What you watched on telly last night. How much you're going to kill Dad next time you see him. Just anything.
+FRANCINE: Is the Doctor with you? Is he there, now?
+MARTHA: Mum, just leave it.
+FRANCINE : It's a simple enough question.
+MARTHA: I'd better go.
+FRANCINE: Er, no, Martha, wait.
+MARTHA: See you, Mum.
+COMPUTER: Impact in eleven fifteen. Heat shield failing. At ten percent.
+DOCTOR: Come on! Go on, my son!
+SCANNELL : Doctor, how're you doing?
+DOCTOR: I can't, I can't reach! I don't know how much longer I can last.
+SCANNELL: Come on. Don't give up now.
+RILEY: We're being pulled back!
+MARTHA: I told you! It's the Doctor!
+DOCTOR: It's alive. It's alive. It's alive!
+SCANNELL: Doctor, close the airlock now! That pod's going to smash into him.
+McDONNELL: Stay here.
+COMPUTER: Impact in eight fifty seven.
+COMPUTER: Airlock recompression completed.
+MARTHA: Doctor! Doctor! Are you okay?
+DOCTOR: Stay away from me!
+McDONNELL: What's happened?
+DOCTOR: It's your fault, Captain McDonnell!
+McDONNELL: Riley, get down to area ten and help Scannell with the doors. Go!
+DOCTOR: You mined that sun. Stripped its surface for cheap fuel. You should have scanned for life!
+McDONNELL: I don't understand.
+MARTHA: Doctor, what are you talking about?
+DOCTOR: That sun is alive. A living organism. They scooped out its heart, used it for fuel, and now it's screaming!
+McDONNELL: What do you mean? How can a sun be alive? Why is he saying that?
+DOCTOR: Because it's living in me.
+McDONNELL: Oh, my God.
+DOCTOR: Humans! You grab whatever's nearest and bleed it dry! You should have scanned!
+McDONNELL: It takes too long. We'd be caught. Fusion scoops are illegal.
+DOCTOR: You've got to freeze me, quickly.
+MARTHA: What?
+DOCTOR: Stasis chamber. You've got to take it below minus two hundred. Freeze it out of me! It'll use me to kill you if you don't. The closer we get to the sun, the stronger it gets! Med-centre, quickly! Quickly!
+MARTHA: Help me!
+COMPUTER: Impact in seven thirty.
+SCANNELL: What's your favourite colour?
+RILEY: You what?
+SCANNELL: It's the question.
+RILEY: Purple! Or did I say orange?
+SCANNELL: Come on!
+MARTHA: I can do it!
+DOCTOR: Martha, where are you?
+MARTHA: It's all right, I'm here. Just help me get him up. Stasis chamber, minus two hundred, yeah?
+McDONNELL: No, you don't know how this equipment works. You'll kill him. Nobody can survive those temperatures.
+MARTHA: He's not human. If he says he can survive, then he can.
+McDONNELL: Let me help you, then.
+MARTHA: You've done enough damage.
+DOCTOR: Ten seconds. That's all I'll be able to take. No more. Martha!
+MARTHA: Yeah?
+DOCTOR: It's burning me up. I can't control it. If you don't get rid of it, I could kill you. I could kill you all. I'm scared! I'm so scared!
+MARTHA: Just stay calm. You saved me, now I return the favour. Just believe in me.
+DOCTOR: It's burning through me. Then what'll happen?
+MARTHA: That's enough! I've got you.
+DOCTOR: There's this process, this thing that happens if I'm about to die.
+MARTHA: Shush. Quiet now. Because that is not going to happen. Are you ready?
+DOCTOR: No.
+COMPUTER: Heat shields failing. At five percent. 
+DOCTOR: No! Martha, you can't stop it. Not yet.
+MARTHA: What happened?
+McDONNELL: Power's been cut in Engineering.
+MARTHA: But who's down there?
+McDONNELL: Leave it to me.
+COMPUTER: Impact in four forty seven.
+SCANNELL: Are we going to do it in time?
+MARTHA: Come on. You're defrosting.
+DOCTOR: Martha, listen! I've only got a moment. You've got to go!
+MARTHA: No way.
+DOCTOR: Get to the front. Vent the engines. Sun particles in the fuel, get rid of them.
+MARTHA: I am not leaving you.
+DOCTOR: You've got to give back what they took.
+MARTHA: Doctor!
+DOCTOR: Please go!
+MARTHA: I'll be back for you.
+COMPUTER: Impact in four oh eight.
+McDONNELL: You were right. It was my fault.
+COMPUTER: Impact in three forty three.
+McDONNELL: I didn't know. I really didn't know. Korwin, please stop.
+KORWIN: Everyone must burn!
+McDONNELL: Riley, Scannell.
+McDONNELL : I'm sorry.
+SCANNELL: McDonnell. McDonnell!
+McDONNELL: I love you.
+COMPUTER: Exterior airlock open.
+RILEY: It's the last door. We've got to keep going.
+COMPUTER: Impact in two seventeen. Primary engines critical.
+COMPUTER: Repeat. Primary engines critical. Survival estimate projection zero percent.
+DOCTOR: Martha!
+MARTHA : Doctor! What are you doing?
+DOCTOR: I can't fight it. Give it back or burn with me.
+DOCTOR : Burn with me, Martha.
+COMPUTER: Impact in one twenty one.
+RILEY: Got it!
+COMPUTER: Life support systems reaching critical. Repeat. Life support systems reaching critical. Impact in one oh six.
+COMPUTER: Collision alert. Collision alert.
+RILEY: It's not working. Why's it not working? 
+COMPUTER: Collision alert. Fifty eight seconds to fatal impact.
+MARTHA: Vent the engines. Dump the fuel.
+SCANNELL: What?
+MARTHA: Sun particles in the fuel. Get rid of them. Do it. Now!
+MARTHA: Come on, Doctor. Hold on.
+COMPUTER: Fuel dump in progress. Fuel dump in progress.
+SCANNELL: There! The auxiliaries are firing!
+COMPUTER: Impact averted. Impact averted. Impact averted.
+RILEY: We're clear. We've got just enough reserves.
+MARTHA: Doctor!
+SCANNELL: This is never your ship.
+DOCTOR: Compact, eh? And another good word, robust. Barely a scorch mark on her.
+MARTHA: We can't just leave you drifting with no fuel.
+RILEY: We've sent out an official mayday. The authorities'll pick us up soon enough.
+SCANNELL: Though how we explain what happened
+DOCTOR: Just tell them. That sun needs care and protection just like any other living thing. 
+RILEY: So, er, you're off then. No chance I'll see you again?
+MARTHA: Not really. It was nice, not dying with you. I reckon you'll find someone worth believing in.
+RILEY: I think I already did.
+MARTHA: Well done. Very hot.
+MARTHA: So. Didn't really need you in the end, did we? Sorry. How are you doing?
+DOCTOR: Now, what do you say? Ice skating on the mineral lakes of Kur-ha. Fancy it?
+MARTHA: Whatever you like.
+DOCTOR: By the way, you'll be needing this.
+MARTHA: Really?
+DOCTOR: Frequent flier's privilege. Thank you. 
+MARTHA: Oh, no. Mum.
+FRANCINE: Hello?
+MARTHA: It's me again.
+FRANCINE: Three calls in one day.
+MARTHA: I'm sorry about earlier. Over emotional. Mad day.
+FRANCINE : What are you doing tonight?
+FRANCINE: Why don't you come round? I'll make something nice and we can catch up.
+MARTHA: Yeah. Tonight. Do my best. Er, just remind me. What day is it again?
+FRANCINE : Election day.
+MARTHA: Right. Of course. I'll be round for tea. Roughly.
+FRANCINE: And what about
+MARTHA : Anyway, I've got to go!
+MARTHA: See you later. Love you.
+FRANCINE: That's all?
+DEXTER: For now. Have you voted?
+FRANCINE: Of course. Just don't expect me to tell you who for.
+DEXTER: Thanks for all you're doing, Mrs Jones. Mister Saxon will be very grateful.
