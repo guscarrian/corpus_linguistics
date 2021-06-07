@@ -1,4 +1,4 @@
-Research project: Male/femala interaction in Doctor Who
+Research project: Male/female interaction in Doctor Who
 
 
 <b>Fourth doctor:</b>
